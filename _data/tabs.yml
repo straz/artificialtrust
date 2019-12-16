@@ -1,9 +1,9 @@
 - tab: articles
   name: Articles
-  url: /articles
+  url: /articles.html
 - tab: definitions
   name: Differential dictionary
-  url: /definitions
+  url: /definitions.html
 - tab: about
   name: About
   url: /about
