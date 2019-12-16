@@ -12,7 +12,7 @@
                {% if item.tab == 'admin' %}d-none{% endif %}
                {% if item.tab == 'my_page' %}d-none{% endif %}
                "
-	 href="{{ item.url }}">{{ item.name }}</a>
+	 href="{{ site.url }}{{ item.url }}">{{ item.name }}</a>
     </li>
     {% endfor %}
   </ul>
