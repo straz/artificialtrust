@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<div class="row">
+  <div class="col-8 offset-2">
+    <h1>Artificial Trust</h1>
+    {% for name in site.data.home %}
+    {% assign path = '/articles/' | append: name %}
+    {% assign article = site.articles | where:"url", path |  first %}
+
+    <h4>{{ article.title }}</h4>
+    <p>{{ article.excerpt | remove: '<p>' | remove: '</p>' }}...<a href="{{ article.url }}"><i>read more</i></a></p>
+
+    {% endfor %}
+  </div>
+</div>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="128.25 215 721.5 387" width="721.5" height="387">
+  <defs>
+    <font-face font-family="Gotham Narrow" font-size="24" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="520" cap-height="700" ascent="800.0016" descent="-200.0004" font-weight="300">
+      <font-face-src>
+        <font-face-name name="GothamNarrow-Book"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Gotham Narrow" font-size="24" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="530" cap-height="700" ascent="800.0016" descent="-200.0004" font-weight="500">
+      <font-face-src>
+        <font-face-name name="GothamNarrow-Medium"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2019-12-14 21:50:51 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-dasharray="none" fill="none" stroke="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: shapes -squares">
+      <title>shapes -squares</title>
+      <g id="Graphic_26">
+        <path d="M 509.75 215 L 840.75 215 C 845.7206 215 849.75 219.02944 849.75 224 L 849.75 593 C 849.75 597.97056 845.7206 602 840.75 602 L 509.75 602 C 504.77944 602 500.75 597.97056 500.75 593 L 500.75 224 C 500.75 219.02944 504.77944 215 509.75 215 Z" fill="#edb"/>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 137.25 215 L 468.25 215 C 473.22056 215 477.25 219.02944 477.25 224 L 477.25 593 C 477.25 597.97056 473.22056 602 468.25 602 L 137.25 602 C 132.27944 602 128.25 597.97056 128.25 593 L 128.25 224 C 128.25 219.02944 132.27944 215 137.25 215 Z" fill="#edb"/>
+      </g>
+      <g id="Graphic_31">
+        <path d="M 519 582.6 L 822.5 582.6 C 827.4706 582.6 831.5 578.57056 831.5 573.6 L 831.5 451.00066 C 727.3334 451.00066 571.0831 450.9992 519 451.00066 C 519.0003 451.00066 519 582.6 519 582.6 Z" fill="#eecc8f"/>
+        <text transform="translate(524 502.4)" fill="black">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="black" x="68.858" y="19">Room for doubt</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <path d="M 519 303 L 822.5 303 C 827.4706 303 831.5 307.02944 831.5 312 L 831.5 434.59934 C 727.3334 434.59934 571.0831 434.6008 519 434.59934 C 519.0003 434.59934 519 303 519 303 Z" fill="#eecc8f"/>
+        <text transform="translate(524 354.4)" fill="black">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="black" x="123.218" y="19">Proof</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <path d="M 459 582.6 L 155.5 582.6 C 150.52944 582.6 146.5 578.57056 146.5 573.6 L 146.5 451.00066 C 250.66656 451.00066 406.91688 450.9992 459 451.00066 C 458.9997 451.00066 459 582.6 459 582.6 Z" fill="#eecc8f"/>
+      </g>
+      <g id="Graphic_33">
+        <path d="M 459 303 L 155.5 303 C 150.52944 303 146.5 307.02944 146.5 312 L 146.5 434.59934 C 250.66656 434.59934 406.91688 434.6008 459 434.59934 C 458.9997 434.59934 459 303 459 303 Z" fill="#eecc8f"/>
+        <text transform="translate(151.5 354.4)" fill="black">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="black" x="71.354" y="19">Expert intuition</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <rect x="307.5" y="527.7" width="138.5" height="38.80001" fill="#c48e38"/>
+        <text transform="translate(312.5 532.7)" fill="white">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="white" x="3.17" y="19">substitution</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <rect x="161.4475" y="527.7" width="138.5" height="38.80001" fill="#c58f2d"/>
+        <text transform="translate(166.4475 532.7)" fill="white">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="white" x="43.442" y="19">bias</tspan>
+        </text>
+      </g>
+    </g>
+    <g id="Canvas_1: text">
+      <title>text</title>
+      <g id="Graphic_9">
+        <text transform="translate(636.898 246)" fill="#09210f">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="500" fill="#09210f" x="7673862e-19" y="19">Reason</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <text transform="translate(232.418 480.5)" fill="black">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="black" x="3410605e-19" y="19">Artificial trust</tspan>
+        </text>
+      </g>
+      <g id="Graphic_17">
+        <text transform="translate(258.41 246)" fill="#09210f">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="500" fill="#09210f" x="14921397e-20" y="19">Intuition</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

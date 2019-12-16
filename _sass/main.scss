@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Spectral:200,200i,300,300i,400,400i,500,500i,600,700&display=swap');
+
+body {
+    margin: 2em;
+    font-family: Spectral;
+    font-size: 115%;
+}
+
+.nodotli {
+    list-style: none;
+}
+
+blockquote.blockquote {
+    padding-left: 1.5em;
+    border-left: solid .3em #ddd;
+    margin-bottom: 2em;
+    font-size: 18px;
+}
+
+h1,h2,h3,h4,h5 {
+    color: #444;
+    font-family: Lato;
+}
+
+h1 {
+    margin-bottom: 2em;
+}
+
+nav {
+    font-family: Lato;
+    .navbar-brand {
+      padding-bottom: -8em;
+      border-bottom: solid 3px #060;
+  }
+  .nav-link.active {background-color: #EEE !important;}
+}
+
+footer {
+    .figure-caption { font-size: 80%; }
+}
+
+.article-see-also {
+  h5 {margin-top: 6em;
+        span { border-bottom: solid 3px #060;
+             margin-bottom: .2em;}  
+	 }
+  .fa-ul {margin-left: .5em;}
+  li {margin-top: 1em;}
+
+  a { font-family: Lato;
+      font-size: 80%;}
+}
+
+.articles li, .entries li {
+    list-style: none;
+    border-bottom: solid 1px #fff;
+    margin-bottom: .3em;
+    span:hover {
+	background-color: #F8FFF8;
+	border-bottom: solid 1px #060;
+    }
+    &::before {
+	content: "• ";
+        color: #888;
+        margin-right: 1em;
+    }
+}
+
+input.password, .preview-login {
+   transition: all 2s ease;
+}
+
+input.password.bad, .preview-login.bad {
+  background-color: rgba(200, 155, 10, .4);
+  transition: all 5ms ease;
+}
+

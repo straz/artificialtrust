@@ -1,0 +1,21 @@
+<nav class="navbar navbar-expand-lg mb-5">
+  <ul class="navbar-nav nav-pills">
+    <li class="nav-item">
+      <a class="navbar-brand text-secondary" href="{{ site.url }}">Artificial Trust</a>
+    </li>
+    {% for item in site.data.tabs %}
+
+    <li class="nav-item">
+      <a class="nav-link text-secondary 
+               tab-{{item.tab}}
+               {% if (item.tab == page.tab) or (item.tab == page.collection) %}active{% endif %}
+               {% if item.tab == 'admin' %}d-none{% endif %}
+               {% if item.tab == 'my_page' %}d-none{% endif %}
+               "
+	 href="{{ item.url }}">{{ item.name }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  
+</nav>
+

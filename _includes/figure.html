@@ -1,0 +1,11 @@
+{% assign imgclass = include.imgclass | default: "col-6" %}
+{% assign captionclass = include.captionclass | default: "" %}
+
+ <figure class="figure">
+   <img class="{{ imgclass }} figure-img" src="{{ site.url }}/assets/pix/{{ include.filename }}"/>
+   <figcaption class="figure-caption {{ captionclass }}">
+   {% if include.caption %}{{ include.caption }}<br/>{% endif %}
+   image credit:
+   <a target="figure" alt="{{ include.attribution }}" href="{{ include.link }}">{{ include.attribution }}</a>
+   </figcaption>
+ </figure>

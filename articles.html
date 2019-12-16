@@ -1,0 +1,29 @@
+---
+layout: default
+tab: articles
+---
+
+<h1>Articles</h1>
+
+<div class="articles mt-5">
+  {% assign entries = site.articles | sort: "title" %}
+  {% for entry in entries %}
+    {% if entry.released %}
+    <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+    {% else %}
+    <li>{{ entry.title }}</li>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+<footer class="row m-5">
+  {% include figure.html
+     filename="engine.png"
+     attribution="Summers, The Art of Printing (1871)"
+     imgclass="col-md-6"
+     captionclass="ml-4"
+     link="https://archive.org/stream/artofprinting00summ/artofprinting00summ#page/188/mode/1up" %}
+</footer>
+
+

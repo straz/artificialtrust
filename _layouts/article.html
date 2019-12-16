@@ -1,0 +1,47 @@
+---
+layout: default
+---
+<div class="row">
+  
+  {% if page.defs or page.arts %}
+  <div class="col-2 article-see-also">
+    <h5><span>See also</span></h5>
+
+    {% if page.arts %}
+     <ul class="fa-ul">
+     {% for art in page.arts %}
+      {% assign arturl = '/articles/' | append: art %}
+      {% assign artentry = site.articles | where:"url", arturl  |  first %}
+      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ artentry.url }}">{{ artentry.title }}</a></li>
+     {% endfor %}
+     </ul>
+    {% endif %}
+
+    {% if page.defs %}
+     <ul class="fa-ul">
+     {% for def in page.defs %}
+      {% assign defurl = '/definitions/' | append: def %}
+      {% assign defentry = site.definitions | where:"url", defurl  |  first %}
+      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ defentry.url }}">{{ defentry.title }}</a></li>
+     {% endfor %}
+     </ul>
+    {% endif %}
+
+
+  </div>
+  <div class="col-md-8">
+    {% if page.title %}
+    <h1> {{ page.title }}</h1>
+    {% endif %}
+    {{ content }}
+  </div>
+  {% else %}
+  <div class="col-md-8 offset-md-2">
+    {% if page.title %}
+    <h1> {{ page.title }}</h1>
+    {% endif %}
+    {{ content }}
+  </div>  
+  {% endif %}
+  
+</div>

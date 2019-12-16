@@ -1,0 +1,17 @@
+# Permalinks
+permalink:           p/:title
+
+collections:
+  articles:
+    output: true
+  definitions:
+    output: true
+
+# Setup
+title:               Artificial Trust
+tagline:             On thinking
+url:                 https://artificialtrust.com
+
+
+
+

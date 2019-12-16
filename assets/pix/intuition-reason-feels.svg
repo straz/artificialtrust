@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xl="http://www.w3.org/1999/xlink" viewBox="-36.03711 215 1051.0605 387" width="1051.0605" height="387">
+  <defs>
+    <font-face font-family="Gotham Narrow" font-size="24" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="520" cap-height="700" ascent="800.0016" descent="-200.0004" font-weight="300">
+      <font-face-src>
+        <font-face-name name="GothamNarrow-Book"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Gotham Narrow" font-size="24" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="530" cap-height="700" ascent="800.0016" descent="-200.0004" font-weight="500">
+      <font-face-src>
+        <font-face-name name="GothamNarrow-Medium"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Gill Sans" font-size="24" panose-1="2 11 7 2 2 1 4 9 2 3" units-per-em="1000" underline-position="-75.19531" underline-thickness="49.80469" slope="-333.33333" x-height="451.1719" cap-height="682.1289" ascent="942.8711" descent="-250" font-style="italic" font-weight="600">
+      <font-face-src>
+        <font-face-name name="GillSans-SemiBoldItalic"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledBall_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 8 8" markerWidth="8" markerHeight="8" color="black">
+      <g>
+        <circle cx="2.9999986" cy="0" r="2.99999734868332" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2019-12-14 22:02:37 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_1" stroke-dasharray="none" fill="none" stroke="none" fill-opacity="1" stroke-opacity="1">
+    <title>Canvas 1</title>
+    <g id="Canvas_1: shapes -squares">
+      <title>shapes -squares</title>
+      <g id="Graphic_26">
+        <path d="M 509.75 215 L 840.75 215 C 845.7206 215 849.75 219.02944 849.75 224 L 849.75 593 C 849.75 597.97056 845.7206 602 840.75 602 L 509.75 602 C 504.77944 602 500.75 597.97056 500.75 593 L 500.75 224 C 500.75 219.02944 504.77944 215 509.75 215 Z" fill="#edb"/>
+      </g>
+      <g id="Graphic_27">
+        <path d="M 137.25 215 L 468.25 215 C 473.22056 215 477.25 219.02944 477.25 224 L 477.25 593 C 477.25 597.97056 473.22056 602 468.25 602 L 137.25 602 C 132.27944 602 128.25 597.97056 128.25 593 L 128.25 224 C 128.25 219.02944 132.27944 215 137.25 215 Z" fill="#edb"/>
+      </g>
+      <g id="Graphic_31">
+        <path d="M 519 582.6 L 822.5 582.6 C 827.4706 582.6 831.5 578.57056 831.5 573.6 L 831.5 451.00066 C 727.3334 451.00066 571.0831 450.9992 519 451.00066 C 519.0003 451.00066 519 582.6 519 582.6 Z" fill="#eecc8f"/>
+        <text transform="translate(524 502.4)" fill="black">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="black" x="68.858" y="19">Room for doubt</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <path d="M 519 303 L 822.5 303 C 827.4706 303 831.5 307.02944 831.5 312 L 831.5 434.59934 C 727.3334 434.59934 571.0831 434.6008 519 434.59934 C 519.0003 434.59934 519 303 519 303 Z" fill="#eecc8f"/>
+        <text transform="translate(524 354.4)" fill="black">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="black" x="123.218" y="19">Proof</tspan>
+        </text>
+      </g>
+      <g id="Graphic_32">
+        <path d="M 459 582.6 L 155.5 582.6 C 150.52944 582.6 146.5 578.57056 146.5 573.6 L 146.5 451.00066 C 250.66656 451.00066 406.91688 450.9992 459 451.00066 C 458.9997 451.00066 459 582.6 459 582.6 Z" fill="#eecc8f"/>
+      </g>
+      <g id="Graphic_33">
+        <path d="M 459 303 L 155.5 303 C 150.52944 303 146.5 307.02944 146.5 312 L 146.5 434.59934 C 250.66656 434.59934 406.91688 434.6008 459 434.59934 C 458.9997 434.59934 459 303 459 303 Z" fill="#eecc8f"/>
+        <text transform="translate(151.5 354.4)" fill="black">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="black" x="71.354" y="19">Expert intuition</tspan>
+        </text>
+      </g>
+      <g id="Graphic_37">
+        <rect x="307.5" y="527.7" width="138.5" height="38.80001" fill="#c48e38"/>
+        <text transform="translate(312.5 532.7)" fill="white">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="white" x="3.17" y="19">substitution</tspan>
+        </text>
+      </g>
+      <g id="Graphic_38">
+        <rect x="161.4475" y="527.7" width="138.5" height="38.80001" fill="#c58f2d"/>
+        <text transform="translate(166.4475 532.7)" fill="white">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="white" x="43.442" y="19">bias</tspan>
+        </text>
+      </g>
+      <g id="Graphic_41">
+        <text transform="translate(637.898 247)" fill="#09210f">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="500" fill="#09210f" x="7673862e-19" y="19">Reason</tspan>
+        </text>
+      </g>
+      <g id="Graphic_40">
+        <text transform="translate(233.418 481.5)" fill="black">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="300" fill="black" x="3410605e-19" y="19">Artificial trust</tspan>
+        </text>
+      </g>
+      <g id="Graphic_39">
+        <text transform="translate(259.41 247)" fill="#09210f">
+          <tspan font-family="Gotham Narrow" font-size="24" font-weight="500" fill="#09210f" x="14921397e-20" y="19">Intuition</tspan>
+        </text>
+      </g>
+      <g id="Graphic_42">
+        <text transform="translate(-24.773438 268.5)" fill="black">
+          <tspan font-family="Gill Sans" font-size="24" font-style="italic" font-weight="600" fill="black" x="0" y="23">Feels perfect</tspan>
+          <tspan font-family="Gill Sans" font-size="24" font-style="italic" font-weight="600" fill="black" x="3.1992188" y="52">Mostly right</tspan>
+        </text>
+      </g>
+      <g id="Graphic_44">
+        <text transform="translate(885.5 268.5)" fill="black">
+          <tspan font-family="Gill Sans" font-size="24" font-style="italic" font-weight="600" fill="black" x="0" y="23">Feels perfect</tspan>
+          <tspan font-family="Gill Sans" font-size="24" font-style="italic" font-weight="600" fill="black" x="3.1992188" y="52">Mostly right</tspan>
+        </text>
+      </g>
+      <g id="Graphic_45">
+        <text transform="translate(-31.03711 539)" fill="black">
+          <tspan font-family="Gill Sans" font-size="24" font-style="italic" font-weight="600" fill="black" x="6.263672" y="23">Feels perfect</tspan>
+          <tspan font-family="Gill Sans" font-size="24" font-style="italic" font-weight="600" fill="black" x="0" y="52">Mostly flawed</tspan>
+        </text>
+      </g>
+      <g id="Graphic_46">
+        <text transform="translate(896.5 553.5)" fill="black">
+          <tspan font-family="Gill Sans" font-size="24" font-style="italic" font-weight="600" fill="black" x="0" y="23">Uncertain</tspan>
+        </text>
+      </g>
+      <g id="Line_49">
+        <line x1="31.5" y1="332.5" x2="163.84476" y2="377.4112" marker-end="url(#FilledBall_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_50">
+        <line x1="36.476562" y1="533.5" x2="164.82207" y2="491.5207" marker-end="url(#FilledBall_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_51">
+        <line x1="940" y1="338.5" x2="786.888" y2="367.2985" marker-end="url(#FilledBall_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_52">
+        <line x1="940" y1="538.5" x2="798.4216" y2="516.30664" marker-end="url(#FilledBall_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

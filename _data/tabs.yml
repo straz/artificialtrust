@@ -1,0 +1,9 @@
+- tab: articles
+  name: Articles
+  url: /articles
+- tab: definitions
+  name: Differential dictionary
+  url: /definitions
+- tab: about
+  name: About
+  url: /about
