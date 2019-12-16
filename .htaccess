@@ -1,4 +1,8 @@
-DirectorySlash Off
+RewriteCond %{REQUEST_FILENAME} articles/$
+RewriteRule ^(.*)/$ $1 
+
+RewriteCond %{REQUEST_FILENAME} definitions/$
+RewriteRule ^(.*)/$ $1 
 
 RewriteCond %{REQUEST_FILENAME}.html -f
 RewriteRule !.*\.html$ %{REQUEST_FILENAME}.html [L]
