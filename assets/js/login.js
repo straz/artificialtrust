@@ -15,7 +15,8 @@ function init_login(){
     $('button.preview-login').click(on_login_click);
     $('button.preview-logout').click(on_logout_click);
     let saved = get_cookie(LOGIN_COOKIE);
-    if (saved != SUPER_SECRET){
+    //if (saved != SUPER_SECRET){
+    if (false){
 	// if cookie is invalid yowza
 	if ($('.preview-login').length == 0) {
 	    //  if not on login page, redirect to login page
