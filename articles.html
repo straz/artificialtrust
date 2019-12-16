@@ -9,7 +9,7 @@ tab: articles
   {% assign entries = site.articles | sort: "title" %}
   {% for entry in entries %}
     {% if entry.released %}
-    <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+    <li><a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a></li>
     {% else %}
     <li>{{ entry.title }}</li>
     {% endif %}
