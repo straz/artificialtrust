@@ -12,7 +12,7 @@ layout: default
      {% for art in page.arts %}
       {% assign arturl = '/articles/' | append: art %}
       {% assign artentry = site.articles | where:"url", arturl  |  first %}
-      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ artentry.url }}">{{ artentry.title }}</a></li>
+      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ site.url }}{{ artentry.url }}">{{ artentry.title }}</a></li>
      {% endfor %}
      </ul>
     {% endif %}
@@ -22,7 +22,7 @@ layout: default
      {% for def in page.defs %}
       {% assign defurl = '/definitions/' | append: def %}
       {% assign defentry = site.definitions | where:"url", defurl  |  first %}
-      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ defentry.url }}">{{ defentry.title }}</a></li>
+      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ site.url }}{{ defentry.url }}">{{ defentry.title }}</a></li>
      {% endfor %}
      </ul>
     {% endif %}
