@@ -16,9 +16,9 @@ function init_login(){
     $('button.preview-logout').click(on_logout_click);
     let saved = get_cookie(LOGIN_COOKIE);
     if (saved != SUPER_SECRET){
-	// if cookie is invalid
+	// if cookie is invalid yow
 	if ($('.preview-login').length == 0) {
-	    // if not on login page, redirect to login page
+	    //  if not on login page, redirect to login page
 	    window.location = '{{ site.url }}/login';
 	} else {
 	    $('div.container.content').removeClass('d-none');
