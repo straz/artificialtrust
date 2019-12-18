@@ -4,17 +4,30 @@ title: Assholes and cancer have a lot in common
 released: true
 ---
 
+{% capture left %}
+
 The people who confront cancer &mdash; the doctors, the patients, the
 families and friends of those patients &mdash; I've heard them refer
 to cancer as an "asshole" of a disease. Along with cancer, I include
 autoimmune diseases (like rheumatoid arthritis and lupus) in this
 category.
 
+{% endcapture %}
+{% capture right %}
+
 The people who confront assholes &mdash; people whose lives are hurt
 by those who lie, cheat, and steal &mdash; I've heard them refer to
-those assholes as "a cancer" on society. For now, by "asshole" I'm
-referring to con men, corrupt politicians, and members of organized
-crime.
+those assholes as "a cancer" on society. By "asshole" in this context,
+I'm referring to con men, corrupt politicians, and members of
+organized crime.
+
+{% endcapture %}
+
+{% assign leftmd = left | markdownify %}
+{% assign rightmd = right | markdownify %}
+{% include twocol.html left=leftmd right=rightmd %}
+
+<p class="mb-5"/>
 
 I've come to believe that there's more going on here than just anger
 and hyperbolic wordplay. I think that quite literally, there is a
