@@ -2,6 +2,7 @@
 layout: article
 title: Assholes and cancer have a lot in common
 released: true
+excerpt_separator: <ex>
 ---
 
 {% capture left %}
