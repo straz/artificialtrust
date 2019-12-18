@@ -3,7 +3,9 @@ layout: definition
 title: Training vs. teaching
 category: definition
 released: true
+status: ready
 defs: [cog, semantic]
+arts: [entertainment]
 ---
 
 * Being *trained*: when a mind learns something after experiencing it dozens or hundreds of times.

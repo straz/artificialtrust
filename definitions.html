@@ -3,7 +3,9 @@ layout: default
 tab: definitions
 ---
 
-<h1>A differential dictionary of intelligence</h1>
+<div class="row">
+  <div class="col-md-8 offset-md-2">
+    <h1>A differential dictionary of intelligence</h1>
 
 <p>A <i>normal</i> dictionary defines one word at a time.<br/>
   A <i>differential</i> dictionary defines two contrasting terms at a time.</p>
@@ -14,7 +16,11 @@ Why do it this way? See <a href="{{ site.url }}/articles/difference">Why the dif
   {% assign entries = site.definitions | sort: "title" %}
   {% for entry in entries %}
     {% if entry.released %}
-    <li><a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a></li>
+    <li><a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
+      {% if entry.status == "ready" %}
+      <i class="fa fa-check text-success"></i>
+      {% endif %}
+    </li>
     {% else %}
     <li>{{ entry.title }}</li>
     {% endif %}
@@ -22,12 +28,14 @@ Why do it this way? See <a href="{{ site.url }}/articles/difference">Why the dif
 
 </div>
 
-<footer class="row m-5">
-  {% include figure.html
-     filename="babbage.png"
-     caption="The Difference Engine"
-     attribution="C. Babbage (1864)"
-     imgclass="col-md-6"
-     captionclass="ml-4"
-     link="https://www.google.com/books/edition/_/8rtdVgQNCuwC" %}
-</footer>
+   <footer class="row m-5">
+      {% include figure.html
+        filename="babbage.png"
+        caption="The Difference Engine"
+        attribution="C. Babbage (1864)"
+        imgclass="col-md-6"
+        captionclass="ml-4"
+        link="https://www.google.com/books/edition/_/8rtdVgQNCuwC" %}
+   </footer>
+  </div>
+</div>

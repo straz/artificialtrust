@@ -2,7 +2,9 @@
 layout: article
 title: Remove bias? Not so fast.
 released: true
+status: ready
 defs: ['reason-do-die', 'action', 'brakes']
+sent: ['lessig','colbert']
 ---
 
 Should we try to eliminate bias? Perhaps in the systems we build, and in our own lives?

@@ -3,6 +3,7 @@ layout: definition
 title: Delicious poison vs. disgusting cleanup
 category: definition
 released: true
+status: ready
 excerpt_separator: <ex>
 defs: [soft]
 ---

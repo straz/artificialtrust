@@ -2,6 +2,7 @@
 layout: definition
 title: Correlation vs. causation
 category: definition
+status: ready
 released: true
 ---
 

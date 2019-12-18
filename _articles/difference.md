@@ -7,9 +7,9 @@ released: true
 **Q.** Why does [this dictionary]({{ site.url }}/definitions) define two
 words at a time instead of one?
 
-**A.** Because people are naturally much better at perception of
-contrasts. A contrast conveys meaning more effectively than reading
-definitions.
+**A.** Because contrasts convey meaning more effectively. People are
+naturally much better at perceiving a contrast than reading a
+definition.
 
 In this project, we use differences and contrast to help explain
 ideas.  It's easier to learn an idea if it's contrasted with another

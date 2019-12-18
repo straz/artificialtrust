@@ -3,6 +3,7 @@ layout: definition
 title: Neural nets vs. semantic nets
 category: definition
 released: true
+status: ready
 excerpt_separator: <ex>
 defs: [cog, teach]
 ---

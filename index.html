@@ -10,7 +10,7 @@ layout: default
     {% assign article = site.articles | where:"url", path |  first %}
 
     <h4>{{ article.title }}</h4>
-    <p>{{ article.excerpt | remove: '<p>' | remove: '</p>' }}...<a href="{{ article.url }}"><i>read more</i></a></p>
+    <p>{{ article.excerpt | remove: '<p>' | remove: '</p>' }}...<a href="{{ site.url }}{{ article.url }}"><i>read more</i></a></p>
 
     {% endfor %}
   </div>
