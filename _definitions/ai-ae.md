@@ -3,11 +3,9 @@ layout: definition
 title: Artificial Intelligence vs Artificial Emotion
 category: definition
 released: true
+excerpt_separator: <ex>
 defs: [cog]
 ---
-
-# Artificial Intelligence vs Artificial Emotion
-
 
 {% capture left %}
 

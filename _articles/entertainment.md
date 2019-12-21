@@ -6,13 +6,13 @@ status: ready
 defs: [teach]
 ---
 
-Neural nets crave entertainment. And by entertainment, I'm broadly
+Human minds crave entertainment. And by entertainment, I'm broadly
 including music, art, storytelling, sports, and just plain old playful
 goofing around.
 
-To a neural net, being entertained is not just idle time wasted. It
-has a very serious and crucial purpose, one that evolution has
-selected strongly, at least in people.
+For minds with neural nets in them, being entertained is not just idle
+time wasted. It has a very serious and crucial purpose, one that
+evolution has selected strongly, at least in people.
 
 Entertainment is how you train a neural net. When we like
 entertainment, it's because our neural nets crave training and seek

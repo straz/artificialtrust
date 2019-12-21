@@ -19,6 +19,8 @@ Why do it this way? See <a href="{{ site.url }}/articles/difference">Why the dif
     <li><a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
       {% if entry.status == "ready" %}
       <i class="fa fa-check text-success"></i>
+      {% else %}
+      <span class="draft-tag">draft</span>
       {% endif %}
     </li>
     {% else %}

@@ -2,6 +2,7 @@
 layout: default
 tab: articles
 ---
+
 <div class="row">
   <div class="col-md-8 offset-md-2">
     <h1>Articles</h1>
@@ -13,6 +14,8 @@ tab: articles
     <li><a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
       {% if entry.status == "ready" %}
       <i class="fa fa-check text-success"></i>
+      {% else %}
+      <span class="draft-tag">draft</span>
       {% endif %}
     </li>
     {% else %}

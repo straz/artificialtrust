@@ -2,6 +2,7 @@
 layout: article
 title: Neural Net AI's kryptonite
 released: true
+arts: [errors]
 ---
 
 Darwinian adaptation work great for a species, as long as the
@@ -20,12 +21,14 @@ intelligent) adversary who is messing with your inputs.
 
 Neural nets will fail spectacularly on inputs they were not trained
 on. This should surprise nobody: the whole point of training is to
-adapt as well as possible to the training set. A neural net trained on
-recognizing the Latin alphabet will simply fail to recognize another
-alphabet, like Greek or Cyrillic. Statistical measures of accuracy and
-high performance go out the window along with the change in inputs and
-environment. More training can occur, and eventually they may even
-catch up, if the external changes ever slow down enough to allow it.
+adapt as well as possible to the training set.
+
+For example, a neural net trained on recognizing the Latin alphabet
+will simply fail to recognize another alphabet, like Greek or
+Cyrillic. Statistical measures of accuracy and high performance go out
+the window along with the change in inputs and environment. More
+training can occur, and eventually they may even catch up, if the
+external changes ever slow down enough to allow it.
 
 Under Darwinism, the selective pressure from an adversary is baked into the
 environment. Rabbits are adapted to environments with hawks in them. No doubt
