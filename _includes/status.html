@@ -1,0 +1,24 @@
+{% if include.status == 'ready' %}
+{% assign percent = 100 %}
+{% assign bg_color = "bg-success" %}
+
+{% elsif include.status == "draft" %}
+{% assign percent = 75 %}
+{% assign bg_color = "bg-indigo" %}
+
+{% else %}
+{% assign percent = 20 %}
+{% assign bg_color = "bg-indigo" %}
+{% endif %}
+
+<div class="outer-progress ml-2">
+  <div class="progress">
+    <div class="progress-bar {{ bg_color }}" role="progressbar"
+       style="width: {{ percent }}%" aria-valuenow="{{ percent }}"
+       aria-valuemin="0" aria-valuemax="100">
+    {{ include.status }} 
+    </div>
+  </div>
+</div>
+
+

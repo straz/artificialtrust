@@ -1,0 +1,21 @@
+{% comment %}
+Gathers the "see also" links for a page.
+{% endcomment %}
+
+{% assign articles = "" | split: ',' %}
+{% for tag in page.arts %}
+  {% assign url = '/articles/' | append: tag %}
+  {% assign article = site.articles | where:"url", url  |  first %}
+  {% if site.show_draft == true or article.status == 'ready' %}
+    {% assign articles = articles | push: article %}
+  {% endif %}
+{% endfor %}
+
+{% assign definitions = "" | split: ',' %}
+{% for tag in page.defs %}
+  {% assign url = '/definitions/' | append: tag %}
+  {% assign definition = site.definitions | where:"url", url  |  first %}
+  {% if site.show_draft == true or definition.status == 'ready' %}
+    {% assign definitions = definitions | push: definition %}
+  {% endif %}
+{% endfor %}
