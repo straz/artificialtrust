@@ -10,9 +10,7 @@ collections:
 # Setup
 title:               Artificial Trust
 tagline:             On thinking
-url:                 https://zelaza.pair.com/straz/org/at
-
-
-
-
-
+url:                 https://artificialtrust.com
+secure:              true
+password:            norbert
+show_draft:	     false
