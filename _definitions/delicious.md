@@ -10,11 +10,21 @@ defs: [soft]
 
 ### When reason > emotion
 
-When reason and emotion are in conflict, and reason wins out, reason's
-role is to overcome one's innate emotional bias. It's likely one of
-two possible situations:
+Sometimes you do the wrong thing even though it feels good.
+It's a recognition failure &mdash; a kind of false positive.
 
-<p class="mb-5"/>
+When deciding what to do, there are two kinds of false positives:
+doing something you shouldn't, and failing to do something you
+should. We call these two false positives *delicious poison* and
+*disgusting cleanup*.
+
+When this happens, your emotional bias leads you to make a poor
+choice.  Your reason may or may not warn you that it's a poor choice,
+and you may ignore reason anyway because it feels good.  Reason's role
+is to overcome one's innate emotional bias and give one last chance to
+avoid making a mistake.
+
+
 
 {% capture left %}
 
@@ -22,9 +32,12 @@ two possible situations:
 
 A *delicious poison* is something we find really attractive, even when logic tells us it's bad for us.
 
-We say we give into the temptation of delicious poison in moments of weakness.
+Our emotion says "yes," while our reason says "no."
 
-Sometimes this is moral weakness, and we express disappointment in or loss of respect for people who do this.
+We say: "we give in to temptation in moments of weakness."
+
+Sometimes this is moral weakness, and we express disappointment in
+&mdash; or loss of respect for &mdash; people who do this.
 
 While we disapprove, we can all relate to behaving this way ourselves.
 
@@ -34,11 +47,15 @@ While we disapprove, we can all relate to behaving this way ourselves.
 
 ### Disgusting cleanup
 
-A *disgusting cleanup* is something we really don't want to do, even when logic tells us it's something we need to do.
+A *disgusting cleanup* is something we really don't want to do, even when logic tells us it's
+absolutely necessary.
 
-We say we do what needs to be done in moments of strength.
+Our emotion says "no," while our reason says "yes."
 
-Sometimes this is moral strength, and we express admiration for, and increased respect for people who do this.
+We say: "we do what needs to be done in moments of strength."
+
+Sometimes this is moral strength, and we express admiration for &mdash; and increased
+respect for &mdash; people who do this.
 
 While we express admiration, we can understand reluctance to behave this way ourselves.
 
@@ -48,4 +65,4 @@ While we express admiration, we can understand reluctance to behave this way our
 {% assign rightmd = right | markdownify %}
 {% include twocol.html left=leftmd right=rightmd %}
 
-When emotion wins out over reason: [Softer now vs. harder now](soft)
+When emotion wins out over reason: see [Softer now vs. harder now](soft)

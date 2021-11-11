@@ -2,6 +2,7 @@
 layout: definition
 title: Softer now vs. harder now
 category: definition
+status: ready
 released: true
 excerpt_separator: <ex>
 defs: [delicious]
@@ -9,29 +10,40 @@ defs: [delicious]
 
 ### When emotion > reason
 
-When reason and emotion are in conflict, and emotion wins out,
-emotion's role is to bias the outcome either softer or harder than a
-calculated outcome would indicate.  It's likely one of these two
-possible situations:
+When reason and emotion are in conflict, emotion's role is to bias the
+outcome either softer or harder than what you'd conclude using reason.
 
-<p class="mb-5"/>
+Emotion removes hesitation. For an expert, emotion captures the
+accumulated wisdom of past experience. For the inexperienced, emotion
+provides the confidence necessary for action even if the confidence is
+entirely unjustified.  In both cases, the action is swift regardless
+of whether the decision is wise or unwise.
+
+Emotions can only seem wiser in the short run, or *now*.  Emotions do
+not help anyone understand or anticipate the future. Only reason can
+do this.  The long term effects of any decision could be the opposite
+of the short term effects. This is how you get unintended
+consequences.
+
+
+
+When emotion modifies reason, it's likely one of these two possible
+situations:
 
 {% capture left %}
 
 ### Softer now
 
-*Softer now* is the path of compassion and forgiveness. By following
-the rules logically, one might conclude that harsh punishment is
-appropriate, but an emotional state can soften this decision.
+Something bad happens, and a response is needed. Applying only logic
+and rules, the response would be "by the book," but *softer now* is
+the path of compassion and forgiveness. By adding emotion, one can
+soften the decision.
 
 In the moment, going easy on someone and bending the rules in their favor
-may seem like a wiser choice. The emotion can only seem wiser in the short run, or *now*.
+may seem like a wiser choice. 
 
-The future consequences of a *soft now* could be good (gentleness now
+The future consequences of a *soft now* could be either good (gentleness now
 leads to future benefits) or bad (gentleness now leads to bigger problems later on).
-Emotions do not help anyone understand or anticipate the future.
-
-
 
 {% endcapture %}
 
@@ -39,6 +51,17 @@ Emotions do not help anyone understand or anticipate the future.
 
 ### Harder now
 
+Something bad happens, and a response is needed. Applying only logic
+and rules, the response would be "by the book," but *harder now* is
+the path of anger or fear. By adding emotion, one can intensify the
+decision.
+
+In the moment, responding harshly and "teaching them a lesson" may
+seem like a wiser choice. 
+
+The future consequences of a *harder now* could be either good (better safe
+than sorry) or bad (overreaction now leads to bigger problems later
+on). 
 
 
 {% endcapture %}
@@ -47,4 +70,19 @@ Emotions do not help anyone understand or anticipate the future.
 {% assign rightmd = right | markdownify %}
 {% include twocol.html left=leftmd right=rightmd %}
 
-When reason wins out over emotion:  [Delicious poison vs disgusting cleanup](delicious) 
+<p class="mt-3"/>
+
+Is bending the rules is a smart or dumb idea? An accurate prediction
+can only come from expertise.
+
+Emotion with inexperience is no better than random chance, just more intense.
+
+Emotion with expertise gives an answer based on directly relevant past
+experience. It tells you what has always worked for you in the past,
+assuming conditions stay the same.
+
+But it tells you nothing about what will work in the future if
+conditions change. For that, you need reason.  Expertise with logic is
+the only way to get an answer for a unique or new situation.
+
+When reason wins out over emotion: see  [Delicious poison vs disgusting cleanup](delicious) 

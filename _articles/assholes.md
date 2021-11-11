@@ -5,6 +5,8 @@ released: true
 excerpt_separator: <ex>
 ---
 
+Recognition diseases
+
 {% capture left %}
 
 The people who confront cancer &mdash; the doctors, the patients, the

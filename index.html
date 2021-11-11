@@ -2,15 +2,43 @@
 layout: default
 ---
 
+<style>
+  h4 a { color: #777; }
+
+  h4 a:hover {
+      color: rebeccapurple;
+      text-decoration: none;
+    }
+  
+</style>
+
 <div class="row">
   <div class="col-md-8 offset-md-2">
     <h1>Artificial Trust</h1>
+
+    <h2>About this site</h2>
+      <p>
+      <i>Artificial trust</i>: the information diseases that affect machines,
+      living things, and societies.
+
+      In these essays, I attempt to explain how diseases can affect information
+      in much the same way as organisms. As our natural intelligence has become
+      augmented by artificial intelligence, we now see the rise of these new kinds
+      of diseases that affect how we process and trust information that we
+      rely on to survive.
+      
+      </p>
+      <p><i>Artificial Trust</i> is a collection of related essays, offering
+	a framework for understanding complex systems. It's an attempt to
+	explain failure in the things we trust. ...<A HREF="about"><i>read more</i></A></p>
+
+    <h2 class="mt-5">Selected essays</h2>
     {% for name in site.data.home %}
     {% assign path = '/articles/' | append: name %}
     {% assign article = site.articles | where:"url", path |  first %}
 
-    <h4>{{ article.title }}</h4>
-    <p>{{ article.excerpt | remove: '<p>' | remove: '</p>' }}...<a href="{{ site.url }}{{ article.url }}"><i>read more</i></a></p>
+    <h4 class="mt-4"><A href="{{ article.url | relative_url }}">{{ article.title }}</A></h4>
+    <p>{{ article.excerpt | remove: '<p>' | remove: '</p>' }}...<a href="{{ article.url | relative_url }}"><i>read more</i></a></p>
 
     {% endfor %}
   </div>

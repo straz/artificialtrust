@@ -2,25 +2,54 @@
 layout: article
 title: Cyber means government
 released: true
+status: ready
 defs: [brakes]
 excerpt: "The idea of government is the idea of imposing control over something. \
-The Greeks used the same word (cybernetics) to describe both steering a ship and \
+The Greeks used the same word, *cybernetics*, to describe both steering a ship and \
 governing a society."
 ---
 
-#### Not too fast, not too slow... just right
+We use the term *cyber* broadly to mean anything involving computers.
+
+Where does the word *cyber* come from? Before it meant *tech*, it came
+from an even bigger idea, one that dates back to the ancient Greeks.
+
+<style>
+h3 { margin-top: 2em;
+     margin-bottom: 1em;
+   }
+</style>
+
+
+### Steering to safety
 
 The idea of government is the idea of imposing control over
-something. The Greeks used the same word (cybernetics) to describe
-both steering a ship and governing a society.
+something. The Greeks used the same word, *cybernetics*, to describe
+two closely related ideas. It meant both "steering a ship" and
+"governing a society."
 
 {% include blockquote.html
-   quote="Cybernetics (the governor) saves the souls, bodies, and material possessions from the gravest dangers" 
-   attribution="Socrates, via Plato, via"
-   title="K. Kelly: Out of Control"
-   link="https://books.google.com/books?id=mRMXze_LcO0C&pg=PT141&lpg=PT141&dq=Cybernetics"
+   quote="Cybernetics was also used in ancient Greece to denote a governor of
+   a country. Plato attributes Socrates as saying, \"Cybernetics saves the souls, 
+   bodies, and material possessions from the gravest dangers.\""
+   attribution="Kevin Kelly, in"
+   title="Out of Control"
+   link="https://www.google.com/books/edition/_/mRMXze_LcO0C?hl=en&gbpv=1&bsq=Cybernetics%20saves"
+   old_link="https://books.google.com/books?id=mRMXze_LcO0C&pg=PT141&lpg=PT141&dq=Cybernetics"
 %}
 
+{% include blockquote.html
+   quote="SOCRATES: Or again, in a ship, if a man having the power to do what he likes, 
+   has no intelligence or skill in navigation [κυβερνητικης : <i>kybernitikis</i>], 
+   do you see what will happen to him and to his fellow-sailors?<br/>
+
+   ALCIBIADES: Yes; I see that they will all perish."
+   attribution='Plato, in'
+   title="Alcibiades I"
+   link="https://www.gutenberg.org/files/1676/1676-h/1676-h.htm"
+%}
+
+### Not too fast, not too slow... just right
 The inventor of the steam engine, James Watt, also invented the
 *governor*, which used feedback to keep the engines spinning at a
 constant speed. When the balls spin too fast, the throttle is closed
@@ -29,20 +58,23 @@ restore full speed.
 
 
   {% include figure.html
-     filename="governor.jpg"
+     filename="governor.png"
      attribution="J. Watt (1788)"
      imgclass="col-md-6"
      captionclass="ml-4"
      link="https://archive.org/stream/artofprinting00summ/artofprinting00summ#page/188/mode/1up" %}
 
 
+### The original *cyber* meme
 In Homer's *Odyssey*, Odysseus had to steer his ship between the
 monster of certain death Scylla, and the whirlpool of certain death
-Charybdis.  In 1793, with fresh revolutions in America and France, the
-ancient Greek story was the original cyber-meme, often referenced in
-political imagery and speech. In this one, the Prime Minister steers
-the ship Constitution between mob anarchy and tyranny toward "public
-happiness".
+Charybdis.
+
+The ancient Greek story was the original *cyber* meme, often
+referenced in political imagery and speech. In 1793, with fresh
+revolutions in America and France, this political cartoon shows the
+Prime Minister steering the ship Constitution between mob anarchy and
+tyranny, toward "public happiness".
 
 {% include figure.html
     filename="GillrayBritannia.jpg"
@@ -51,14 +83,14 @@ happiness".
 	attribution="James Gillray (1793)"
 	link="https://en.wikipedia.org/wiki/Between_Scylla_and_Charybdis" %}
 
+### The art of governing
 The word *cybernetics* shows up again to refer to the political act of
 governing, referenced by the French philosopher and scientist
 Amp&egrave;re.
 
-
 {% capture quote %}
 The future science of government I call *Cybernétique*, from the word κυβερνετικὴ, 
-taken from the Greek word for the art of steering (<i>gouverner</i>) a ship, to more broadly
+taken from the Greek word for the art of steering [<i>gouverner</i>] a ship, to more broadly
 mean the art of governing in general.
 {% endcapture %}
 {% assign quotemd = quote | markdownify %}
@@ -67,7 +99,8 @@ mean the art of governing in general.
    link="http://www.ampere.cnrs.fr/ice-manuscrits/pdf/essai_philo_2.pdf"
 %}
 
-During WWII, Norbert Weiner used a $2,325 government grant to build an
+### Control and communications: man and machine cannot be separated
+During WWII, Norbert Weiner used a $2,325 government grant to build the
 "AA predictor," a device that guided anti-aircraft guns to shoot down
 zig-zagging enemy planes at all kinds of altitudes, speeds, and in all
 kinds of weather. Knowing that individual pilots behaved differently
@@ -102,57 +135,4 @@ We wish to recognize that... *governor* is derived from a Latin corruption of κ
 {% include blockquote.html quote=quotemd attribution="Norbert Weiner (1948)"  title="Cybernetics"
    link="https://archive.org/details/CyberneticsOrCommunicationAndControlInTheAnimalAndTheMachineNorbertWiener"
  %}
-
-
-
-
-https://jurlandia.org/cybsoc/
-
-https://ebooks.adelaide.edu.au/p/plato/p71al/complete.html
-
-
-We use the term *cyber* broadly to mean anything computer-y, anything on the net. We use
-*cybersecurity* to refer to protection from computer-based crime.
-
-where does cyber come from
-
-
-κυβερνητικόςχ
-
-
-
-
-
-
-[Cybernetics]()
-
-1. It comes from the Greek word κυβερνητικός meaning "skilled in steering or governing".
-
-Piloting, steering
-2. The obstacle course and the Constitution
-  Steering between anarchy and despotism
-It became a metaphor for the constitution - what to do after the American and French revolutions?
-Scylla &amp; Charybdis was a meme, a big one.
-
-3. Norbert Weiner coined *cybernetics* in 1947
-
-
-
-
-1788 - flyball
-https://www.researchgate.net/figure/Watts-centrifigual-governor-for-a-steam-engine-Source-Reproduced-from-J-Farey-A_fig2_322930057
-
-By itself, a steam engine will speed up and slow down unexpectedly,
-based on how much steam it's generating. James Watt, the inventor of
-the steam engine, invented the gadget (called a governor) to make sure
-that doesn't happen.  The governor makes sure the shaft spins
-constantly at whatever speed you set it for, without surprises.
-
-If you've ever seen a steam engine, perhaps in a movie, you may have
-seen this thing with spinny balls on the top.  The faster it spins,
-the further apart the balls (E) fly.  This makes (F) move lower, which
-pushes a lever which slows down the spinner back to the proper
-speed. Likewise, if the shaft spins too slowly, the lever goes the
-other way and makes it spin faster.
-
 

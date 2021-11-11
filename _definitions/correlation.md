@@ -8,11 +8,16 @@ released: true
 
 In justice and in science, we use *correlation* to suggest, but *causation* to prove.
 
-If someone is suspected of a crime, we don't say "he *resembles* most of the other
-criminals, therefore he's guilty". Correlation is not adequate, we have to show
-evidence that one committed the crime.
+If someone is suspected of a crime, a fair court wouldn't say "he
+*resembles* most of the other criminals, therefore he's guilty."
+Correlation is not adequate, we have to show evidence that one has
+committed the crime.
 
-A neural net does not deal with causation, it works purely on correlation.
+A neural net ignores causation, it works purely on correlation. A
+neural net does not know whether A causes B nor does it care, it only
+knows whether seeing A raises expectations of seeing B. This is very
+good for getting quick answers, but not always good for getting
+correct answers.
 
 {% capture left %}
 
@@ -20,10 +25,12 @@ A neural net does not deal with causation, it works purely on correlation.
 
 Correlation is when you tend to observe two things together.
 
+It might be a correlation if global soybean sales tend to go up
+whenever the Red Sox are beating the Yankees, but that doesn't mean
+that one causes the other.
+
 Neural net AIs work on the principal of correlation: in reinforcement learning
 the classification (output) is correlated with certain kinds of inputs.
-
-
 
 {% endcapture %}
 
@@ -32,8 +39,11 @@ the classification (output) is correlated with certain kinds of inputs.
 ### Causation
 
 Causation is when you understand *why* something happens. To say that
-*A causes B* is to have a model that explains the reason for *B*. This
-is not something neural net AIs attempt to address.
+*A causes B* is to have a model that explains the reason for *B*. 
+
+Neural net AIs ignore causation. They don't use causal explanations,
+and they don't produce them.
+
 
 
 
@@ -43,8 +53,8 @@ is not something neural net AIs attempt to address.
 {% assign rightmd = right | markdownify %}
 {% include twocol.html left=leftmd right=rightmd %}
 
-
 {% capture left %}
+<hr/>
 *Example:
 We know that the presence of beta-amyloid plaques are correlated with
 neural degeneration found in Alzheimer's disease. What we **don't** know
@@ -54,6 +64,7 @@ formation of these plaques cause the disease.*
 {% endcapture %}
 
 {% capture right %}
+<hr/>
 *Example:
 Scurvy has been killing people painfully since ancient times, and the
 cure (eating citrus fruit) has been learned and forgotten many times
@@ -65,4 +76,4 @@ the diet.*
 
 {% assign leftmd = left | markdownify %}
 {% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false %}

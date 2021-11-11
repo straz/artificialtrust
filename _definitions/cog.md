@@ -3,13 +3,21 @@ layout: definition
 title: Recognition vs. cognition
 category: definition
 released: true
-excerpt_separator: <ex>
+status: ready
 defs: [teach]
+arts: [questions]
 ---
+
+<style>
+li { margin-bottom: .6em;}
+</style>
 
 {% capture left %}
 
 ### Recognition
+
+Neural net AIs are very good at recognizing and classifying, but they
+cannot perform general cognition.
 
 Recognition means classifying inputs into groups. The input can be
 images, forms (a form filled out by someone applying for a job or a
@@ -22,10 +30,8 @@ Applications include:
 * *sales prediction* - Recognizing when a customer is likely to buy a product
 * *stock trading* - Recognizing when it's time to buy or sell a stock
 * *handwriting recognition* - Turning handwritten letters into text
+* *steering and braking* - Recognizing when to change the direction or speed of an autonomous vehicle
 * *translation* - Translating a phrase from one language into another
-
-Neural net AIs perform this classification very well, but they don't
-perform general cognition.
 
 
 {% endcapture %}
@@ -34,27 +40,37 @@ perform general cognition.
 
 ### Cognition
 
-Intelligence covers a broad range of cognition, including
+AIs can perform cognitive tasks, they just don't use neural nets to do
+so.  Cognition is beyond the reach of neural net AIs - this requires
+use of [semantic nets](semantic).
 
-*  *Teaching/being taught* means you can add directly add an individual facts by hearing or reading one.
+Human-like intelligence covers a broad range of cognitive skills that
+go beyond recognition and classification. Some examples; this is only
+a very small partial list:
+
+*  *Being taught* means you can directly add an individual fact to
+   your knowledge after hearing it only once.
 *  *Reasoning* means you can combine facts to discover new facts without direct observation.
+ * *Reflection and introspection* means you can reason about your experiences and learn from them.
 *  *Using analogies* make it possible to reason about one situation by selectively
 using knowledge from another.
+ * *Storytelling* means you can share a rich mental model with another intelligent being. This is done
+ by unwrapping it into a linear stream of words, which the listener reassembles in their mind.
+*  *Asking questions* means you can recognize a gap in your own knowledge and seek to remedy it.
 *  *Criticism* makes it possible to identify a specific flaw in your knowledge.
 *  *Correction* makes it possible to fix flaws in your knowledge if you can find them.
 *  *Attribution* makes it possible to remember different sources for your knowledge, so you
- can see how it holds up in practice and adjust what you know accordingly.
+ can see how they hold up in practice and adjust what you know accordingly.
  *  *Proof* makes it possible to rely on knowledge with high confidence.
  * *Managing counterfactuals* makes it possible to imagine things that
  you're not observing at the moment. This in turn makes it possible to *have an
  imagination*, *recall the past*, *make plans for the future*, *compare alternatives*, or
  *test hypotheses*
+ * *Generate counterexamples* makes it possible to validate your recognizer by
+ testing it. 
+ * *Abstraction* means you can generalize specific ideas into abstract ideas which capture their essential truth.
 
- * *Abstraction* (deep layers, maybe)
- * *Reflection* and introspection
 
-
-Apart from recognition, all these forms of cognition are beyond the reach of Neural net AIs.
 
 {% endcapture %}
 

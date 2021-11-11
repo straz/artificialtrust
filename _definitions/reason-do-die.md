@@ -3,20 +3,33 @@ layout: definition
 title: Do or die vs. reason why
 category: definition
 released: true
-defs: [brakes]
-excerpt_separator: <ex>
+status: ready
+defs: [delicious]
 ---
+
+We have two kinds of intelligence, which Nobel laureate Daniel
+Kahneman[^1] refers to as System 1 and System 2. 
+
+More informally, I like to refer to them as *do or die* and *reason why.*
+
+[^1]: Kahneman (2011). [*Thinking Fast And Slow*](https://www.amazon.com/dp/0374533555/). Farrar, Straus and Giroux.
 
 {% capture left %}
 
 ### Do or die
-“Do or die” responses are knee-jerk survival reflexes, epitomized by neural nets.
+"Do or die" responses are knee-jerk survival reflexes, epitomized by neural nets,
+or what Kahneman calls System 1.
 
-<a href="{{ site.url }}/assets/pix/follow-ant.svg">
+They're always fast. They make decisions in real time, where speed is needed for survival.
+
+Knee-jerk responses are not always correct. They're easily fooled by 
+tricks like [delicious poison](delicious). 
+
+**Trust**: Trust is how we follow others in our tribe. Once we trust another
+member of the tribe, we follow them quickly, without hesitation or
+thinking.
+
 <img src="{{ site.url }}/assets/pix/follow-ant.svg"/>
-</a>
-
-This is the ant story
 
 {% endcapture %}
 
@@ -24,18 +37,32 @@ This is the ant story
 
 ### Reason why
 
-“Reason why” intelligence is not a replacement for *bias*, it’s an
-extension. In the course of reasoning, you reclassify a few labels:
-with reason, you can deduce that some seeming friends are actually
-enemies, and some seeming food is actually poison. But at the end of
-the day, “reason why” intelligence is overhead, and is utterly
-inadequate for daily survival.
+"Reason why" intelligence is the capacity for slow thinking, or what
+Kahneman calls System 2.
 
-Reasoning is very slow and very, very expensive. We don’t have the
-capacity to do much of it, and it’s exhausting. Real-time execution
-still relies on the biases (the labels) we create.
+Reasoning is slow and expensive. We don’t have the capacity to do
+much of it, because it’s exhausting.
+
+Careful reasoning is not always perfect, but it can catch mistakes
+made by fast thinking.
+
+**Trust**: Reason takes time and effort to produce conclusions. Those
+conclusions can then be trusted and followed quickly, just like
+trusted members of the tribe.
+
+
+<img style="width: 40em" src="{{ "/assets/pix/aristotle.svg" | relative-url }}">
 
 {% endcapture %}
+
+<style>
+#fnref\:2 { display: none}
+</style>
+
+[^2]
+
+[^2]: *image credit:* Plato and Aristotle in <i>Causarum Cognitio</i> (Knowledge of the Causes), <br/>by Raphael, c.1510.
+
 
 {% assign leftmd = left | markdownify %}
 {% assign rightmd = right | markdownify %}
