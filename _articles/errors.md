@@ -2,10 +2,9 @@
 layout: article
 title: Who learns from a fatal mistake?
 released: true
-status: ready
+status: draft
 defs: [semantic, sponsors]
 arts: [cyber, kryptonite]
-sent: ['lessig','colbert']
 ---
 
 Neural nets work on a fairly straightforward principal of applied
