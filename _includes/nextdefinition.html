@@ -1,0 +1,30 @@
+{% assign entries = site.definitions | sort: "title" | where: "released", "true" %}
+{% assign previous = entries.last %}
+{% assign next = entries[1] %}
+
+{% assign i = 0 %}
+
+{% for entry in entries %}
+  {% if entry.title == page.title %}
+    {% break %}
+  {% else %}
+    {% if page.title == entries.last.title %}
+       {% assign next = entries.first %}
+    {% else %}
+       {% assign next_i = i | plus: 2 %}
+       {% assign next = entries[next_i] %}
+    {% endif %}
+    {% assign previous = entries[i] %}
+    {% assign i = i | plus: 1 %}
+  {% endif %}
+{% endfor %}
+
+
+
+<div class="d-flex justify-content-around">
+  <a title="{{ previous.title }}" href="{{ previous.url | relative_url }}"
+     class="btn btn-link mr-5"><i class="fa fa-angle-left"></i> Previous</a>
+  <a title="{{ next.title }}" href="{{ next.url | relative_url}}"
+     class="btn btn-link">Next <i class="fa fa-angle-right"></i></a>
+</div>
+
