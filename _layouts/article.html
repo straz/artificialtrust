@@ -2,47 +2,47 @@
 layout: default
 ---
 {% include draft.html %}
+{% include see_also.html %}
 
+<div class="article">
 <div class="row">
-  
-  {% if page.defs or page.arts %}
-  <div class="col-md-2 article-see-also">
-    <h5><span>See also</span></h5>
 
-    {% if page.arts %}
-     <ul class="fa-ul">
-     {% for art in page.arts %}
-      {% assign arturl = '/articles/' | append: art %}
-      {% assign artentry = site.articles | where:"url", arturl  |  first %}
-      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ site.url }}{{ artentry.url }}">{{ artentry.title }}</a></li>
-     {% endfor %}
-     </ul>
-    {% endif %}
-
-    {% if page.defs %}
-     <ul class="fa-ul">
-     {% for def in page.defs %}
-      {% assign defurl = '/definitions/' | append: def %}
-      {% assign defentry = site.definitions | where:"url", defurl  |  first %}
-      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ site.url }}{{ defentry.url }}">{{ defentry.title }}</a></li>
-     {% endfor %}
-     </ul>
-    {% endif %}
-
-  </div>
-  <div class="col-md-8">
-    {% if page.title %}
-    <h1> {{ page.title }}</h1>
-    {% endif %}
-    {{ content }}
-  </div>
-  {% else %}
-  <div class="col-md-8 offset-md-2">
+  <div class="col-md-8 offset-md-1">
     {% if page.title %}
     <h1> {{ page.title }}</h1>
     {% endif %}
     {{ content }}
   </div>  
+
+  {% if definitions.size > 0 or articles.size > 0 %}
+  <div class="col-md-2 offset-md-1 article-see-also">
+    <h5><span>See also</span></h5>
+
+    <ul class="fa-ul">
+      {% for art in articles %}
+      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ art.url | relative_url }}">{{ art.title }}</a>
+	{% if site.show_draft == true %}
+	<div style="width:3em">{% include status.html status=art.status %}</div>
+	{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+
+    <ul class="fa-ul">
+      {% for def in definitions %}
+      <li><i class="fa-li fa fa-angle-right"></i><a href="{{ def.url | relative_url}}">{{ def.title }}</a>
+	{% if site.show_draft == true %}
+	<div style="width:3em">{% include status.html status=def.status %}</div>
+	{% endif %}
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
   {% endif %}
-  
+
 </div>
+</div>
+
+<footer class="d-none d-print-block mt-5">
+  Page saved on {{ "now" | date: "%Y-%m-%d" }}
+</footer>

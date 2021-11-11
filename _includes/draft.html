@@ -1,4 +1,6 @@
-{% if page.status != 'ready' %}
+{% if page.status == 'draft' %}
   <h2 class="ribbon">draft</h2>
+{% elsif page.status != 'ready' %}
+  <h2 class="ribbon small">in progress</h2>
 {% endif %}
     

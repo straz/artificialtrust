@@ -1,11 +1,19 @@
 {% assign imgclass = include.imgclass | default: "col-6" %}
 {% assign captionclass = include.captionclass | default: "" %}
 
- <figure class="figure">
-   <img class="{{ imgclass }} figure-img" src="{{ site.url }}/assets/pix/{{ include.filename }}"/>
-   <figcaption class="figure-caption {{ captionclass }}">
-   {% if include.caption %}{{ include.caption }}<br/>{% endif %}
-   image credit:
-   <a target="figure" alt="{{ include.attribution }}" href="{{ include.link }}">{{ include.attribution }}</a>
-   </figcaption>
- </figure>
+<figure class="figure">
+  {% if include.clickable != "false" %}
+  <!-- <a href="{{ site.url }}/assets/pix/{{ include.filename }}"> -->
+  <a href="{{  include.filename | prepend:"/assets/pix/" | relative-url }}">
+  {% endif %}
+  <img class="{{ imgclass }} figure-img"
+       src="{{  include.filename | prepend:"/assets/pix/" | relative-url }}">
+  {% if include.clickable != "false" %}
+  </a>
+  {% endif %}  
+  <figcaption class="figure-caption {{ captionclass }}">
+    {% if include.caption %}{{ include.caption }}<br/>{% endif %}
+    image:
+    <a target="figure" alt="{{ include.attribution }}" href="{{ include.link }}">{{ include.attribution }}</a>
+  </figcaption>
+</figure>
