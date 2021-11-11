@@ -3,7 +3,7 @@ layout: article
 title: Remove bias? Not so fast.
 released: true
 status: ready
-defs: ['reason-do-die', 'action', 'brakes']
+defs: ['reason-do-die', 'action', 'brakes', 'cog']
 sent: ['lessig','colbert']
 ---
 
@@ -16,8 +16,12 @@ Bias is how our brains do most of their work. It's essential to our survival
 because most of the time, bias is all about taking necessary action,
 as quickly and effortlessly as possible.
 
-Let's start with the "how our brains work" part. We have two kinds of intelligence,
-which I call *do or die* and *reason why.*
+Let's start with the "how our brains work" part. We have two kinds of
+intelligence which Nobel laureate Daniel Kahneman[^1] famously
+refers to as System 1 and System 2. More informally, I like to refer
+to them as *do or die* and *reason why.*
+
+[^1]: Kahneman (2011). [*Thinking Fast And Slow*](https://www.amazon.com/dp/0374533555/). Farrar, Straus and Giroux.
 
 *Do or die* responses are epitomized by neural nets, the kind you find
 in insects and neural net AIs. They are wired to perform knee-jerk survival reflexes.
@@ -62,10 +66,11 @@ circuits. It’s the slow analysis that can overcome the edge cases
 where bias causes failure. 
 
 *Reason why* intelligence is not a replacement for bias, it's an
-extension. Reason offers many new tricks beyond the reach of neural nets,
-but for now we'll focus on this one: reason can reclassify a few labels
-that seemed perfectly good at first, when you chose them quickly
-and decisively, but on closer inspection they don't seem right.
+extension. Reason offers [many new tricks](../definitions/cog) beyond
+the reach of neural nets, but for now we'll focus on this one: reason
+can reclassify a few labels that seemed perfectly good at first, when
+you chose them quickly and decisively, but on closer inspection they
+don't seem right.
 
 With reason, you can deduce that some seeming friends are actually
 enemies, and some seeming food is actually poison. But at the end of

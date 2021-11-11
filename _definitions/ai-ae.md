@@ -2,7 +2,7 @@
 layout: definition
 title: Artificial Intelligence vs Artificial Emotion
 category: definition
-released: true
+released: false
 excerpt_separator: <ex>
 defs: [cog]
 ---

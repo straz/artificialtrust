@@ -4,5 +4,5 @@ title: What are we doing, and why are we doing it?
 released: false
 ---
 
-# What are we doing, and why are we doing it?
+
 

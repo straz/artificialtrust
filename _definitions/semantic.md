@@ -21,8 +21,8 @@ classify inputs and decide what actions to trigger.
 
 Neural nets are lopsided voting machines. They have many inputs
 which are boiled down to an output. Each output is either a label
-(e.g. *food or poison*, *friend or enemy*), or its corresponding 
-action (e.g. *eat or avoid*, *help or fight*).
+(e.g. *food/poison*, *friend/enemy*), or its corresponding 
+action (e.g. *eat/avoid*, *help/fight*).
 
 <a href="{{ site.url }}/assets/pix/neural-net.svg">
 <img src="{{ site.url }}/assets/pix/neural-net.svg"/>

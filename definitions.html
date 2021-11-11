@@ -10,28 +10,25 @@ tab: definitions
 <p>A <i>normal</i> dictionary defines one word at a time.<br/>
   A <i>differential</i> dictionary defines two contrasting terms at a time.</p>
 
-Why do it this way? See <a href="{{ site.url }}/articles/difference">Why the difference</a>.
+Why do it this way? See <a href={{ "/articles/difference" | relative_url }}>Why the difference</a>.
 
 <div class="entries mt-5">
   {% assign entries = site.definitions | sort: "title" %}
   {% for entry in entries %}
     {% if entry.released %}
-    <li><a href="{{ site.url }}{{ entry.url }}">{{ entry.title }}</a>
-      {% if entry.status == "ready" %}
-      <i class="fa fa-check text-success"></i>
-      {% else %}
-      <span class="draft-tag">draft</span>
-      {% endif %}
+    <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
     </li>
     {% else %}
-    <li>{{ entry.title }}</li>
+    <li class="d-none">{{ entry.title }}</li>
     {% endif %}
   {% endfor %}
 
 </div>
 
+
    <footer class="row m-5">
-      {% include figure.html
+     {% include figure.html
+        clickable="true"
         filename="babbage.png"
         caption="The Difference Engine"
         attribution="C. Babbage (1864)"
