@@ -68,13 +68,12 @@ restore full speed.
 ### The original *cyber* meme
 In Homer's *Odyssey*, Odysseus had to steer his ship between the
 monster of certain death Scylla, and the whirlpool of certain death
-Charybdis.
+Charybdis. This ancient Greek story was the original *cyber* meme,
+often referenced in political imagery and speech.
 
-The ancient Greek story was the original *cyber* meme, often
-referenced in political imagery and speech. In 1793, with fresh
-revolutions in America and France, this political cartoon shows the
-Prime Minister steering the ship Constitution between mob anarchy and
-tyranny, toward "public happiness".
+In 1793, with fresh revolutions in America and France, a political
+cartoon shows the Prime Minister steering the ship Constitution
+between mob anarchy and tyranny, toward "public happiness."
 
 {% include figure.html
     filename="GillrayBritannia.jpg"
