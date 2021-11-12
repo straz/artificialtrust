@@ -19,6 +19,9 @@ knows whether seeing A raises expectations of seeing B. This is very
 good for getting quick answers, but not always good for getting
 correct answers.
 
+The [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) site
+is a rich source of accurate training datasets for creating anti-knowledge.
+
 {% capture left %}
 
 ### Correlation
