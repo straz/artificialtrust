@@ -107,8 +107,8 @@ self-serving.
 <hr/>
 The rule of law is how the interests of all parties are protected.
 
-Companies embrace regulation and participate in
-writing regulations when it keeps out potential competitors.
+Once companies achieve dominance, they embrace regulation and participate in
+writing favorable regulations to keep out potentially disruptive competitors.
 (see [regulatory capture](https://en.wikipedia.org/wiki/Regulatory_capture))
 
 
