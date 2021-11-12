@@ -16,8 +16,8 @@ li { margin-bottom: .6em;}
 
 ### Recognition
 
-Neural net AIs are very good at recognizing and classifying, but they
-cannot perform general cognition.
+Neural net AIs are very good at recognizing and classifying, there are
+many successful examples. 
 
 Recognition means classifying inputs into groups. The input can be
 images, forms (a form filled out by someone applying for a job or a
@@ -40,9 +40,11 @@ Applications include:
 
 ### Cognition
 
-AIs can perform cognitive tasks, they just don't use neural nets to do
-so.  Cognition is beyond the reach of neural net AIs - this requires
-use of [semantic nets](semantic).
+There are no examples of a neural net AI that can perform general
+cognition.  There are examples of AIs which perform cognitive tasks,
+they just don't use neural nets to do so.  When neural nets are not a
+good tool for the job, [semantic models](semantic) are used by AIs
+instead.
 
 Human-like intelligence covers a broad range of cognitive skills that
 go beyond recognition and classification. Some examples; this is only
