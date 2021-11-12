@@ -50,9 +50,11 @@ Brakes are the opposite of accelerators.
 In government and genomics, regulation is the opposite of unlimited
 acceleration.  Regulation imposes limits; it is a kind of brake. 
 
+Complex systems (e.g. societies and organisms) require regulation.
+When one component decides it wants to accellerate without limits the
+result is harm.
+
 Brakes make healthy, steady growth possible. 
-
-
 {% endcapture %}
 
 {% assign leftmd = left | markdownify %}
@@ -95,19 +97,19 @@ Regulators become corrupt when they
 benefit from the rules they make at the expense of the general
 population.
 
+Without regulation, only those who use brutal power have
+freedom. There is also no freedom when regulation is corrupt and
+self-serving.
+
 {% endcapture %}
 
 {% capture right3 %}
 <hr/>
+The rule of law is how the interests of all parties are protected.
+
 Companies embrace regulation and participate in
 writing regulations when it keeps out potential competitors.
 (see [regulatory capture](https://en.wikipedia.org/wiki/Regulatory_capture))
-
-The rule of law is how the interests of all parties are protected.
-
-Without regulation, only those who use brutal power have
-freedom. There is also no freedom when regulation is corrupt and
-self-serving.
 
 
 
@@ -117,8 +119,3 @@ self-serving.
 {% assign rightmd = right3 | markdownify %}
 {% include twocol.html left=leftmd right=rightmd topmargin=false%}
 
-Complex systems (e.g. societies and organisms) require regulation.
-When one component decides it wants to accellerate without limits
-the result is harm.
-
-We don't want to be told "No." With this viewpoint, all growth is good. 
