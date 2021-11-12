@@ -29,7 +29,7 @@ arts: [entertainment, questions]
 
 *Teaching* is how you improve a semantic net. Semantic nets can learn
 in many different ways besides teaching. See [Cognition](cog) for just
-a few examples that are beyond the reach of neural nets.
+a few examples of learning that are beyond the reach of neural net AIs today.
 
 {% endcapture %}
 
@@ -41,7 +41,8 @@ a few examples that are beyond the reach of neural nets.
 <hr/>
 Training *reinforces* what has been learned but it cannot be extended with new ideas.
 For example, a *friend/enemy* classifier can be reinforced with additional training.
-But a new idea like "former enemy" cannot be trained, it requires a different classifier.
+But a new idea like "former enemy" cannot be trained in the same classifier; 
+it requires introduction of a new and different classifier.
 
 {% endcapture %}
 
@@ -63,10 +64,10 @@ Neural nets are a structure for making snap decisions, and include
 the mechanism for reinforcement learning. This lets them learn through
 experience alone, without any teacher.
 
-A neural net learns nothing useful from a single example. In order to
+A neural net AI learns nothing useful from a single example. In order to
 learn anything, a large data set with many examples are needed.
 
-One neural net cannot teach another neural net anything. Transferring
+One neural net AI cannot teach another neural net anything. Transferring
 part of the network is not useful. Between neural nets, knowledge can
 only be transferred by copying the entire neural net, making a clone.
 The replicas perform essentially the same as the original.
@@ -83,8 +84,8 @@ Teaching a semantic net means it can be improved with a single new piece of know
 
 Any amount of knowledge can be transferred from one semantic net to
 another; this can be a single fact or a complete copy of the entire
-knowledge base.  Where the two nets differ, they can disagree about
-some facts but agree about others.
+knowledge base.  Where the two differ, they can disagree about
+some of the facts and also agree about others.
 
 {% endcapture %}
 

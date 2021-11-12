@@ -62,14 +62,14 @@ using knowledge from another.
 *  *Criticism* makes it possible to identify a specific flaw in your knowledge.
 *  *Correction* makes it possible to fix flaws in your knowledge if you can find them.
 *  *Attribution* makes it possible to remember different sources for your knowledge, so you
- can see how they hold up in practice and adjust what you know accordingly.
+ can see how they hold up in practice and adjust your trust in those sources accordingly.
  *  *Proof* makes it possible to rely on knowledge with high confidence.
  * *Managing counterfactuals* makes it possible to imagine things that
  you're not observing at the moment. This in turn makes it possible to *have an
  imagination*, *recall the past*, *make plans for the future*, *compare alternatives*, or
  *test hypotheses*
  * *Generate counterexamples* makes it possible to validate your recognizer by
- testing it. 
+ testing it without a training set.
  * *Abstraction* means you can generalize specific ideas into abstract ideas which capture their essential truth.
 
 

@@ -9,24 +9,32 @@ arts: [cyber, errors]
 defs: [teach]
 ---
 
+The paradox of brakes is that they make acceleration
+sustainable. Brakes are absolutely necessary for survival.
+
+
+
+
+
 
 {% capture left %}
 
 ### Accelerators
 
+When something is free (as in freedom), it can accelerate. 
+
 Acceleration is moving forward faster. It's growth, advancement, and
-progress. We seek acceleration in society, economics, and engineering.
+progress. 
+
+Freedom, to some, is the freedom to accelerate as you wish, without
+limits or obligations. Growth means more, and more means winning.
+
+We seek acceleration in society, economics, and engineering.
 We want our companies and retirement funds to grow. We want faster
 airplanes and faster internet connections. We don't want just regular
 delivery, we want overnight or same-day delivery, and we want it to be free.
 
-We don't want to be told "No." We don't want to fill out the paperwork, and we
-don't want a committee of strangers saying we can't build something in our
-back yard.
 
-Freedom, to some, is the freedom to accelerate as you wish, without
-limits or responsibilities. With this viewpoint, all growth is good,
-regardless of its effect on others.
 
 {% endcapture %}
 
@@ -34,14 +42,15 @@ regardless of its effect on others.
 
 ### Brakes
 
-Brakes are the opposite of acceleration. They make healthy,
-steady growth possible. 
+When something is limited or constrained, it will be less free. It is
+bound, or regulated.
+
+Brakes are the opposite of accelerators. 
 
 In government and genomics, regulation is the opposite of unlimited
 acceleration.  Regulation imposes limits; it is a kind of brake. 
 
-The paradox of brakes is that they make acceleration
-sustainable. Brakes are absolutely necessary for survival.
+Brakes make healthy, steady growth possible. 
 
 
 {% endcapture %}
@@ -64,7 +73,8 @@ the one who pays the price for it.
 
 {% capture right2 %}
 <hr/>
-With brakes, you can drive a car faster because you know you can control it at high speeds.
+You can drive a car with good brakes much faster than a car with
+terrible brakes.
 
 When cell growth is regulated, the host is cancer-free, and can live much longer.
 
@@ -75,15 +85,15 @@ minimized, innovation thrives, and businesses can prosper.
 
 {% assign leftmd = left2 | markdownify %}
 {% assign rightmd = right2 | markdownify %}
-{% include twocol.html left=leftmd right=rightmd %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false %}
 
 {% capture left3 %}
 <hr/>
 People and companies try to avoid regulation when it limits their own growth.
 
-When regulation is used for personal gain, it becomes a weapon, not a
-protector.  Regulators become corrupt when they benefit from the rules
-they make at the expense of the general population.
+Regulators become corrupt when they
+benefit from the rules they make at the expense of the general
+population.
 
 {% endcapture %}
 
@@ -91,6 +101,7 @@ they make at the expense of the general population.
 <hr/>
 Companies embrace regulation and participate in
 writing regulations when it keeps out potential competitors.
+(see [regulatory capture](https://en.wikipedia.org/wiki/Regulatory_capture))
 
 The rule of law is how the interests of all parties are protected.
 
@@ -98,13 +109,16 @@ Without regulation, only those who use brutal power have
 freedom. There is also no freedom when regulation is corrupt and
 self-serving.
 
-To say "freedom is better than regulation" misses the point.  Freedom
-requires regulation. It cannot exist without regulation that is fair
-and applied equally to all.
 
 
 {% endcapture %}
 
 {% assign leftmd = left3 | markdownify %}
 {% assign rightmd = right3 | markdownify %}
-{% include twocol.html left=leftmd right=rightmd %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false%}
+
+Complex systems (e.g. societies and organisms) require regulation.
+When one component decides it wants to accellerate without limits
+the result is harm.
+
+We don't want to be told "No." With this viewpoint, all growth is good. 
