@@ -27,7 +27,7 @@ is the same as having team B fall behind team A.
 
 The same is largely true of elections. Elections are often a zero-sum
 game with winners and losers. In a two-party system, the seats lost by
-one party is exactly equal and opposite to those won by the other
+one party are exactly equal and opposite to those won by the other
 party. The American press covers politics the same way it covers
 sports: as if it were a zero-sum game.
 

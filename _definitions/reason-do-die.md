@@ -7,8 +7,8 @@ status: ready
 defs: [delicious]
 ---
 
-We have two kinds of intelligence, which Nobel laureate Daniel
-Kahneman[^1] refers to as System 1 and System 2. 
+We have two kinds of intelligence, which Daniel Kahneman[^1] refers to
+as System 1 and System 2.
 
 More informally, I like to refer to them as *do or die* and *reason why.*
 
