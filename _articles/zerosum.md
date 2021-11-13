@@ -32,35 +32,39 @@ of the other party. The American press covers politics the same way it
 covers sports: as if it were a zero-sum game.
 
 
-### Asymmetry
+### Asymmetrical effort
 
 Sometimes losing and gaining are not symmetrical. Burning down a house
 is easy, but building a house is much harder.  Feeding yourself takes
-work and effort, and skills needed to feed yourself are quite
+work and effort. The skills needed to feed yourself are quite
 different than the skills needed to ruin someone else's food.
 
 Many in politics have noted that negative ads are both cheaper and
 more effective than positive ads. Anger and fear tends to reliably
 turn out more voters than satisfaction.
 
-If you find that helping yourself is difficult or expensive, and
-hurting others is easy and cheap, the path to success is clear.  In a
-perfectly zero sum world, it makes more logical sense to burn down
-your neighbor's house than to build yourself a better one.
-
 In a zero-sum world, finding a meal means your opponent will go
 hungry, and vice-versa. Logically speaking, advancing at the expense
 of others is a perfectly sound strategy.
 
-### When zero sum gives you lose-lose
+If you find that helping yourself is difficult or expensive, and
+hurting others is easy and cheap, the path to success is clear.  In a
+perfectly zero sum world, if the price to get a result is
+asymmetrical, it makes more logical sense to burn down your neighbor's
+house than to build yourself a better one.
 
-It's understandable that people who learn zero-sum thinking from
-zero-sum contests could apply the same zero-sum thinking to other
-contests.
+
+### When zero sum strategies gives you lose-lose
+
+The lopsided zero sum strategy is super easy to understand. We learn
+it because it's simple and we intuitively learn it from examples in
+real life. It turns out to be a terrible idea to apply this strategy
+outside of those situations, but we do it anyway.
 
 Perhaps you can find a way to spoil your opponent's meal, causing them
-to go hungry, or burn down their house. That alone doesn't guarantee
-that you'll get any food yourself, or get a nice new house.
+to go hungry, or burn down their house. That strategy of course has an
+obvious flaw. Hurting others doesn't guarantee that you'll get any
+food yourself, or get a nice new house.
 
 The lose-lose outcome is fairly inexpensive and easy to achieve.
 It's possible for both competitors to end up as losers. Not every loss
@@ -72,14 +76,15 @@ Contests are everywhere. We rely on AI algorithms to classify and
 recommend decisions to us. These algorithms in turn present us with
 the winners and losers of the contests they run.
 
-We should consider whether each contest is truly zero-sum. Are we falling
-for the trap that in order to win, someone else must lose?
+When we consider any contest, we should ask whether it is truly
+zero-sum. Are we falling for the trap that in order to win, someone
+else must lose?
 
 Thank goodness most of us prefer to build houses rather than to burn
 them, because the real world is not a zero-sum contest.
 
-But if we rely on systems that presume zero-sum, we may surround
-ourselves with systems that, left unsupervised, prefer burning houses
-to building them.
+But if we rely on systems that have the zero-sum presumption baked in,
+we may surround ourselves with systems that, left unsupervised, prefer
+burning houses to building them.
 
 
