@@ -146,11 +146,14 @@ We wish to recognize that... *governor* is derived from a Latin corruption of κ
 
 The idea of steering wisely goes back as far as civilization itself.
 
-Our civilization today is grappling with questions about how to
-regulate Big Tech. Some may cast this as a narrative of *government
+Our civilization today is grappling with big questions around
+governance and technology.  What is the role of Big Tech in supporting
+or undermining our democracy itself?  Should Big Tech be regulated,
+and if so, how?  Some may cast this as a narrative of *government
 vs. cyber*. Some may see government as the opposite of, or even an
-opponent of private business. Some may cast this as a [zero-sum](../definitions/brakes)
-contest, where a success for one side is a loss for the other.
+opponent of private business. Some may cast this as a
+[zero-sum](zerosum) contest, where a success for one side is a loss
+for the other.
 
 This moment is not a zero-sum contest, and wisdom does not uniquely 
 belong to either our elected officials or our Big Tech executives.
