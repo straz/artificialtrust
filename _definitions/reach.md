@@ -8,6 +8,16 @@ excerpt_separator: <ex>
 defs: [cog]
 ---
 
+Problems come in all shapes and sizes. We're used to thinking about them in terms
+of *easy* vs. *hard* problems.
+
+The *reach* of a problem is different from how difficult it may
+be. The problem of "what's for lunch" can be easy or difficult, but we
+face this problem every day, and the consequences usually fade
+quickly.  "Where should I live" is a problem with longer reach. It
+arises more rarely and the consequences can have an impact even beyond
+one's lifetime.
+
 {% capture left %}
 ### Short reach problems
 
@@ -46,5 +56,5 @@ making the right decision
 
 {% assign leftmd = left | markdownify %}
 {% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
+{% include twocol.html left=leftmd right=rightmd %}
 
