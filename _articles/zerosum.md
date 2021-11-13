@@ -2,48 +2,84 @@
 layout: article
 title: Zero-sum vs. win-win
 released: true
+status: ready
 ---
+
+Do you see the world as a contest with winners and losers? Do you
+classify everyone as either "allies" and "opponents"? If so, this
+essay is for you. 
 
 ### Zero-sum
 
 In a perfectly zero-sum world, winning and losing is symmetrical.  If
-someone scores a point, it means someone else will lose a point.  The
-world is classified into "self" and "opponent."  Hurting your opponent
-is the same as helping yourself. In a zero-sum world, finding a meal
-means your opponent will go hungry, and vice-versa.
+someone scores a point, it means someone else will lose a
+point. Passing a car on the highway puts you ahead, and being passed
+puts you behind. Making a profit on a stock trade means that someone
+else, somewhere, lost the same amount of money on the other side of
+the same trade. Hurting your opponent is the same as helping yourself.
 
-Logically speaking, hurting others is a perfectly sound strategy.  If
-you find that helping yourself is difficult or expensive, and hurting
-others is easy and cheap, the path to success is clear.
+Sport championships are typically zero-sum competitions.  In most
+sports, a team's standing is really a question of rearranging the
+names at the top of the league. In order for one team to move into
+first place and win the huge prize, another team must move downwards
+by an equal and opposite amount. To see team A advancing over team B
+is the same as having team B fall behind team A.
 
-Sports is one place where this sort of zero-sum competition is
-ubiquitous.  In most sports, a team's standing is really a question of
-rearranging the names at the top of the league. In order for one team
-to move into first place and win the huge prize, another team must
-move downwards by an equal and opposite amount.
-
-The same is largely true of politics. Elections are zero-sum game with
-winners and losers. The loss of one party is exactly equal and
-opposite to the win of the other party. The American press covers
-politics the same way it covers sports: as a zero-sum game.
-
+The same is largely true of elections. Elections are often a zero-sum
+game with winners and losers. In a two-party system, the loss of one
+party in terms of seats lost is exactly equal and opposite to the win
+of the other party. The American press covers politics the same way it
+covers sports: as if it were a zero-sum game.
 
 
-### Lose-lose
+### Asymmetry
+
+Sometimes losing and gaining are not symmetrical. Burning down a house
+is easy, but building a house is much harder.  Feeding yourself takes
+work and effort, and skills needed to feed yourself are quite
+different than the skills needed to ruin someone else's food.
+
+Many in politics have noted that negative ads are both cheaper and
+more effective than positive ads. Anger and fear tends to reliably
+turn out more voters than satisfaction.
+
+If you find that helping yourself is difficult or expensive, and
+hurting others is easy and cheap, the path to success is clear.  In a
+perfectly zero sum world, it makes more logical sense to burn down
+your neighbor's house than to build yourself a better one.
+
+In a zero-sum world, finding a meal means your opponent will go
+hungry, and vice-versa. Logically speaking, advancing at the expense
+of others is a perfectly sound strategy.
+
+### When zero sum gives you lose-lose
 
 It's understandable that people who learn zero-sum thinking from
-zero-sum contests like sports and politics could apply the same
-zero-sum thinking to other contests.
+zero-sum contests could apply the same zero-sum thinking to other
+contests.
 
-If you think of the world in zero-sum terms, as I said earlier, you
-might seek to hurt others, because it could very well be a sound strategy.
+Perhaps you can find a way to spoil your opponent's meal, causing them
+to go hungry, or burn down their house. That alone doesn't guarantee
+that you'll get any food yourself, or get a nice new house.
 
-Outside of sports and politics, it's possible for both competitors to
-be losers. Not every loss is matched by a gain. The lose-lose outcome
-is fairly inexpensive and easy to achieve.  Perhaps you can find a way
-to spoil your enemy's meal, causing them to go hungry. That alone
-doesn't guarantee that you'll get any food yourself. Feeding yourself
-takes work and effort, and skills that are quite different than the
-skills of ruining someone else's food.
+The lose-lose outcome is fairly inexpensive and easy to achieve.
+It's possible for both competitors to end up as losers. Not every loss
+is matched by a gain.
+
+### So what
+
+Contests are everywhere. We rely on AI algorithms to classify and
+recommend decisions to us. These algorithms in turn present us with
+the winners and losers of the contests they run.
+
+We should consider whether each contest is truly zero-sum. Are we falling
+for the trap that in order to win, someone else must lose?
+
+Thank goodness most of us prefer to build houses rather than to burn
+them, because the real world is not a zero-sum contest.
+
+But if we rely on systems that presume zero-sum, we may surround
+ourselves with systems that, left unsupervised, prefer burning houses
+to building them.
 
 

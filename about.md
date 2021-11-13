@@ -4,8 +4,8 @@ tab: about
 released: true
 status: ready
 ---
-## About this site
 
+## About this site
 
 <p><i>Artificial Trust</i> is a collection of related essays, offering
 a framework for understanding complex systems. It's an attempt to
