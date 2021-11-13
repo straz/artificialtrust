@@ -10,14 +10,19 @@ defs: [delicious]
 
 ### When emotion > reason
 
-When reason and emotion are in conflict, emotion's role is to bias the
-outcome either softer or harder than what you'd conclude using reason.
+When reason and emotion are in conflict, emotion's role is to add bias
+the outcome. Emotion modifies decisions, making them either softer or
+harder than the ones you'd make using reason alone.
 
-Emotion removes hesitation. For an expert, emotion captures the
+Experienced experts use emotion differently than beginners who face a
+problem for the first time. For an expert, emotion captures the
 accumulated wisdom of past experience. For the inexperienced, emotion
 provides the confidence necessary for action even if the confidence is
-entirely unjustified.  In both cases, the action is swift regardless
-of whether the decision is wise or unwise.
+entirely unjustified.
+
+Emotion is about immediacy; it removes hesitation. For both experts
+and beginners, the decision is swift regardless of whether the
+decision is wise or unwise.
 
 Emotions can only seem wiser in the short run, or *now*.  Emotions do
 not help anyone understand or anticipate the future. Only reason can
