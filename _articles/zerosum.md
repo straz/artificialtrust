@@ -6,7 +6,7 @@ status: ready
 ---
 
 Do you see the world as a contest with winners and losers? Do you
-classify everyone as either "allies" and "opponents"? If so, congratulations!
+classify everyone as either "allies" or "opponents"? If so, congratulations!
 This essay is for you. 
 
 ### Zero-sum
