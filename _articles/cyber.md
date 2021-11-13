@@ -3,6 +3,7 @@ layout: article
 title: Cyber means government
 released: true
 status: ready
+arts: [zerosum]
 defs: [brakes]
 excerpt: "The idea of government is the idea of imposing control over something. \
 The Greeks used the same word, *cybernetics*, to describe both steering a ship and \
@@ -140,4 +141,27 @@ We wish to recognize that... *governor* is derived from a Latin corruption of κ
 {% include blockquote.html quote=quotemd attribution="Norbert Weiner (1948)"  title="Cybernetics"
    link="https://archive.org/details/CyberneticsOrCommunicationAndControlInTheAnimalAndTheMachineNorbertWiener"
  %}
+
+### So what
+
+The idea of steering wisely goes back as far as civilization itself.
+
+Our civilization today is grappling with questions about how to
+regulate Big Tech. Some may cast this as a narrative of *government
+vs. cyber*. Some may see government as the opposite of, or even an
+opponent of private business. Some may cast this as a [zero-sum](../definitions/brakes)
+contest, where a success for one side is a loss for the other.
+
+This moment is not a zero-sum contest, and wisdom does not uniquely 
+belong to either our elected officials or our Big Tech executives.
+
+The word *cyber* has been in use since the times of the ancient
+Greeks.  Cyber truly means how to govern a complex system.  Good
+governance means making the right choices, and thinking far enough
+ahead to see it play out well in the long run, not just for immediate
+profitability.
+
+
+
+
 
