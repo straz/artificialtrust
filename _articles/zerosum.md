@@ -49,9 +49,9 @@ of others is a perfectly sound strategy.
 
 If you find that helping yourself is difficult or expensive, and
 hurting others is easy and cheap, the path to success is clear.  In a
-perfectly zero sum world, if the price to get a result is
-asymmetrical, it makes more logical sense to burn down your neighbor's
-house than to build yourself a better one.
+world which is zero sum, where results have asymmetrical costs, it
+makes more logical sense to burn down your neighbor's house than to
+build yourself a better one.
 
 
 ### When zero sum strategies gives you lose-lose
