@@ -13,14 +13,14 @@ defs: [soft]
 Sometimes you do the wrong thing even though it feels good.
 It's a recognition failure &mdash; a kind of false positive.
 
-When deciding what to do, there are two kinds of false positives:
+When deciding what to do, there are two kinds of failures:
 doing something you shouldn't, and failing to do something you
-should. We call these two false positives *delicious poison* and
+should. We call these two failures *delicious poison* and
 *disgusting cleanup*.
 
 When this happens, your emotional bias leads you to make a poor
 choice.  Your reason may or may not warn you that it's a poor choice,
-and you may ignore reason anyway because it feels good.  Reason's role
+and you may ignore reason anyway because, hey, it feels good.  Reason's role
 is to overcome one's innate emotional bias and give one last chance to
 avoid making a mistake.
 
