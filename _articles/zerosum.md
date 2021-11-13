@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Zero-sum vs. win-win
+title: Zero-sum, losing, and winning
 released: true
 status: ready
 ---
@@ -21,15 +21,15 @@ the same trade. Hurting your opponent is the same as helping yourself.
 Sport championships are typically zero-sum competitions.  In most
 sports, a team's standing is really a question of rearranging the
 names at the top of the league. In order for one team to move into
-first place and win the huge prize, another team must move downwards
+first place and win the huge prize, the other teams must move downward
 by an equal and opposite amount. To see team A advancing over team B
 is the same as having team B fall behind team A.
 
 The same is largely true of elections. Elections are often a zero-sum
-game with winners and losers. In a two-party system, the loss of one
-party in terms of seats lost is exactly equal and opposite to the win
-of the other party. The American press covers politics the same way it
-covers sports: as if it were a zero-sum game.
+game with winners and losers. In a two-party system, the seats lost by
+one party is exactly equal and opposite to those won by the other
+party. The American press covers politics the same way it covers
+sports: as if it were a zero-sum game.
 
 
 ### Asymmetrical effort
@@ -48,13 +48,14 @@ hungry, and vice-versa. Logically speaking, advancing at the expense
 of others is a perfectly sound strategy.
 
 If you find that helping yourself is difficult or expensive, and
-hurting others is easy and cheap, the path to success is clear.  In a
-world which is zero sum, where results have asymmetrical costs, it
-makes more logical sense to burn down your neighbor's house than to
-build yourself a better one.
+hurting others is easy and cheap, the path to success is clear. 
 
 
 ### When zero sum strategies gives you lose-lose
+
+In a world which is zero sum, where results have asymmetrical costs,
+it makes more logical sense to burn down your neighbor's house than to
+build yourself a better one.
 
 The lopsided zero sum strategy is super easy to understand. We learn
 it because it's simple and we intuitively learn it from examples in
@@ -78,7 +79,10 @@ the winners and losers of the contests they run.
 
 When we consider any contest, we should ask whether it is truly
 zero-sum. Are we falling for the trap that in order to win, someone
-else must lose?
+else must lose? Do we encourage attacks on our "enemies," and
+celebrate their humiliation and failure? Do we think that the more
+they lose, that somehow their losses will result in us getting what we
+want?
 
 Thank goodness most of us prefer to build houses rather than to burn
 them, because the real world is not a zero-sum contest.

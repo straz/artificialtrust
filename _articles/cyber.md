@@ -27,6 +27,8 @@ h3 { margin-top: 2em;
 * [The origial cyber meme](#the-original-cyber-meme)
 * [The art of governing](#the-art-of-governing)
 * [Control and communications: man and machine cannot be separated](#control-and-communications-man-and-machine-cannot-be-separated)
+* [Where do we steer today?](#where-do-we-steer-today)
+* [So what](#so-what)
 
 ### Steering to safety
 
@@ -69,8 +71,9 @@ Charybdis. This ancient Greek story was the original *cyber* meme,
 often referenced in political imagery and speech.
 
 In 1793, with fresh revolutions in America and France, a political
-cartoon shows the Prime Minister steering the ship Constitution
-between mob anarchy and tyranny, toward "public happiness."
+cartoon shows the Prime Minister of England steering the ship
+Constitution between mob anarchy and tyranny, toward "public
+happiness."
 
 {% include figure.html
     filename="GillrayBritannia.jpg"
@@ -129,8 +132,39 @@ We wish to recognize that... *governor* is derived from a Latin corruption of κ
 {% endcapture %}
 {% assign quotemd = quote | markdownify %}
 {% include blockquote.html quote=quotemd attribution="Norbert Weiner (1948)"  title="Cybernetics"
-   link="https://archive.org/details/CyberneticsOrCommunicationAndControlInTheAnimalAndTheMachineNorbertWiener"
+   link="https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/1614275025/"
+   alt_link="https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine"
+   alt_link="https://archive.org/details/CyberneticsOrCommunicationAndControlInTheAnimalAndTheMachineNorbertWiener"
  %}
+
+### Where do we steer today?
+
+Our civilization today is grappling with big questions around how
+government and technology are steering each other. What is the role of
+Big Tech in supporting or undermining our democracy?  Should Big Tech
+be regulated, and if so, how?  
+
+* Some may cast this as a narrative of *government vs. cyber*. They
+see government as the opposite of, or even an opponent of private
+business.
+
+* Some may cast this as a [zero-sum](zerosum) contest, where a success for one
+side is a loss for the other.
+
+* Some may say that no steering is the best steering. Complex systems may be ungovernable, for surely
+nobody is capable or trustworthy enough to understand, let alone
+attempt to guide them, so why not let them run unsupervised? 
+
+Who should we trust to steer us, and what should we steer toward?
+Some people aggressively seek immediate profitability, and not just
+for the ability to spend wealth. Making a profit conveys a symbolic
+affirmation of success or intelligence, which confers trustworthiness
+and impunity. 
+
+It may not be wise to put our trust in those with the ability to get
+rich quickly or at the expense of others. As the ancient Greeks tried
+to warn us, a quick profit can come at the expense of terrible future
+harm.
 
 ### So what
 
@@ -139,21 +173,6 @@ Steering is the definitive act of intelligence. We use our natural
 intelligence to steer our way around complex threats. We build
 artificial systems to amplify our power to steer around those same
 threats.
-
-Our civilization today is grappling with big questions around
-governance and technology.  What is the role of Big Tech in supporting
-or undermining our democracy itself?  Should Big Tech be regulated,
-and if so, how?  Some may cast this as a narrative of *government
-vs. cyber*. Some may see government as the opposite of, or even an
-opponent of private business. Some may cast this as a
-[zero-sum](zerosum) contest, where a success for one side is a loss
-for the other.
-
-Some people aggressively seek immediate profitability, not just for
-the wealth itself, but for the badge of trust it indicates you should
-give to them as well. Making a profit conveys a symbolic affirmation
-of success or intelligence. But as the ancient Greeks tried to warn
-us, a quick profit can come at the expense of terrible future harm.
 
 This moment is not a zero-sum contest, and wisdom does not uniquely 
 belong to either our elected officials or our Big Tech executives.
