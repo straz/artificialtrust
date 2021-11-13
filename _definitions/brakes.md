@@ -5,8 +5,6 @@ category: definition
 released: true
 status: ready
 excerpt_separator: <ex>
-arts: [cyber, errors]
-defs: [teach]
 ---
 
 Brakes are not the opposite of accelerators.

@@ -17,9 +17,9 @@ because most of the time, bias is all about taking necessary action,
 as quickly and effortlessly as possible.
 
 Let's start with the "how our brains work" part. We have two kinds of
-intelligence which Nobel laureate Daniel Kahneman[^1] famously
-refers to as System 1 and System 2. More informally, I like to refer
-to them as *do or die* and *reason why.*
+intelligence which Daniel Kahneman[^1] refers to as System 1 and
+System 2. More informally, I like to refer to them as *do or die* and
+*reason why.*
 
 [^1]: Kahneman (2011). [*Thinking Fast And Slow*](https://www.amazon.com/dp/0374533555/). Farrar, Straus and Giroux.
 
