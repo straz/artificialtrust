@@ -45,16 +45,6 @@ two closely related ideas. It meant both "steering a ship" and
    old_link="https://books.google.com/books?id=mRMXze_LcO0C&pg=PT141&lpg=PT141&dq=Cybernetics"
 %}
 
-{% include blockquote.html
-   quote="SOCRATES: Or again, in a ship, if a man having the power to do what he likes, 
-   has no intelligence or skill in navigation [κυβερνητικης : <i>kybernitikis</i>], 
-   do you see what will happen to him and to his fellow-sailors?<br/>
-
-   ALCIBIADES: Yes; I see that they will all perish."
-   attribution='Plato, in'
-   title="Alcibiades I"
-   link="https://www.gutenberg.org/files/1676/1676-h/1676-h.htm"
-%}
 
 ### Not too fast, not too slow... just right
 The inventor of the steam engine, James Watt, also invented the
@@ -159,11 +149,11 @@ opponent of private business. Some may cast this as a
 [zero-sum](zerosum) contest, where a success for one side is a loss
 for the other.
 
-Some view profitability as a sign of intelligence. Some people
-aggressively seek immediate profitability, not just for the wealth
-itself, but for what it means. Making a profit conveys a symbolic
-affirmation of success. But as the ancient Greeks tried to warn us, a
-quick profit can come at the expense of terrible future harm.
+Some people aggressively seek immediate profitability, not just for
+the wealth itself, but for the badge of trust it indicates you should
+give to them as well. Making a profit conveys a symbolic affirmation
+of success or intelligence. But as the ancient Greeks tried to warn
+us, a quick profit can come at the expense of terrible future harm.
 
 This moment is not a zero-sum contest, and wisdom does not uniquely 
 belong to either our elected officials or our Big Tech executives.
@@ -174,3 +164,14 @@ The word *cyber* has been in use since the times of the ancient
 Greeks.  Cyber means the act of governing a complex system.  Good
 governance means making the right choices, and thinking far enough
 ahead to see it play out well in the long run.
+
+{% include blockquote.html
+   quote="SOCRATES: Or again, in a ship, if a man having the power to do what he likes, 
+   has no intelligence or skill in navigation [κυβερνητικης : <i>kybernitikis</i>], 
+   do you see what will happen to him and to his fellow-sailors?<br/>
+
+   ALCIBIADES: Yes; I see that they will all perish."
+   attribution='Plato, in'
+   title="Alcibiades I"
+   link="https://www.gutenberg.org/files/1676/1676-h/1676-h.htm"
+%}
