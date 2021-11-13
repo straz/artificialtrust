@@ -145,6 +145,10 @@ We wish to recognize that... *governor* is derived from a Latin corruption of κ
 ### So what
 
 The idea of steering wisely goes back as far as civilization itself.
+Steering is the definitive act of intelligence. We use our natural
+intelligence to steer our way around complex threats. We build
+artificial systems to amplify our power to steer around those same
+threats.
 
 Our civilization today is grappling with big questions around
 governance and technology.  What is the role of Big Tech in supporting
@@ -155,16 +159,18 @@ opponent of private business. Some may cast this as a
 [zero-sum](zerosum) contest, where a success for one side is a loss
 for the other.
 
+Some view profitability as a sign of intelligence. Some people
+aggressively seek immediate profitability, not just for the wealth
+itself, but for what it means. Making a profit conveys a symbolic
+affirmation of success. But as the ancient Greeks tried to warn us, a
+quick profit can come at the expense of terrible future harm.
+
 This moment is not a zero-sum contest, and wisdom does not uniquely 
 belong to either our elected officials or our Big Tech executives.
+Short-term profitability, like short-sighted navigation, does not
+necessarily indicate good strategic thinking.
 
 The word *cyber* has been in use since the times of the ancient
-Greeks.  Cyber truly means how to govern a complex system.  Good
+Greeks.  Cyber means the act of governing a complex system.  Good
 governance means making the right choices, and thinking far enough
-ahead to see it play out well in the long run, not just for immediate
-profitability.
-
-
-
-
-
+ahead to see it play out well in the long run.
