@@ -4,7 +4,7 @@ title: Recognition vs. cognition
 category: definition
 released: true
 status: ready
-defs: [teach]
+defs: [teach, reach]
 arts: [questions]
 ---
 
