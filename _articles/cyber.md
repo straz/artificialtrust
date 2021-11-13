@@ -21,6 +21,12 @@ h3 { margin-top: 2em;
 </style>
 
 
+* [Steering to safety](#steering-to-safety)
+* [Not too fast, not too slow, just right](#not-too-fast-not-too-slow-just-right)
+* [The origial cyber meme](#the-original-cyber-meme)
+* [The art of governing](#the-art-of-governing)
+* [Control and communications: man and machine cannot be separated](#control-and-communications-man-and-machine-cannot-be-separated)
+
 ### Steering to safety
 
 The idea of government is the idea of imposing control over

@@ -15,7 +15,7 @@ It's a recognition failure &mdash; a kind of false positive.
 
 When deciding what to do, there are two kinds of failures:
 doing something you shouldn't, and failing to do something you
-should. We call these two failures *delicious poison* and
+should. I call these two failures *delicious poison* and
 *disgusting cleanup*.
 
 When this happens, your emotional bias leads you to make a poor
