@@ -81,8 +81,14 @@ nav {
   font-family: Lato, sans-serif;
   .navbar-brand {
     border-bottom: solid 3px #060;
+    &:hover {
+      border-bottom: solid 5px #060;
+      text-decoration: none;
+    }
   }
-  .nav-link.active {background-color: #EEE !important;}
+  .nav-link.active {
+    background-color: #EEE !important;
+  }
 }
 
 footer {
