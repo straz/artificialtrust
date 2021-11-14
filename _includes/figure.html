@@ -1,9 +1,9 @@
 {% assign imgclass = include.imgclass | default: "col-6" %}
 {% assign captionclass = include.captionclass | default: "" %}
+{% assign figureclass = include.figureclass | default: "" %}
 
-<figure class="figure">
+<figure class="figure {{ figureclass }}">
   {% if include.clickable != "false" %}
-  <!-- <a href="{{ site.url }}/assets/pix/{{ include.filename }}"> -->
   <a href="{{  include.filename | prepend:"/assets/pix/" | relative-url }}">
   {% endif %}
   <img class="{{ imgclass }} figure-img img-fluid"
@@ -13,7 +13,8 @@
   {% endif %}  
   <figcaption class="figure-caption {{ captionclass }}">
     {% if include.caption %}{{ include.caption }}<br/>{% endif %}
+    {% if include.attribution %}
     image:
-    <a target="figure" alt="{{ include.attribution }}" href="{{ include.link }}">{{ include.attribution }}</a>
+    <a target="figure" alt="{{ include.attribution }}" href="{{ include.link }}">{{ include.attribution }}</a> {% endif %}
   </figcaption>
 </figure>

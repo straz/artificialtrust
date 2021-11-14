@@ -16,6 +16,9 @@ body {
   }
   .footnotes {
     border-top: solid grey 1px;
+    &.noborder {
+      border-top: none;
+    }
     padding-top: 2em;
     font-size: 90%;
     .reversefootnote {
