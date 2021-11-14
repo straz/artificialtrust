@@ -8,18 +8,23 @@ defs: [cog, semantic]
 arts: [entertainment, questions]
 ---
 
-* Being *trained*: when a mind learns something through reinforcement, after experiencing it dozens or hundreds of times.
+Learning can occur in different ways:
 
-* Being *taught*: when a mind learns something through extension, after experiencing it just once.
+* Being *trained*: when a mind learns something through reinforcement,
+  after experiencing similar events dozens or hundreds of times.
 
-* Using *reason*: when a mind reflects on what it has already experienced, and figures out something new.
+* Being *taught*: when a mind learns something by extending what it
+  already knows, after experiencing it just once.
 
+* Using *reason*: when a mind reflects on what it has already
+  experienced, and figures out something new.
 
 {% capture left1 %}
 
 ### Training
 
-*Training* is how you improve a neural net. A neural net cannot be taught, it can only be trained.
+*Training* is how you improve a neural net. A neural net cannot be
+taught, it can only be trained. 
 
 {% endcapture %}
 
@@ -27,9 +32,9 @@ arts: [entertainment, questions]
 
 ### Teaching
 
-*Teaching* is how you improve a semantic net. Semantic nets can learn
-in many different ways besides teaching. See [Cognition](cog) for just
-a few examples of learning that are beyond the reach of neural net AIs today.
+*Teaching* is one way to extend a semantic net. Knowledge can be added
+in many different ways besides teaching. See [Cognition](cog) for some
+others.
 
 {% endcapture %}
 
@@ -38,7 +43,7 @@ a few examples of learning that are beyond the reach of neural net AIs today.
 {% include twocol.html left=leftmd right=rightmd %}
 
 {% capture left2 %}
-<hr/>
+
 Training *reinforces* what has been learned but it cannot be extended with new ideas.
 For example, a *friend/enemy* classifier can be reinforced with additional training.
 But a new idea like "former enemy" cannot be trained in the same classifier; 
@@ -47,7 +52,7 @@ it requires introduction of a new and different classifier.
 {% endcapture %}
 
 {% capture right2 %}
-<hr/>
+
 Teaching *extends* what has been learned. For example, learning some
 facts about the past makes it possible to ask further questions and
 learn even more.
@@ -59,10 +64,6 @@ learn even more.
 {% include twocol.html left=leftmd right=rightmd topmargin=false %}
 
 {% capture left3 %}
-<hr/>
-Neural nets are a structure for making snap decisions, and include
-the mechanism for reinforcement learning. This lets them learn through
-experience alone, without any teacher.
 
 A neural net AI learns nothing useful from a single example. In order to
 learn anything, a large data set with many examples are needed.
@@ -75,12 +76,9 @@ The replicas perform essentially the same as the original.
 {% endcapture %}
 
 {% capture right3 %}
-<hr/>
-Semantic nets are a structure for storing data. By themselves, they do not learn anything.
-Other agents are needed to act on the data to improve it, for example, a teacher can
-teach it something new.
 
-Teaching a semantic net means it can be improved with a single new piece of knowledge.
+A semantic net is teachable. It can be improved by adding new
+knowledge, one piece at a time.
 
 Any amount of knowledge can be transferred from one semantic net to
 another; this can be a single fact or a complete copy of the entire

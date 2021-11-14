@@ -17,7 +17,8 @@ Neural nets are *creators of labels*. By attaching labels to inputs, a
 mind makes decisions quickly and decisively. It can recognize and
 classify inputs and decide what actions to trigger.
 
-<p class="m-5"/>
+A neural net can become very good at answering a question, but it can
+only answer one (and only that one) question.
 
 Neural nets are lopsided voting machines. They have many inputs
 which are boiled down to an output. Each output is either a label
@@ -56,6 +57,9 @@ Semantic nets are *storage for labels*. By storing labels and the
 relations among them, a mind can carefully reflect on what it knows. 
 It can critically evaluate its labels and decide to rearrange them or
 create new ones.
+
+A semantic net can be used to answer many different questions. It can
+also be used to ask new questions.
 
 Semantic nets are road maps. They don't have inputs or outputs.  Each
 node is the label representing a single idea.  Each link describes the
