@@ -2,52 +2,29 @@
 layout: default
 ---
 
-<style>
-  h4 a { color: #777; }
-
-  h4 a:hover {
-      color: rebeccapurple;
-      text-decoration: none;
-    }
-  
-</style>
-
 <div class="row">
-  <div class="col-md-8 offset-md-2">
+  <div class="col-md-8 offset-md-1">
 
-<!--
-    <h2 class="mt-5">About this site</h2>
+    <p><i>Artificial Trust</i> is a collection of related essays, offering
+      a framework for understanding complex systems. It's an attempt to
+      explain how algorithms can fail in the things we trust.</p>
+
+    <p>We rely on complex systems like our health, our society, and the internet.
+      These in turn rely on mechanisms to govern themselves and to
+      evolve. These mechanisms involve feedback and selective pressure,
+      which in turn rely on some mechanisms of recognition and trust. 
+    </p>
+
+    {% for article in site.articles %}
+    {% if article.show_home != true %}
+    {% continue %}
+    {% endif %}
     
-{% capture intro %}
-<p><i>Artificial Trust</i> is a collection of related essays, offering
-a framework for understanding complex systems. It's an attempt to
-explain how algorithms can fail in the things we trust.</p>
-
-<p>We rely on complex systems like our health, our society, and the internet.
-These in turn rely on mechanisms to govern themselves and to
-evolve. These mechanisms involve feedback and selective pressure,
-which in turn rely on some mechanisms of recognition and trust. Some
-of the problems we wish to understand better are:</p>
-
-* *health*: why is it so hard to defeat cancer and autoimmune diseases?
-* *society*: why is it so hard to defeat corruption and civic division?
-* *AI*: why is it so hard to defeat bias and lack of transparency?
-
-{% endcapture %}
-{% assign about = intro | markdownify %}
-{{ about }}
-
-<A HREF="about"><i>read more</i></A></p> -->
-
-    <h2 class="mt-5">hmm</h2>
-    {% for name in site.data.home %}
-    {% assign path = '/articles/' | append: name %}
-    {% assign article = site.articles | where:"url", path |  first %}
-
     <h4 class="mt-4"><A href="{{ article.url | relative_url }}">{{ article.title }}</A></h4>
-    <p>{{ article.excerpt | remove: '<p>' | remove: '</p>' }}...<a href="{{ article.url | relative_url }}"><i>read more</i></a></p>
-
+    {% capture seemore %}
+    ... <a href="{{ article.url | relative_url }}"><i>read more</i></a>
+    {% endcapture %}
+    <p>{{ article.excerpt | append: seemore | remove: '<p>' | remove: '</p>' | markdownify  }}</p>
     {% endfor %}
   </div>
 </div>
-

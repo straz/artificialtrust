@@ -1,10 +1,16 @@
 ---
 layout: article
 title: Remove bias? Not so fast.
+created_date: 2021-11-12
 released: true
+show_home: true
 status: ready
 defs: ['reason-do-die', 'action', 'brakes', 'cog']
 sent: ['lessig','colbert']
+excerpt: >-
+  Should we try to eliminate bias? Perhaps in the systems we build, and in our own lives?
+  When we see bias as the source of injustice, or as a tendency to turn something
+  right into something wrong, well, who wouldn't want to get rid of that?
 ---
 
 Should we try to eliminate bias? Perhaps in the systems we build, and in our own lives?

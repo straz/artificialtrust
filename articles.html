@@ -4,29 +4,29 @@ tab: articles
 ---
 
 <div class="row">
-  <div class="col-md-8 offset-md-2">
+  <div class="col-md-8 offset-md-1">
     <h1>Essays</h1>
 
     <div class="articles mt-5">
       {% assign entries = site.articles | sort: "title" %}
       {% for entry in entries %}
-        {% if entry.status != "ready" and site.show_draft == false %}
-          {% continue %}
-        {% endif %}
-        {% if entry.released %}
-        <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
-	   {% if site.show_draft == true %}
-	     {% include status.html status=entry.status %}
-	    {% endif %}
-	</li>
-	{% else %}
-        <li>{{ entry.title }}</li>
+      {% if entry.status != "ready" and site.show_draft == false %}
+      {% continue %}
+      {% endif %}
+      {% if entry.released %}
+      <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+	{% if site.show_draft == true %}
+	{% include status.html status=entry.status %}
 	{% endif %}
-    {% endfor %}
+      </li>
+      {% else %}
+      <li>{{ entry.title }}</li>
+      {% endif %}
+      {% endfor %}
     </div>
 
 
-   <footer class="row mt-5">
+    <footer class="row mt-5">
       {% include figure.html
       clickable="false"
       filename="engine.png"
@@ -34,6 +34,6 @@ tab: articles
       imgclass="col-md-5"
       captionclass="ml-4"
       link="https://archive.org/stream/artofprinting00summ/artofprinting00summ#page/188/mode/1up" %}
-   </footer>
+    </footer>
   </div>
 </div>

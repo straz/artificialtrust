@@ -3,6 +3,7 @@ layout: article
 title: Zero-sum, losing, and winning
 released: true
 status: ready
+created_date: 2021-11-12
 ---
 
 Do you see the world as a contest with winners and losers? Do you

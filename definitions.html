@@ -4,37 +4,37 @@ tab: definitions
 ---
 
 <div class="row">
-  <div class="col-md-8 offset-md-2">
+  <div class="col-md-8 offset-md-1">
     <h1>A differential dictionary of intelligence</h1>
 
-<p>A <i>normal</i> dictionary defines one word at a time.<br/>
-  A <i>differential</i> dictionary defines two contrasting terms at a time.</p>
+    <p>A <i>normal</i> dictionary defines one word at a time.<br/>
+      A <i>differential</i> dictionary defines two contrasting terms at a time.</p>
 
-Why do it this way? See <a href={{ "/articles/difference" | relative_url }}>Why the difference</a>.
+    Why do it this way? See <a href={{ "/articles/difference" | relative_url }}>Why the difference</a>.
 
-<div class="entries mt-5">
-  {% assign entries = site.definitions | sort: "title" %}
-  {% for entry in entries %}
-    {% if entry.released %}
-    <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
-    </li>
-    {% else %}
-    <li class="d-none">{{ entry.title }}</li>
-    {% endif %}
-  {% endfor %}
+    <div class="entries mt-5">
+      {% assign entries = site.definitions | sort: "title" %}
+      {% for entry in entries %}
+      {% if entry.released %}
+      <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>
+      </li>
+      {% else %}
+      <li class="d-none">{{ entry.title }}</li>
+      {% endif %}
+      {% endfor %}
 
-</div>
+    </div>
 
 
-   <footer class="row mt-5">
-     {% include figure.html
-        clickable="true"
-        filename="babbage.png"
-        caption="The Difference Engine"
-        attribution="C. Babbage (1864)"
-        imgclass="col-md-6"
-        captionclass="ml-4"
-        link="https://www.google.com/books/edition/_/8rtdVgQNCuwC" %}
-   </footer>
+    <footer class="row mt-5">
+      {% include figure.html
+      clickable="true"
+      filename="babbage.png"
+      caption="The Difference Engine"
+      attribution="C. Babbage (1864)"
+      imgclass="col-md-6"
+      captionclass="ml-4"
+      link="https://www.google.com/books/edition/_/8rtdVgQNCuwC" %}
+    </footer>
   </div>
 </div>
