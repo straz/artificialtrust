@@ -7,7 +7,7 @@ status: ready
 
 ## About this site
 
-<p><i>Artificial Trust</i> is a collection of related essays, offering
+<p><i>Artificial Trust</i> is a collection of essays, offering
 a framework for understanding complex systems. It's an attempt to
 explain how algorithms can fail in the things we trust.</p>
 

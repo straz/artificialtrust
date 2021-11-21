@@ -7,15 +7,13 @@ show_home: true
 status: ready
 defs: ['reason-do-die', 'action', 'brakes', 'cog']
 sent: ['lessig','colbert']
-excerpt: >-
-  Should we try to eliminate bias? Perhaps in the systems we build, and in our own lives?
-  When we see bias as the source of injustice, or as a tendency to turn something
-  right into something wrong, well, who wouldn't want to get rid of that?
 ---
 
+<!-- start_excerpt -->
 Should we try to eliminate bias? Perhaps in the systems we build, and in our own lives?
 When we see bias as the source of injustice, or as a tendency to turn something
 right into something wrong, well, who wouldn't want to get rid of that?
+<!-- end_excerpt -->
 
 But there's more to bias than injustice. Bias is not only about being wrong.
 Bias is how our brains do most of their work. It's essential to our survival

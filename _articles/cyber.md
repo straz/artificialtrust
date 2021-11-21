@@ -7,9 +7,6 @@ released: true
 status: ready
 arts: [zerosum]
 defs: [brakes]
-excerpt: "The idea of government is the idea of imposing control over something. \
-The Greeks used the same word, *cybernetics*, to describe both steering a ship and \
-governing a society."
 ---
 
 We use the term *cyber* broadly to mean anything involving computers.
@@ -34,10 +31,12 @@ h3 { margin-top: 2em;
 
 ### Steering to safety
 
+<!-- start_excerpt -->
 The idea of government is the idea of imposing control over
 something. The Greeks used the same word, *cybernetics*, to describe
 two closely related ideas. It meant both "steering a ship" and
 "governing a society."
+<!-- end_excerpt -->
 
 {% include blockquote.html
    quote="Cybernetics was also used in ancient Greece to denote a governor of

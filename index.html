@@ -5,7 +5,7 @@ layout: default
 <div class="row">
   <div class="col-md-8 offset-md-1">
 
-    <p><i>Artificial Trust</i> is a collection of related essays, offering
+    <p><i>Artificial Trust</i> is a collection of essays, offering
       a framework for understanding complex systems. It's an attempt to
       explain how algorithms can fail in the things we trust.</p>
 
@@ -22,9 +22,13 @@ layout: default
     
     <h4 class="mt-4"><A href="{{ article.url | relative_url }}">{{ article.title }}</A></h4>
     {% capture seemore %}
-    ... <a href="{{ article.url | relative_url }}"><i>read more</i></a>
+    ...<a href="{{ article.url | relative_url }}"><i>read more</i></a>
     {% endcapture %}
-    <p>{{ article.excerpt | append: seemore | remove: '<p>' | remove: '</p>' | markdownify  }}</p>
+
+    {% assign excerpt_snip1 = article.content | split: "<!-- start_excerpt -->" %}
+    {% assign excerpt_snip2 = excerpt_snip1[1] | split: "<!-- end_excerpt -->" %}
+    {{ excerpt_snip2[0] | append: seemore }}
+
     {% endfor %}
   </div>
 </div>

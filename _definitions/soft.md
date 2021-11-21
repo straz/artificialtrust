@@ -12,7 +12,7 @@ defs: [delicious]
 
 When reason and emotion are in conflict, emotion's role is to add bias
 the outcome. Emotion modifies decisions, making them either softer or
-harder than the ones you'd make using reason alone.
+harder than decisions you'd make using reason alone.
 
 Experienced experts use emotion differently than beginners who face a
 problem for the first time. For an expert, emotion captures the
