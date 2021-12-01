@@ -29,26 +29,28 @@ from them.</p>
 
 ## About the author
 
-Steve Strassmann is currently Sr. Architect at Kyruus, a data company
-improving patient access to healthcare. His advisory roles include Healthcare
-Financial, Inc., the Harvard iLab, and the Technology and Public
-Purpose Project at the Harvard Kennedy School.
+Steve Strassmann is currently a software engineer at Benchling, a data
+platform for biotech research.
 
 Steve was a founder of two venture-backed startups, and has held
-senior engineering roles at Apple, Orange/France Telecom, and VMware,
-leading commercial projects at the forefront of mobile and cloud
-computing. He was CTO of Flipkey, a subsidiary of TripAdvisor.
+senior engineering roles at Kyruus, Apple, Orange/France Telecom, and
+VMware, leading commercial projects at the forefront of mobile and
+cloud computing. He was CTO of Flipkey, a subsidiary of TripAdvisor.
 
 He served as CTO of the Commonwealth of Massachusetts, leading
 bipartisan efforts to digitally transform state government.
 
-Before joining Kyruus, he was Entrepreneur in Residence at the
-Dept. of Biomedical Informatics at Harvard Medical School, and a
-visiting scientist in the Dept. of Genetics and the Wyss Institute.
-His research interests include applications of synthetic biology to
-solving problems of security, identity, and data integrity at the
-molecular level.
+Steve was Entrepreneur in Residence at the Dept. of Biomedical
+Informatics at Harvard Medical School, and a visiting scientist in the
+Dept. of Genetics and the Wyss Institute.  His research interests
+include applications of synthetic biology to solving problems of
+security, identity, and data integrity at the molecular level.
 
-Steve has received three degrees from MIT including a PhD from the MIT Media Lab for work
-in artificial intelligence, as an advisee of Prof. Marvin Minsky. He holds 5 patents.
+Steve's advisory roles include Healthcare Financial, Inc., the Harvard
+iLab, and the Technology and Public Purpose Project at the Harvard
+Kennedy School.
+
+Steve has received three degrees from MIT including a PhD from the MIT
+Media Lab for work in artificial intelligence, as an advisee of
+Prof. Marvin Minsky. He holds 5 patents.
 
