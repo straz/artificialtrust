@@ -7,11 +7,11 @@ status: ready
 ---
 
 ### Trust
-A computational shortcut, in the form of a saved token that represents
-a firm belief in a decision that has been already been made. Trust
-reduces the computation needed to be certain, because it relies on
-computation that has already been done (either by others or by
-oneself).
+A computational shortcut, in the form of a saved memory that
+represents a firm belief in a decision that has been already been
+made. Trust reduces the computation needed to be certain, because it
+relies on computation that has already been done (either by others or
+by oneself).
 
 Without trust, an intelligence would become paralyzed by indecision.
 Any one decision could potentially take infinite effort, since every
@@ -28,7 +28,7 @@ Artificial trust is caused by defects in the *trust recognizer*,
 either in its algorithm or in the data it is trained on.  These
 defects may arise from poor design, or may be the result of hostile
 manipulation by an adversary.
- 
+
 ### Trust recognizer
 A computational mechanism for deciding what can be trusted, and
 therefore, not re-checked.
@@ -37,5 +37,3 @@ therefore, not re-checked.
 A source whose information does not need to be double-checked for correctness.
 In machine learning, all training data is assumed to come from a trusted source.
 
-### Trusted agent
-An agent whose behavior is predictable.
