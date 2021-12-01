@@ -8,10 +8,11 @@ status: ready
 
 ### Trust
 A computational shortcut, in the form of a saved memory that
-represents a firm belief in a decision that has been already been
-made. Trust reduces the computation needed to be certain, because it
-relies on computation that has already been done (either by others or
-by oneself).
+represents a decision that has been already been made. Trust reduces
+the computation needed to be certain, because it relies on computation
+that has already been done (either by others or by oneself).
+
+A saved memory is considered trustworthy by the *trust recognizer*.
 
 Without trust, an intelligence would become paralyzed by indecision.
 Any one decision could potentially take infinite effort, since every
