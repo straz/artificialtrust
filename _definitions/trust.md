@@ -10,8 +10,11 @@ status: ready
 A computation shortcut, representing a firm belief in something. Trust
 reduces the computation needed to be sure of a result, by relying on
 computation that has already been done (either by others or by
-oneself). Without trust, decisions could take infinite effort, since
-every result would need to be re-checked again and again.
+oneself).
+
+Without trust, a decision could potentially take infinite effort,
+since every computational result that the decision relies on would
+need to be re-checked again and again.
 
 ### Artificial trust
 A false computational shortcut. Artificial trust closely resembles
