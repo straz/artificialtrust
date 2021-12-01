@@ -12,7 +12,9 @@ represents a decision that has been already been made. Trust reduces
 the computation needed to be certain, because it relies on computation
 that has already been done (either by others or by oneself).
 
-A saved memory is considered trustworthy by the *trust recognizer*.
+A saved memory is considered trustworthy (or not) by the *trust
+recognizer*.  In general, we trust our memories. The trust recognizer
+usually says "trustworthy," which is why we have confirmation bias.
 
 Without trust, an intelligence would become paralyzed by indecision.
 Any one decision could potentially take infinite effort, since every
