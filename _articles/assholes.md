@@ -2,115 +2,148 @@
 layout: article
 title: Assholes and cancer have a lot in common
 released: true
+status: ready
+created_date: 2021-12-01
 excerpt_separator: <ex>
+defs: [trust]
 ---
-
-Recognition diseases
-
-{% capture left %}
 
 The people who confront cancer &mdash; the doctors, the patients, the
 families and friends of those patients &mdash; I've heard them refer
-to cancer as an "asshole" of a disease. Along with cancer, I include
-autoimmune diseases (like rheumatoid arthritis and lupus) in this
-category.
+to cancer as an "asshole" of a disease. 
 
-{% endcapture %}
-{% capture right %}
+The people who confront assholes &mdash; people whose lives are harmed
+by con men and corrupt politicians who lie, cheat, and steal &mdash;
+I've heard them refer to those assholes as "a cancer" on society.
 
-The people who confront assholes &mdash; people whose lives are hurt
-by those who lie, cheat, and steal &mdash; I've heard them refer to
-those assholes as "a cancer" on society. By "asshole" in this context,
-I'm referring to con men, corrupt politicians, and members of
-organized crime.
-
-{% endcapture %}
-
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd %}
-
-<p class="mb-5"/>
+### It's an inside job
 
 I've come to believe that there's more going on here than just anger
-and hyperbolic wordplay. I think that quite literally, there is a
-common mechanism at work here that bears closer examination.
+and hyperbolic wordplay. I think that quite literally, a common
+mechanism is at work here which bears closer examination.
 
-Cancer and autoimmune diseases are in a different class from
-pathogen-borne diseases like chickenpox or measles. We have a
-well-understood playbook for fighting pathogens: first, isolate the
-pathogen. Then, create a vaccine for it which trains your immune
-system to recognize it reliably whenever it shows up. Then, distribute
-the vaccine to everyone.
+This common mechanism is an exploitation of how we place our trust. In
+both cases, it's an inside job &mdash; it's the kind of attack which
+we are just not good at dealing with. The "con" in con man comes from
+"confidence", someone who creates [artificial trust]({{
+'../definitions/trust' | relative-url }} ), looking more like a friend
+than an enemy.
 
-This approach seems to work well for many pathogens &mdash; societies that
-adopt this approach have done a great job with some pathogens like
-smallpox and polio. But the results for cancer and autoimmune diseases
-have not been as forthcoming.
+Our immune system works by identifying pathogens as *outsiders*.  But
+cancer cells are not outsiders. Our cells are trusted, they all grow
+from other trusted cells in our bodies. Cancer cells thrive by
+displaying all the right proteins to avoid being recognized as enemies
+by our immune system.
 
-Assholes seem to be in a different class from ordinary criminals like
-bank robbers and arsonists. We have a well-understood playbook for
-fighting ordinary criminals: first gather evidence of criminal
-activity. Then, find suspects who are undeniably linked to the
-evidence. Then, prosecute the suspects in a fair trial using the
-evidence to conclusively prove their guilt or innocence.
+Similarly, autoimmune diseases are not outsider attacks. The attackers
+are trusted members of our own immune system, mistakenly attacking
+fellow cells that belong to the same body.
 
-This approach seems to work well for many kinds of crime &mdash;
-societies that adopt this approach have reduced some kinds of crime a
-great deal. But society has not seemed to had much success reducing
-the prevalence of con men, corrupt politicians, and organized crime.
+When we trust con men and corrupt politicians, they are not outsiders.
+We give them access to our lives and our bank accounts, we vote them
+into office, willingly giving them power over us. An executive who
+embezzles has all the valid credentials for the company that hired
+them.
 
-### Similarity one: it's an inside job
+### Your credentials, please
+
+The principle of self-defense is based on the notion that you can
+distinguish outsiders from self. It's safe to attack an outsider or an
+invader. The "self" is what you don't attack, because you trust
+yourself.
 
 The first line of defense in a security system is having a way to
-detect outsiders.  With ID badges and passwords, security systems
-distinguish between "us" and "them" - if you have a valid ID badge,
-you're one of "us" and you can enter the building.
+detect outsiders. Historically, we bond with members of our family and
+our tribe, those who resemble ourselves. We stick together for safety
+and survival.
+
+In modern times, security systems use ID badges and passwords
+distinguish between "us" and "them." If you have a valid ID badge,
+you're one of "us" and you can go about your business. In polarized
+social media, we proclaim our loyalties reflexively. Instantly
+recognizable symbols quickly assign "us" and "them" labels to everyone
+we encounter.
 
 The immune system is a security system that also distinguishes between
-"body" and "foreign". Invading pathogens are recognized as foreigners,
-and lymphocytes are dispatched to eliminate them.
+"body" and "foreign." Invading pathogens are recognized as foreigners,
+and T cells are dispatched to eliminate them.
 
-#### Implication: you can't use identity to detect the enemy
+When deciding whom to trust, we often turn to credentials. By
+displaying the right credentials, a person (or a cell) often can carry
+on without further questioning. The credentials are a form of
+shortcut, a talisman of trust. They save everyone the hassle of
+repeated investigation.
+
+##### This ID is legit, and still it's useless
+
+Credentials help you detect outsiders, but are useless against
+traitors and embezzlers.
+
+*Insider jobs* are the hardest kind of attack to protect against.  To
+stop an insider attack, you have to ignore the very credentials you
+issued, and investigate those who are carrying them. Instead of
+subjecting outsiders to scrutiny, you're stopping and questioning
+members of your insider group. No wonder it's painful and inefficient.
 
 Cancer cells aren't foreign invaders, they're cells from your own
-body. Your immune system treats them as if they have valid ID badges and
-passwords (because they actually do), and doesn't attack them.
+body. A false positive arises when a tumor cell is misrecognized as a
+healthy one. Your immune system treats them as if they have valid
+credentials (because they actually do), and doesn't attack them.
 
-In autoimmune diseases, your immune system somehow mistakes your legit
-body cells for invaders and attacks them anyway. It's as if their
-valid ID badges and passwords are being ignored.
-
-Security measures that rely on checking ID credentials are not helpful
-against these kinds of threats. You cannot use identity to detect the
-enemy when the enemy already has proper ID credentials.
-
-
-### Similarity two: corruption of the regulatory system
-
-To fight diseases and criminals, your body has an immune system, and
-your society has a criminal justice system. The "ordinary" diseases
-and "ordinary" criminals tend to be stopped by these systems, when
-they're working properly. 
-
-The thing that differentiates asshole-diseases from their "ordinary"
-counterparts is that they corrupt the systems that are supposed to
-regulate them. A compromised immune system cannot fight disease
-properly, and a compromised justice system cannot fight crime
-properly.
-
-#### Implication: checks and balances fight corruption
-
-It doesn't matter how much evidence you have of a crime if the judge
-is one of the criminals. And you can't count on a compromised immune
-system to eliminate disease.
-
-The creators of the US Consititution understood this idea in a very
-deep and profound way.
+Recognition of friendlies is not perfect. A false negative arises when
+an innocent insider is mistakenly seen as a stranger. Their valid
+credentials are misread, causing autoimmune disease. People are
+arrested or shot by the police that are supposed to protect
+them. Cells are attacked and destroyed by the body's own immune
+system. The false negatives can be as harmful as false positives.
 
 
-### Similarity three: co-opting the enablers
+### Manipulating the lawmakers
 
-The enablers make it possible - innervation, vasculature
+To fight diseases, your body has an immune system, and to fight crime,
+society has laws. These are meant to define what is unacceptable
+behavior, and to put a stop to it. The immune system regulates disease
+in the body, and the legal system regulates dangerous behavior.  These
+systems are not perfect, but they tend to keep us safe and alive.
 
+If cancer and assholes only attacked ordinary neighbors and stole from
+them, they would eventually get caught. To avoid capture, they have to
+manipulate the very systems that are in place to catch them. They use
+[artificial trust]({{ '../definitions/trust' | relative-url }} ) to
+achieve impunity.
+
+Cancer and autoimmune diseases thrive by manipulating and evading the
+immune system. Criminals thrive when they corrupt the legal system
+that's supposed to catch them. 
+
+A compromised immune system cannot fight disease properly, and a
+compromised justice system cannot fight crime properly. 
+
+### Co-opting the enablers
+
+While the immune system or justice system are supposed to stop
+threats, cancer and criminals continue to get support from those who
+unwittingly enable the behavior.
+
+By going about their business as usual, these enablers make it
+possible for cancer and criminals to thrive. As a tumor grows, the
+body provides it with nerves, vasculature, everything that it needs,
+because the body continues to trust it. Criminals accumulate wealth
+and power, and enjoy full access to the best that society can bring to
+them.
+
+
+### So what
+
+Cancer and assholes have a lot in common, and not just metaphorically.
+They are resiliant because they rely on artificial trust, the manipulation
+of mechanisms that normally are supposed to protect us from them.
+
+  * they are hard to fight because they're insiders, not invaders
+  * they have valid credentials, and seem trustworthy
+  * they corrupt the very systems that are meant to catch them
+  * they are supported by enablers who provide what they need
+
+Protecting ourselvs requires different tactics than those used to stop
+ordinary diseases and ordinary criminals.
 
