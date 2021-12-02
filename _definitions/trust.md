@@ -6,7 +6,7 @@ released: true
 status: ready
 ---
 
-### Trust
+#### Trust
 A computational shortcut, in the form of a saved memory that
 represents a decision that has been already been made. Trust reduces
 the computation needed to be certain, because it relies on computation
@@ -22,7 +22,7 @@ Any one decision could potentially take infinite effort, since every
 computational result that the decision relies on would need to be
 re-checked again and again.
 
-### Artificial trust
+#### Artificial trust
 A false computational shortcut. Artificial trust closely resembles
 natural trust, as it reduces the computation needed to achieve
 confidence in a result. But in artificial trust, this confidence is
@@ -33,11 +33,11 @@ either in its algorithm or in the data it is trained on.  These
 defects may arise from poor design, or may be the result of hostile
 manipulation by an adversary.
 
-### Trust recognizer
+#### Trust recognizer
 A computational mechanism for deciding what can be trusted, and
 therefore, not re-checked.
 
-### Trusted source
+#### Trusted source
 A source whose information does not need to be double-checked for correctness.
 In machine learning, all training data is typically assumed to come from a trusted source.
 
