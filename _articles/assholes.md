@@ -14,7 +14,7 @@ families and friends of those patients &mdash; I've heard them refer
 to cancer as an "asshole" of a disease. 
 
 The people who confront assholes &mdash; people whose lives are harmed
-by con men and corrupt politicians who lie, cheat, and steal &mdash;
+by con men, bullies, and corrupt politicians who lie, cheat, and steal &mdash;
 I've heard them refer to those assholes as "a cancer" on society.
 
 ### It's an inside job
