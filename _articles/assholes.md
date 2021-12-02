@@ -5,6 +5,7 @@ released: true
 status: ready
 created_date: 2021-12-01
 excerpt_separator: <ex>
+arts: [zerosum]
 defs: [trust]
 ---
 
@@ -132,6 +133,30 @@ because the body continues to trust it. Criminals accumulate wealth
 and power, and enjoy full access to the best that society can bring to
 them.
 
+### Turn to the dark side
+
+Assholes have a way of inducing others to be assholes. Abused children
+are more likely to grow up to be child abusers, even if they're not
+genetically related to the abusers. Criminals and bullies sometimes
+inspire others, who see them as [winning](zerosum), to start acting
+like them.
+
+Most of us are born with the capacity to be assholes. All of us, at
+least in theory, can steal, lie, be mean to others. But thankfully,
+most of us don't grow up that way.  We may even be tempted at times,
+but we generally join society and generally play by the rules,
+respecting others.
+
+Likewise, our cells are innately capable of doing what cancer cells
+do: growing without limits, taking resources from other cells. I
+imagine metastasis is nothing more than one cell whispering to
+another, "You know you want it."
+
+Criminal justice was simpler when death was the penalty for most
+crimes.  Today our cancer cures seek to isolate and burn away or cut
+away the tumor cells. As our understanding advances, perhaps some day
+medicine will find better ways to rehabilitate cancerous cells,
+restoring their civic sensibility instead of annihilating them.
 
 ### So what
 
@@ -143,6 +168,7 @@ of mechanisms that normally are supposed to protect us from them.
   * they have valid credentials, and seem trustworthy
   * they corrupt the very systems that are meant to catch them
   * they are supported by enablers who provide what they need
+  * they tempt others to join them
 
 Protecting ourselvs requires different tactics than those used to stop
 ordinary diseases and ordinary criminals.
