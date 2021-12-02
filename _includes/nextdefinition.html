@@ -1,4 +1,10 @@
-{% assign entries = site.definitions | sort: "title" | where: "released", "true" %}
+{% assign trust = site.definitions | find: "id", "/definitions/trust" %}
+
+{% assign entries = site.definitions 
+   | where_exp: "item", "item.id != '/definitions/trust'"
+   | where: "released", "true"
+   | sort: "title" | reverse | push: trust | reverse %}
+
 {% assign previous = entries.last %}
 {% assign next = entries[1] %}
 

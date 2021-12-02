@@ -13,7 +13,11 @@ tab: definitions
     Why do it this way? See <a href={{ "/articles/difference" | relative_url }}>Why the difference</a>.
 
     <div class="entries mt-5">
-      {% assign entries = site.definitions | sort: "title" %}
+      {% assign trust = site.definitions | find: "id", "/definitions/trust" %}
+      {% assign entries = site.definitions 
+      | where_exp: "item", "item.id != '/definitions/trust'"
+      | where: "released", "true"
+      | sort: "title" | reverse | push: trust | reverse %}
       {% for entry in entries %}
       {% if entry.released %}
       <li><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a>

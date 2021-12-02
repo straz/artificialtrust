@@ -39,5 +39,5 @@ therefore, not re-checked.
 
 ### Trusted source
 A source whose information does not need to be double-checked for correctness.
-In machine learning, all training data is assumed to come from a trusted source.
+In machine learning, all training data is typically assumed to come from a trusted source.
 
