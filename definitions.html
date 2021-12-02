@@ -16,7 +16,6 @@ tab: definitions
       {% assign trust = site.definitions | find: "id", "/definitions/trust" %}
       {% assign entries = site.definitions 
       | where_exp: "item", "item.id != '/definitions/trust'"
-      | where: "released", "true"
       | sort: "title" | reverse | push: trust | reverse %}
       {% for entry in entries %}
       {% if entry.released %}
