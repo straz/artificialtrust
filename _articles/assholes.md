@@ -178,7 +178,7 @@ ordinary diseases and ordinary criminals.
 
 We know this transformation is preventable &mdash; many of us manage
 to resist such temptation, and so do our cells. But what is the
-mechanism of temptation?  How do we regulate ourselves, and
-[govern](cyber) our own behavior?  And once the line is crossed, is
-this transformation reversible?
+mechanism of getting permission to harm others?  How do we regulate
+ourselves, and [govern](cyber) our own behavior?  And once the line is
+crossed, is this transformation reversible?
 
