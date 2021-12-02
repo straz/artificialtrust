@@ -23,12 +23,12 @@ I've come to believe that there's more going on here than just anger
 and hyperbolic wordplay. I think that quite literally, a common
 mechanism is at work here which bears closer examination.
 
-What they have in common: they exploit how we place our trust. In both
-cases, it's an inside job &mdash; it's the kind of attack which we are
-just not good at dealing with. The "con" in con man comes from
-"confidence", someone who creates [artificial trust]({{
-'../definitions/trust' | relative-url }} ), looking more like a friend
-than an enemy.
+What they have in common: they exploit how we place our trust. The
+"con" in con man comes from "confidence", someone who creates
+[artificial trust]({{ '../definitions/trust' | relative-url }} ),
+looking more like a friend than an enemy. These attacks are an
+inside job &mdash; the kind of attack which we are just not good
+at dealing with.
 
 Our immune system works by identifying pathogens as *outsiders*.  But
 cancer cells are not outsiders. Our cells are trusted, they all grow
