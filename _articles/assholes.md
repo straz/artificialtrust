@@ -59,11 +59,12 @@ our tribe, those who resemble ourselves. We stick together for safety
 and survival.
 
 In modern times, security systems use ID badges and passwords
-distinguish between "us" and "them." If you have a valid ID badge,
+distinguish between "us" and "them."  If you have a valid ID badge,
 you're one of "us" and you can go about your business. In polarized
-social media, we proclaim our loyalties reflexively. Instantly
+social media, we proclaim our loyalties reflexively.  Instantly
 recognizable symbols quickly assign "us" and "them" labels to everyone
-we encounter.
+we encounter. At the Thanksgiving table, we're aggravated the most by
+relatives who should be "us" but turn out to be "them."
 
 The immune system is a security system that also distinguishes between
 "body" and "foreign." Invading pathogens are recognized as foreigners,
