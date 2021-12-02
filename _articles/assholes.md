@@ -151,7 +151,9 @@ respecting others.
 Likewise, our cells are innately capable of doing what cancer cells
 do: growing without limits, taking resources from other cells. I
 imagine metastasis is nothing more than one cell whispering to
-another, "You know you want it."
+another, "You know you want it." Cancer is the dark side of
+permission.  It says it's ok to satisfy one's own desires and ignore
+the harm it does to others.
 
 Criminal justice was simpler when death was the penalty for most
 crimes.  Today our cancer cures seek to isolate and burn away or cut
