@@ -64,27 +64,13 @@ learn even more.
 {% include twocol.html left=leftmd right=rightmd topmargin=false %}
 
 {% capture left3 %}
-
 A neural net AI learns nothing useful from a single example. In order to
 learn anything, a large data set with many examples are needed.
-
-One neural net AI cannot teach another neural net anything. Transferring
-part of the network is not useful. Between neural nets, knowledge can
-only be transferred by copying the entire neural net, making a clone.
-The replicas perform essentially the same as the original.
-
 {% endcapture %}
 
 {% capture right3 %}
-
-A semantic net is teachable. It can be improved by adding new
+A semantic net is teachable. It can be extended by adding new
 knowledge, one piece at a time.
-
-Any amount of knowledge can be transferred from one semantic net to
-another; this can be a single fact or a complete copy of the entire
-knowledge base.  Where the two differ, they can disagree about
-some of the facts and also agree about others.
-
 {% endcapture %}
 
 
@@ -92,4 +78,21 @@ some of the facts and also agree about others.
 {% assign rightmd = right3 | markdownify %}
 {% include twocol.html left=leftmd right=rightmd topmargin=false%}
 
+{% capture left4 %}
+One neural net AI cannot teach another neural net anything. Transferring
+part of the network is not useful. Between neural nets, knowledge can
+only be transferred by copying the entire neural net, making a clone.
+A replica will perform essentially the same as the original.
+{% endcapture %}
+
+{% capture right4 %}
+Any amount of knowledge can be transferred from one semantic net to
+another; this can be a single fact or a complete copy of the entire
+knowledge base.  Where the two differ, they can disagree about
+some of the facts and also agree about others.
+{% endcapture %}
+
+{% assign leftmd = left4 | markdownify %}
+{% assign rightmd = right4 | markdownify %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false%}
 
