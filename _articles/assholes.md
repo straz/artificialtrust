@@ -5,7 +5,7 @@ released: true
 status: ready
 created_date: 2021-12-01
 excerpt_separator: <ex>
-arts: [zerosum]
+arts: [zerosum, cyber]
 defs: [trust]
 ---
 
@@ -172,4 +172,10 @@ of mechanisms that normally are supposed to protect us from them.
 
 Protecting ourselves requires different tactics than those used to stop
 ordinary diseases and ordinary criminals.
+
+We know this transformation is preventable &mdash; many of us manage
+to resist such temptation, and so do our cells. But what is the
+mechanism of temptation?  How do we regulate ourselves, and
+[govern](cyber) our own behavior?  And once the line is crossed, is
+this transformation reversible?
 
