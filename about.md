@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: page
 tab: about
 released: true
 status: ready
@@ -7,25 +7,26 @@ status: ready
 
 ## About this site
 
-<p><i>Artificial Trust</i> is a collection of essays, offering
+*Artificial Trust* is a collection of essays, offering
 a framework for understanding complex systems. It's an attempt to
-explain how algorithms can fail in the things we trust.</p>
+explain how algorithms can fail in the things we trust.
 
-<p>We rely on complex systems like our health, our society, and the internet.
+We rely on complex systems like our health, our society, and the internet.
 These in turn rely on mechanisms to govern themselves and to
 evolve. These mechanisms involve feedback and selective pressure,
 which in turn rely on some mechanisms of recognition and trust. Some
-of the problems we wish to understand better are:</p>
+of the problems we wish to understand better are:
 
 * *health*: why is it so hard to defeat cancer and autoimmune diseases?
 * *society*: why is it so hard to defeat corruption and civic division?
 * *AI*: why is it so hard to defeat bias and lack of transparency?
 
-<p class="mb-5">When the systems we depend on fail, the ways in which
+When the systems we depend on fail, the ways in which
 they fail often have similarities. An interdiciplinary understanding
 of these mechanisms can help us manage failures and protect ourselves
-from them.</p>
+from them.
 
+<p class="mb-5"></p>
 
 ## About the author
 
@@ -53,4 +54,3 @@ Kennedy School.
 Steve has received three degrees from MIT including a PhD from the MIT
 Media Lab for work in artificial intelligence, as an advisee of
 Prof. Marvin Minsky. He holds 5 patents.
-
