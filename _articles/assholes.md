@@ -17,11 +17,11 @@ The people who confront assholes &mdash; people whose lives are harmed
 by con men, bullies, and corrupt politicians who lie, cheat, and steal &mdash;
 I've heard them refer to those assholes as "a cancer" on society.
 
-### It's an inside job
-
 I've come to believe that there's more going on here than just anger
 and hyperbolic wordplay. I think that quite literally, a common
 mechanism is at work here which bears closer examination.
+
+### It's an inside job
 
 What they have in common: they exploit how we place our trust. The
 "con" in con man comes from "confidence", someone who creates
