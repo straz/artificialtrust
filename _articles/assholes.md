@@ -170,6 +170,6 @@ of mechanisms that normally are supposed to protect us from them.
   * they are supported by enablers who provide what they need
   * they tempt others to join them
 
-Protecting ourselvs requires different tactics than those used to stop
+Protecting ourselves requires different tactics than those used to stop
 ordinary diseases and ordinary criminals.
 
