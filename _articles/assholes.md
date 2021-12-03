@@ -31,10 +31,9 @@ inside job &mdash; the kind of attack which we are just not good
 at dealing with.
 
 Our immune system works by identifying pathogens as *outsiders*.  But
-cancer cells are not outsiders. Our cells are trusted, they all grow
-from other trusted cells in our bodies. Cancer cells thrive by
-displaying all the right proteins to avoid being recognized as enemies
-by our immune system.
+cancer cells are not outsiders. Cancer cells thrive by seeming
+trustworthy.  They display all the right proteins to avoid being
+recognized as enemies by our immune system.
 
 Similarly, autoimmune diseases are not outsider attacks. The attackers
 are trusted members of our own immune system, mistakenly attacking
@@ -63,7 +62,7 @@ The immune system is a security system that also distinguishes between
 Agents of the immune system, like T-cells, are dispatched to eliminate
 them.
 
-### Your credentials, please
+### These credentials are no good
 
 When deciding whom to trust, we often turn to credentials. By
 displaying the right credentials, a person (or a cell) often can carry
@@ -71,29 +70,17 @@ on without further questioning. The credentials are a form of
 shortcut, a talisman of trust. They save everyone the hassle of
 repeated investigation.
 
-Credentials help you detect outsiders, but are useless against
-traitors. An executive who embezzles has all the valid credentials for
-the company that hired them.
+No matter how secure they are, credentials are nearly useless against
+insider threats.  An executive who embezzles has all the valid
+credentials for the company that hired them. Cancer cells aren't
+foreign invaders, they're cells from your own body, and they all grow
+from other trusted cells in our bodies.
 
-
-*Insider jobs* are the hardest kind of attack to protect against.  To
-stop an insider attack, you have to ignore the very credentials you
+To stop an insider attack, you have to ignore the very credentials you
 issued, and investigate those who are carrying them. Instead of
 subjecting outsiders to scrutiny, you're stopping and questioning
-members of your insider group. No wonder it's painful and inefficient.
-
-Cancer cells aren't foreign invaders, they're cells from your own
-body. A false negative arises when a tumor cell is misrecognized as a
-healthy one. Your immune system treats them as if they have valid
-credentials (because they actually do), and doesn't attack them.
-
-Recognition of friendlies is not perfect. A false positive arises when
-an innocent insider is mistakenly seen as a stranger. Their valid
-credentials are misread, causing autoimmune disease. People are
-arrested or shot by the police that are supposed to protect
-them. Cells are attacked and destroyed by the body's own immune
-system. The false negatives can be as harmful as false positives.
-
+members of your own family. No wonder it's painful, risky, and
+inefficient.
 
 ### Manipulating the lawmakers
 
