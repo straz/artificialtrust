@@ -68,7 +68,8 @@ relatives who should be "us" but turn out to be "them."
 
 The immune system is a security system that also distinguishes between
 "body" and "foreign." Invading pathogens are recognized as foreigners,
-and T cells are dispatched to eliminate them.
+and agents of the immune system, like T-cells, are dispatched to
+eliminate them.
 
 When deciding whom to trust, we often turn to credentials. By
 displaying the right credentials, a person (or a cell) often can carry
@@ -88,11 +89,11 @@ subjecting outsiders to scrutiny, you're stopping and questioning
 members of your insider group. No wonder it's painful and inefficient.
 
 Cancer cells aren't foreign invaders, they're cells from your own
-body. A false positive arises when a tumor cell is misrecognized as a
+body. A false negative arises when a tumor cell is misrecognized as a
 healthy one. Your immune system treats them as if they have valid
 credentials (because they actually do), and doesn't attack them.
 
-Recognition of friendlies is not perfect. A false negative arises when
+Recognition of friendlies is not perfect. A false positive arises when
 an innocent insider is mistakenly seen as a stranger. Their valid
 credentials are misread, causing autoimmune disease. People are
 arrested or shot by the police that are supposed to protect
@@ -129,10 +130,10 @@ unwittingly enable the behavior.
 
 By going about their business as usual, these enablers make it
 possible for cancer and criminals to thrive. As a tumor grows, the
-body provides it with nerves, vasculature, everything that it needs,
-because the body continues to trust it. Criminals accumulate wealth
-and power, and enjoy full access to the best that society can bring to
-them.
+body provides it with nutrients, blood vessels, everything that it
+needs to survive, because the body continues to trust it. Criminals
+accumulate wealth and power, and enjoy full access to the best that
+society can bring to them.
 
 ### Turn to the dark side
 
