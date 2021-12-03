@@ -42,16 +42,9 @@ fellow cells that belong to the same body.
 
 When we trust con men and corrupt politicians, they are not outsiders.
 We give them access to our lives and our bank accounts, we vote them
-into office, willingly giving them power over us. An executive who
-embezzles has all the valid credentials for the company that hired
-them.
+into office, willingly giving them power over us. 
 
-### Your credentials, please
-
-The principle of self-defense is based on the notion that you can
-distinguish outsiders from self. It's safe to attack an outsider or an
-invader. The "self" is what you don't attack, because you trust
-yourself.
+### Us and them
 
 The first line of defense in a security system is having a way to
 detect outsiders. Historically, we bond with members of our family and
@@ -59,17 +52,18 @@ our tribe, those who resemble ourselves. We stick together for safety
 and survival.
 
 In modern times, security systems use ID badges and passwords
-distinguish between "us" and "them."  If you have a valid ID badge,
-you're one of "us" and you can go about your business. In polarized
-social media, we proclaim our loyalties reflexively.  Instantly
-recognizable symbols quickly assign "us" and "them" labels to everyone
-we encounter. At the Thanksgiving table, we're aggravated the most by
-relatives who should be "us" but turn out to be "them."
+distinguish between "us" and "them." In polarized social media, we
+proclaim our loyalties reflexively.  Instantly recognizable symbols
+quickly assign "us" and "them" labels to everyone we encounter. At the
+Thanksgiving table, we're aggravated the most by relatives who should
+be "us" but turn out to be "them."
 
 The immune system is a security system that also distinguishes between
-"body" and "foreign." Invading pathogens are recognized as foreigners,
-and agents of the immune system, like T-cells, are dispatched to
-eliminate them.
+"body" and "foreign." Invading pathogens are recognized as foreigners.
+Agents of the immune system, like T-cells, are dispatched to eliminate
+them.
+
+### Your credentials, please
 
 When deciding whom to trust, we often turn to credentials. By
 displaying the right credentials, a person (or a cell) often can carry
@@ -77,10 +71,10 @@ on without further questioning. The credentials are a form of
 shortcut, a talisman of trust. They save everyone the hassle of
 repeated investigation.
 
-##### This ID is legit, and still it's useless
-
 Credentials help you detect outsiders, but are useless against
-traitors and embezzlers.
+traitors. An executive who embezzles has all the valid credentials for
+the company that hired them.
+
 
 *Insider jobs* are the hardest kind of attack to protect against.  To
 stop an insider attack, you have to ignore the very credentials you
