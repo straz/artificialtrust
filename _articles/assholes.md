@@ -119,9 +119,6 @@ Cancer and autoimmune diseases thrive by manipulating and evading the
 immune system. Criminals thrive when they corrupt the legal system
 that's supposed to catch them. 
 
-A compromised immune system cannot fight disease properly, and a
-compromised justice system cannot fight crime properly. 
-
 ### Co-opting the enablers
 
 While the immune system or justice system are supposed to stop
@@ -156,11 +153,6 @@ another, "You know you want it." Cancer is the dark side of
 permission.  It says it's ok to satisfy one's own desires and ignore
 the harm it does to others.
 
-Criminal justice was simpler when death was the penalty for most
-crimes.  Today our cancer cures seek to isolate and burn away or cut
-away the tumor cells. As our understanding advances, perhaps some day
-medicine will find better ways to rehabilitate cancerous cells,
-restoring their civic sensibility instead of annihilating them.
 
 ### So what
 
@@ -174,12 +166,17 @@ of mechanisms that normally are supposed to protect us from them.
   * they are supported by enablers who provide what they need
   * they tempt others to join them
 
-Protecting ourselves requires different tactics than those used to stop
-ordinary diseases and ordinary criminals.
+Protecting ourselves requires different tactics than those used to
+stop ordinary diseases and ordinary criminals. Criminal justice was
+simpler when death was the penalty for most crimes.  Today our cancer
+cures seek to isolate and burn away or cut away the tumor cells. As
+our understanding advances, perhaps some day medicine will find better
+ways to rehabilitate cancerous cells, restoring their civic
+sensibility instead of annihilating them.
 
-We know this transformation is preventable &mdash; many of us manage
-to resist such temptation, and so do our cells. But what is the
-mechanism of getting permission to harm others?  How do we regulate
-ourselves, and [govern](cyber) our own behavior?  And once the line is
-crossed, is this transformation reversible?
+Most of us manage to resist a life of crime, and our cells mostly
+don't get cancer. But what is the mechanism of getting permission to
+harm others?  How do we regulate ourselves, and [govern](cyber) our
+own behavior?  And once the line is crossed, is this transformation
+reversible?
 
