@@ -52,10 +52,10 @@ and survival.
 
 In modern times, security systems use ID badges and passwords
 distinguish between "us" and "them." In polarized social media, we
-proclaim our loyalties reflexively.  Instantly recognizable symbols
-quickly assign "us" and "them" labels to everyone we encounter. At the
-Thanksgiving table, we're aggravated the most by relatives who should
-be "us" but turn out to be "them."
+proclaim our loyalties as virtues.  We instantly recognize and assign
+"us" and "them" labels to everyone we encounter. At the Thanksgiving
+table, we're aggravated the most by relatives who should be "us" but
+turn out to be "them."
 
 The immune system is a security system that also distinguishes between
 "body" and "foreign." Invading pathogens are recognized as foreigners.
