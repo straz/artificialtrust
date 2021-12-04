@@ -61,7 +61,7 @@ and they don't produce them.
 
 *Example: We know that the presence of beta-amyloid plaques are
 correlated with neural degeneration found in Alzheimer's disease. As
-of recently, what we **don't** know is whether the disease causes the
+of recently, what we don't know is whether the disease causes the
 plaques to form, or if the formation of these plaques cause the
 disease.*
 
