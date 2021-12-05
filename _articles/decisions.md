@@ -93,6 +93,10 @@ strangers to make that call. It's fallible and can be manipulated.
 But it's in charge of what you believe in.
 
 
+<style>
+#fnref\:1, .reversefootnote { display: none}
+</style>
 
+[^1]
 
-[1]: image credit: [cgoulau](https://flickr.com/photos/cgoulao/3190215777)
+[^1]: *image credit:* [cgoulau](https://flickr.com/photos/cgoulao/3190215777)
