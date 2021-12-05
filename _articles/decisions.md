@@ -18,15 +18,15 @@ these decisions around to inform further decisions.  We decide what we
 want for lunch, who we'll go out with, or whether the roof needs
 fixing. Once we decide what we want for lunch, we then decide how to
 go about getting it. Pizza for lunch? The next decision might well be
-delivery or pick up.
+choosing toppings, or choosing between delivery or pick up.
 
 
 ### Getting more brains
 
 The decisions you keep are not always the decisions you make by
 yourself. A friend tells you about a great new pizza place, so you
-decide to try it.  That's how we use the brains of others - we rely on
-them to give us decisions that we can keep and use later.
+decide to try it.  That's how we use the brains of others &mdash; we
+rely on them to give us decisions that we can keep and use later.
 
 Trusted sources are friends whose decisions we adopt.  We adopt their
 decisions, often without deep examination, adding them to our own.
