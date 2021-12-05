@@ -4,6 +4,7 @@ title: Artificial Trust definitions
 category: definition
 released: true
 status: ready
+arts: [decisions]
 ---
 
 #### Trust
