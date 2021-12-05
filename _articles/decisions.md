@@ -37,21 +37,23 @@ When you keep a decision around, you trust it. You tell yourself,
 "I've made this decision, it can be used now." It's more comfortable
 to keep the decisions you've already made.
 
+Of course you can go back and look at it again, maybe even reverse
+it. That's ok, it just means you don't trust it any more.
+
 It's expensive to go back and check a decision. It takes time and
 effort. While you're doing all that checking, you can't move
 forward. You might miss out on something.
-
-Of course you can go back and look at it again, maybe even reverse
-it. That's ok, it just means you don't trust it any more.
 
 Trust is the great time-saver for brains &mdash; it means you don't need to
 go back and revisit a decision you've made.
 
 ### The trust recognizer
 
-We have a gatekeeper, which decides what's trustworthy and what isn't.
-This is our trust recognizer. It sets the bar for the decisions we
-abide by, decisions we disavow, and decisions we need to re-examine.
+How do we choose what to believe in? We have a gatekeeper which
+decides what's trustworthy and what isn't.  This is our trust
+recognizer. It sets the bar for the decisions we abide by, decisions
+we disavow, and decisions we need to re-examine. It is the arbiter of
+what "feels right."
 
 When we choose what to have for lunch, we're influenced by a wide
 range of inputs: hunches, appetites, experience, reason, evidence, and
@@ -66,12 +68,15 @@ doesn't really work any differently than our other decisions.
 There are older decisions we no longer believe in. Those are kept
 somewhere else, or perhaps discarded. Our memories of decisions past
 are an important part of experience. Our past decisions have something
-to teach us about the decisions we make today. We used to order extra
-cheese and hot peppers on every pizza, but one day we made a new
-decision to stop doing that. Perhaps we even had a good reason.  The
-old decision is retired and serves as a lesson to us.  The new
-decision which replaced it is very much kept in the active cupboard,
-to be called upon the next time we're ordering lunch.
+to teach us about the decisions we make today. 
+
+We used to order extra cheese and hot peppers on every pizza. One day,
+we made a new decision to stop doing that. Perhaps we even had a good
+reason.
+
+The old decisions are retired and serve as a lesson to us.  The new
+decisions which replace them are very much kept in the active
+cupboard, to be called upon the next time we're ordering lunch.
 
 
 ### So what
