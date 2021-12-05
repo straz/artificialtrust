@@ -7,6 +7,11 @@ status: ready
 defs: [delicious]
 ---
 
+<style>
+   img[alt=aristotle] { width: 200%;}
+</style>
+
+
 We have two kinds of intelligence, which Daniel Kahneman[^1] refers to
 as System 1 and System 2.
 
@@ -29,7 +34,8 @@ tricks like [delicious poison](delicious).
 member of the tribe, we follow them quickly, without hesitation or
 thinking.
 
-<img src="{{ site.url }}/assets/pix/follow-ant.svg"/>
+![ants]({{ 'follow-ant.svg' | prepend:'/assets/pix/' | relative-url}} )
+
 
 {% endcapture %}
 
@@ -50,13 +56,12 @@ made by fast thinking.
 conclusions can then be trusted and followed quickly, just like
 trusted members of the tribe.
 
-
-<img style="width: 40em" src="{{ "/assets/pix/aristotle.svg" | relative-url }}">
+![aristotle]({{ 'aristotle.svg' | prepend:'/assets/pix/' | relative-url}} )
 
 {% endcapture %}
 
 <style>
-#fnref\:2 { display: none}
+#fnref\:2, .reversefootnote { display: none}
 </style>
 
 [^2]
