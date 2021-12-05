@@ -52,5 +52,5 @@ iLab, and the Technology and Public Purpose Project at the Harvard
 Kennedy School.
 
 Steve has received three degrees from MIT including a PhD from the MIT
-Media Lab for work in artificial intelligence, as an advisee of
-Prof. Marvin Minsky. He holds 5 patents.
+Media Lab for work in artificial intelligence, as an advisee of Marvin
+Minsky. He holds 5 patents.
