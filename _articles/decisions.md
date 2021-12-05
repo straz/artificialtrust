@@ -45,8 +45,9 @@ It's expensive to go back and check a decision. It takes time and
 effort. While you're doing all that checking, you can't move
 forward. You might miss out on something.
 
-Trust is the great time-saver for brains &mdash; it means you don't need to
-go back and revisit a decision you've made.
+Trust is the great time-saver for brains. It's a shortcut. It means
+you can just use a ready-made decision you made earlier. You don't
+need to go back and revisit it.
 
 ### The trust recognizer
 
