@@ -63,8 +63,10 @@ results, it makes more logical sense to burn down your neighbor's
 house than to build yourself a better one. Perhaps you can find a way
 to spoil your opponent's meal, causing them to go hungry.
 
-That strategy of course has an obvious flaw. Hurting others doesn't
-guarantee that you'll get any food yourself, or get a nice new house.
+That strategy of course has an obvious flaw. In the real world, once
+the costs are asymmetrical, the results are no longer
+zero-sum. Hurting others doesn't guarantee that you'll get any food
+yourself, or get a nice new house.
 
 It's possible for both competitors to end up as losers. The lose-lose
 outcome is fairly inexpensive and easy to achieve. It turns out to be
