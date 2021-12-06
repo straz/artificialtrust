@@ -102,6 +102,7 @@ But it's in charge of what you believe in.
 
 <style>
 #fnref\:1, .reversefootnote { display: none}
+ol {padding-inline-start: 0px}
 </style>
 
 [^1]
