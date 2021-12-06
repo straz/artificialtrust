@@ -11,7 +11,7 @@ defs: [trust]
 img[alt=bowls] { width: 70%; }
 </style>
 
-![bowls]({{ 'bowls.svg' | prepend:'/assets/pix/' | relative-url}} )
+![bowls]({{ 'bowls-sepia.svg' | prepend:'/assets/pix/' | relative-url}} )
 
 Our brains store decisions, like ingredients in a cupboard.  We keep
 these decisions around to inform further decisions.  We decide what we
