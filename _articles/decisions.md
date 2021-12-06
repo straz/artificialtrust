@@ -61,11 +61,16 @@ what "feels right."
 
 When we choose what to have for lunch, we're influenced by a wide
 range of inputs: hunches, appetites, experience, reason, evidence, and
-the suggestions of complete strangers.
+the suggestions of complete strangers. Our trust recognizer is no
+different. It employs the very same mechanisms and influences as our
+other decisions. How rigorously we decide what we believe in is no
+more or less disciplined than how we decide what to eat for lunch, and
+just as susceptible to manipulation and mistakes.
 
-Our trust recognizer is no different, it employs the very same tools. 
-It's special, because it makes decisions about our decisions. But it
-doesn't really work any differently than our other decisions. 
+The trust recognizer is special in just one way, because it makes
+decisions about our decisions. "Trusted" means we keep a decision in
+the cupboard, and proceed to rely on it. "Not trusted" means we don't
+believe, we set those decisions aside.
 
 ### Can't trust this anymore
 
