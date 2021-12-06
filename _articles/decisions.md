@@ -36,14 +36,14 @@ our own.
 
 When you keep a decision around, you trust it. You tell yourself,
 "I've made this decision, it can be used now." It's more comfortable
-to keep the decisions you've already made.
+to keep the decisions you've already made than to discard them.
 
-Of course you can go back and look at it again, maybe even reverse
-it. That's ok, it just means you don't trust it any more.
+Of course you can go back and look at one again, maybe even reverse
+it. It means you don't trust it any more.
 
-It's expensive to go back and check a decision. It takes time and
+But it's expensive to go back and check a decision. It takes time and
 effort. While you're doing all that checking, you can't move
-forward. You might miss out on something.
+forward. You might waste your time, and miss out on something.
 
 Trust is the great time-saver for brains. It's a shortcut. It means
 you can just use a ready-made decision you made earlier. You don't
