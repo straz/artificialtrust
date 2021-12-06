@@ -58,20 +58,18 @@ hurting others is easy and cheap, the path to success is clear.
 
 ### When zero sum strategies gives you lose-lose
 
-It turns out to be a terrible idea to apply this lopsided strategy
-outside of those situations, but we do it anyway.
-
-In a world which is zero sum, where results have asymmetrical costs,
-it makes more logical sense to burn down your neighbor's house than to
-build yourself a better one. Perhaps you can find a way to spoil your
-opponent's meal, causing them to go hungry.
+In a world where results have asymmetrical costs, but zero-sum
+results, it makes more logical sense to burn down your neighbor's
+house than to build yourself a better one. Perhaps you can find a way
+to spoil your opponent's meal, causing them to go hungry.
 
 That strategy of course has an obvious flaw. Hurting others doesn't
 guarantee that you'll get any food yourself, or get a nice new house.
 
-The lose-lose outcome is fairly inexpensive and easy to achieve.
-It's possible for both competitors to end up as losers. Not every loss
-is matched by a gain.
+It's possible for both competitors to end up as losers. The lose-lose
+outcome is fairly inexpensive and easy to achieve. It turns out to be
+a terrible idea to apply a lopsided strategy in situations which are
+not fully zero-sum, but we do it anyway.
 
 ### So what
 
