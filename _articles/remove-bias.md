@@ -22,8 +22,8 @@ as quickly and effortlessly as possible.
 
 Let's start with the "how our brains work" part. We have two kinds of
 intelligence which Daniel Kahneman[^1] refers to as System 1 and
-System 2. More informally, I like to refer to them as *do or die* and
-*reason why.*
+System 2. More informally, I like to [refer to them](../definitions/reason-do-die)
+as *do or die* and *reason why.*
 
 [^1]: Kahneman (2011). [*Thinking Fast And Slow*](https://www.amazon.com/dp/0374533555/). Farrar, Straus and Giroux.
 
