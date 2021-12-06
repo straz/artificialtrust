@@ -4,6 +4,7 @@ title: Do or die vs. reason why
 category: definition
 released: true
 status: ready
+arts: [remove-bias]
 defs: [delicious]
 ---
 
