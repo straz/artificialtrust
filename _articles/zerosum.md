@@ -33,6 +33,10 @@ one party are exactly equal and opposite to those won by the other
 party. The American press covers politics the same way it covers
 sports: as if it were a zero-sum game.
 
+The strategy for zero sum contests is super easy to understand. It's
+easy for us to believe in, and it's easy to persuade others to adopt
+it. We learn it because some familiar experiences are zero sum
+contests, and we grow up with them.
 
 ### Asymmetrical effort
 
@@ -52,22 +56,18 @@ of others is a perfectly sound strategy.
 If you find that helping yourself is difficult or expensive, and
 hurting others is easy and cheap, the path to success is clear. 
 
-
 ### When zero sum strategies gives you lose-lose
+
+It turns out to be a terrible idea to apply this lopsided strategy
+outside of those situations, but we do it anyway.
 
 In a world which is zero sum, where results have asymmetrical costs,
 it makes more logical sense to burn down your neighbor's house than to
-build yourself a better one.
+build yourself a better one. Perhaps you can find a way to spoil your
+opponent's meal, causing them to go hungry.
 
-The lopsided zero sum strategy is super easy to understand. We learn
-it because it's simple and we intuitively learn it from examples in
-real life. It turns out to be a terrible idea to apply this strategy
-outside of those situations, but we do it anyway.
-
-Perhaps you can find a way to spoil your opponent's meal, causing them
-to go hungry, or burn down their house. That strategy of course has an
-obvious flaw. Hurting others doesn't guarantee that you'll get any
-food yourself, or get a nice new house.
+That strategy of course has an obvious flaw. Hurting others doesn't
+guarantee that you'll get any food yourself, or get a nice new house.
 
 The lose-lose outcome is fairly inexpensive and easy to achieve.
 It's possible for both competitors to end up as losers. Not every loss
