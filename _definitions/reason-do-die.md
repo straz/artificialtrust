@@ -62,6 +62,7 @@ trusted members of the tribe.
 
 <style>
 #fnref\:2, .reversefootnote { display: none}
+li#fn\:2 { list-style-type: none;}
 </style>
 
 [^2]

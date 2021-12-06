@@ -10,6 +10,7 @@ arts: [remove-bias]
 ---
 <style>
 img[alt=bowls] { width: 70%; }
+li#fn\:1 { list-style-type: none;}
 </style>
 
 ![bowls]({{ 'bowls-sepia.svg' | prepend:'/assets/pix/' | relative-url}} )
