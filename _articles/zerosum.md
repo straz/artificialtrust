@@ -69,9 +69,9 @@ zero-sum. Hurting others doesn't guarantee that you'll get any food
 yourself, or get a nice new house.
 
 It's possible for both competitors to end up as losers. The lose-lose
-outcome is fairly inexpensive and easy to achieve. It turns out to be
-a terrible idea to apply a lopsided strategy in situations which are
-not fully zero-sum, but we do it anyway.
+outcome is fairly inexpensive to execute and easy to achieve. It turns
+out to be a terrible idea to apply a lopsided strategy in situations
+which are not fully zero-sum, but we do it anyway.
 
 ### So what
 
