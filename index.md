@@ -2,9 +2,10 @@
 layout: page
 ---
 
-*Artificial Trust* is a collection of essays, offering
-a framework for understanding complex systems. It's an attempt to
-explain how algorithms can fail in the things we trust.
+<p class="drop-cap">A<em>rtificial Trust</em> is a collection of
+essays, offering a framework for understanding complex systems. It's
+an attempt to explain how algorithms can fail in the things we
+trust.</p>
 
 We rely on complex systems like our health, our society, and the internet.
 These in turn rely on mechanisms to govern themselves and to
