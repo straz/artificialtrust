@@ -14,21 +14,19 @@ which in turn rely on some mechanisms of recognition and trust.
 
 
 {% for article in site.articles %}
-{% if article.show_home != true %}
-{% continue %}
-{% endif %}
+  {% if article.show_home != true %}
+  {% continue %}
+  {% endif %}
     
 <p class="mt-4"></p>
-
 ##### [{{ article.title }}]({{ article.url | relative_url }})
-
 {% capture seemore %}...[*read more*]({{ article.url | relative_url }}){% endcapture %}
-{% assign seemorehtml = seemore | markdownify | remove: '<p>'  %}
-
+{% capture seemore2 %}{{ seemore
+   | markdownify | remove: '<p>' | remove: '</p>'
+   | prepend: '<span class="text-nowrap">' | append: '</span>' }}{% endcapture %}
 {% assign excerpt_snip1 = article.content | split: "<!-- start_excerpt -->" %}
 {% assign excerpt_snip2 = excerpt_snip1[1] | split: "<!-- end_excerpt -->" %}
-{{ excerpt_snip2[0] | append: seemorehtml }}
-
+{{ excerpt_snip2[0] | remove: '<p>' | remove: '</p>' | append: seemore2 }}
 {% endfor %}
 
 <p class="mt-4"></p>
