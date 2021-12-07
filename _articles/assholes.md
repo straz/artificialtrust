@@ -15,7 +15,9 @@ to cancer as an "asshole" of a disease.
 
 The people who confront assholes &mdash; people whose lives are harmed
 by con men, bullies, and corrupt politicians who lie, cheat, and steal &mdash;
-I've heard them refer to those assholes as "a cancer" on society.
+I've heard them refer to those assholes as "a cancer" on society[^1].
+
+[^1]:[U.S. Strategy on Countering Corruption](https://www.whitehouse.gov/briefing-room/statements-releases/2021/12/06/fact-sheet-u-s-strategy-on-countering-corruption/#:~:text=corruption%20is%20a%20cancer), US White House briefing room statement, December 6, 2021.
 
 I've come to believe that there's more going on here than just anger
 and hyperbolic wordplay. I think that quite literally, a common
