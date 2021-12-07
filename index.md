@@ -11,16 +11,6 @@ These in turn rely on mechanisms to govern themselves and to
 evolve. These mechanisms involve feedback and selective pressure,
 which in turn rely on some mechanisms of recognition and trust. 
 
-<p class="mt-4"></p>
-
-##### [What is Artificial Trust?]({{ '../definitions/trust' | relative_url }})
-
-*Artificial Trust:* A false computational
-shortcut. Artificial trust closely resembles natural trust, as it
-reduces the computation needed to achieve confidence in a
-result. But in artificial trust, this confidence is false, because
-the results are not reliably valid.
-...[*read more*]({{'../definitions/trust' | relative_url }})
 
 {% for article in site.articles %}
 {% if article.show_home != true %}
@@ -39,3 +29,14 @@ the results are not reliably valid.
 {{ excerpt_snip2[0] | append: seemorehtml }}
 
 {% endfor %}
+
+<p class="mt-4"></p>
+
+##### [What is Artificial Trust?]({{ '../definitions/trust' | relative_url }})
+
+*Artificial Trust:* A false computational
+shortcut. Artificial trust closely resembles natural trust, as it
+reduces the computation needed to achieve confidence in a
+result. But in artificial trust, this confidence is false, because
+the results are not reliably valid.
+...[*read more*]({{'../definitions/trust' | relative_url }})

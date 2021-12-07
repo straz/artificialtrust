@@ -3,6 +3,7 @@ layout: article
 title: Where we keep decisions
 created_date: 2021-12-05
 released: true
+show_home: true
 status: ready
 defs: [trust]
 arts: [remove-bias]
@@ -15,9 +16,9 @@ li#fn\:1 { list-style-type: none;}
 
 ![bowls]({{ 'bowls-sepia.svg' | prepend:'/assets/pix/' | relative-url}} )
 
-Our brains store decisions, like ingredients in a cupboard.  We keep
-these decisions around to inform further decisions.  We decide what we
-want for lunch, who we'll go out with, or whether the roof needs
+<!-- start_excerpt -->Our brains store decisions, like ingredients in a cupboard.  We keep
+these decisions around to inform further decisions. <!-- end_excerpt -->
+We decide what we want for lunch, who we'll go out with, or whether the roof needs
 fixing. Once we decide what we want for lunch, we then decide how to
 go about getting it. Pizza for lunch? The next decision might well be
 choosing toppings, or choosing between delivery or pick up.
