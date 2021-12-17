@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Social information structures
+title: Durable information structures
 arts: [cyber]
 created_date: 2021-12-17
 released: true
@@ -8,23 +8,49 @@ status: ready
 
 ---
 
-### Durable information structures
-
-Among people, *institutions* are things like the court system, the
-press, markets, hospitals, or corporations. These are first and
-foremost information structures.
+### Institutions
 
 Individuals can work together to build physical structures, like
 houses, bridges, and factories. But they also build information
 structures. An information structure is a set of ideas, shared by a
 social group.
 
+*Institutions* are are information structures that outlast the people
+who create them. They can be organizations or networks of
+organizations, like the court system, the press, markets, hospitals,
+or corporations. They can be actionable ideas, like the idea of
+marriage, a college degree, or the idea of "an eye for an eye."
+
 You can tell that ants and people are social beings, because they
 create institutions. An institution is a durable information structure
 that is sustained by the consensus behavior of individuals over time.
-It lasts because of the storage and two-way exchange of information.
-Individuals contribute information to institutions, while at the same
-time, the institution contributes information to individuals.
+
+### Durable and resilient
+
+An institution lasts because of how it stores and exchanges
+information.  Individuals contribute information to institutions,
+while at the same time, the institution contributes information to
+individuals. It tells them what to do and how to behave.
+
+Over time, the institution take up permanent residence in a social
+group. It accumulates traditions, rules, assigned roles, and ways of
+recruiting new members.
+
+### All in your head
+
+Since it's an information structure, institutions are stored in the
+minds of their members, and in physical records. Members learn about
+the institution, how it works, what to expect from it, and how to join
+it. They teach their children and their neighbors about it.
+
+To extend personal memory, people record the institution's history in
+physical records. Filing cabinets, databases, and statues with bronze
+plaques extend the memory of individuals.
+
+As long as this information is retained, and there are people willing
+to act on it, the institution lives on. The physical form of the
+information does not matter, the institution's preservation is purely
+a matter of preserving the information that it's made of.
 
 ### Institutions cannot act
 
