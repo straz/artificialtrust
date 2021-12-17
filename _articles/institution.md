@@ -63,5 +63,5 @@ with guns and bombs. To weaken or destroy a social group, you
 basically needed to attack the physical things produced by that group.
 
 In the era of information warfare, enemies attack our information
-structures with artificial trust. To weaken or destroy a social group,
-you basically need to attack their institutions.
+structures with [artificial trust](decisions). To weaken or destroy a
+social group, you basically need to attack their institutions.
