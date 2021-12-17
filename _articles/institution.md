@@ -19,7 +19,8 @@ social group.
 who create them. They can be organizations or networks of
 organizations, like the court system, the press, markets, hospitals,
 or corporations. They can be actionable ideas, like the idea of
-marriage, a college degree, or the idea of "an eye for an eye."
+marriage, a college degree, bitcoin, or the idea of "an eye for an
+eye."
 
 You can tell that ants and people are social beings, because they
 create institutions. An institution is a durable information structure
