@@ -32,16 +32,17 @@ information.  Individuals contribute information to institutions,
 while at the same time, the institution contributes information to
 individuals. It tells them what to do and how to behave.
 
-Over time, the institution take up permanent residence in a social
+Over time, the institution takes up permanent residence in a social
 group. It accumulates traditions, rules, assigned roles, and ways of
 recruiting new members.
 
 ### All in your head
 
 Since it's an information structure, institutions are stored in the
-minds of their members, and in physical records. Members learn about
-the institution, how it works, what to expect from it, and how to join
-it. They teach their children and their neighbors about it.
+minds of their members, and in physical records. Individuals learn
+about the institution, how it works, what to expect from it, how to
+join it, and what happens if they don't. They teach their children and
+their neighbors about it.
 
 To extend personal memory, people record the institution's history in
 physical records. Filing cabinets, databases, and statues with bronze
