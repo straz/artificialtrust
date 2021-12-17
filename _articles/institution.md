@@ -43,8 +43,8 @@ individuals are harmed. These institutions have too much power (or the
 wrong kinds of power) over individuals.
 
 * *Hypoinstitutionism* - weakening institutions to the point where
-individuals are harmed, because they fail to provide the services they
-were supposed to.
+individuals are harmed. These institutions fail to provide the
+services they were supposed to.
 
 We talk about institutions in terms of our trust in them. This trust is
 itself an institution, a durable information structure that's shared
@@ -55,8 +55,8 @@ among individuals.
 How do we make institutions strong enough, but not too strong?  We
 want them to be strong enough to protect us and provide us with
 services. We don't want them to be too strong and push us
-around. [Cybernetics](cyber) is the art of finding the middle ground,
-not too much, and not too little.
+around. [Cybernetics](cyber) is the art of navigating between two
+extremes: not too much, and not too little.
 
 In the era of physical warfare, enemies attack our physical structures
 with guns and bombs. To weaken or destroy a social group, you
