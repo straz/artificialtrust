@@ -62,6 +62,7 @@ build) can act. Institutions process information and make decisions,
 but ultimately those decisions only become actions when an individual
 receives those decisions and acts on them.
 
+### Should we trust institutions?
 
 Broadly speaking, institutions fail in one of two distinct ways:
 
