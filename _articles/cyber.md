@@ -9,10 +9,11 @@ arts: [zerosum]
 defs: [brakes]
 ---
 
-We use the term *cyber* broadly to mean anything involving computers.
+Today, we use the term *cyber* broadly to mean anything involving computers.
+But where does the word *cyber* come from?
 
-Where does the word *cyber* come from? Before it meant *tech*, it came
-from an even bigger idea, one that dates back to the ancient Greeks.
+Before it meant *tech*, it came from an even bigger idea, one that
+dates back to the ancient Greeks.
 
 <style>
 h3 { margin-top: 2em;
