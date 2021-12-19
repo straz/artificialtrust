@@ -66,8 +66,7 @@ using knowledge from another.
  *  *Proof* makes it possible to rely on knowledge with high confidence.
  * *Managing counterfactuals* makes it possible to imagine things that
  you're not observing at the moment. This in turn makes it possible to *have an
- imagination*, *recall the past*, *make plans for the future*, *compare alternatives*, *make a wish*, or
- *test hypotheses*
+ imagination*, *keep fact and fiction separate*, *recall the past*, *make plans for the future*, *compare alternatives*, *make a wish*, or *test hypotheses*
  * *Generate counterexamples* makes it possible to validate your recognizer by
  testing it without a training set.
  * *Abstraction* means you can generalize specific ideas into abstract ideas which capture their essential truth.
