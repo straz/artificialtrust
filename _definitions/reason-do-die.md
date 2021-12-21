@@ -26,6 +26,23 @@ More informally, I like to refer to them as *do or die* and *reason why.*
 "Do or die" responses are knee-jerk survival reflexes, epitomized by neural nets,
 or what Kahneman calls System 1.
 
+{% endcapture %}
+
+{% capture right %}
+
+### Reason why
+
+"Reason why" intelligence is the capacity for slow thinking, or what
+Kahneman calls System 2.
+
+{% endcapture %}
+
+{% assign leftmd = left | markdownify %}
+{% assign rightmd = right | markdownify %}
+{% include twocol.html left=leftmd right=rightmd %}
+
+
+{% capture left2 %}
 They're always fast. They make decisions in real time, where speed is needed for survival.
 
 Knee-jerk responses are not always correct. They're easily fooled by 
@@ -37,15 +54,9 @@ thinking.
 
 ![ants]({{ 'follow-ant.svg' | prepend:'/assets/pix/' | relative-url}} )
 
-
 {% endcapture %}
 
-{% capture right %}
-
-### Reason why
-
-"Reason why" intelligence is the capacity for slow thinking, or what
-Kahneman calls System 2.
+{% capture right2 %}
 
 Reasoning is slow and expensive. We don’t have the capacity to do
 much of it, because it’s exhausting.
@@ -61,6 +72,11 @@ trusted members of the tribe.
 
 {% endcapture %}
 
+{% assign leftmd = left2 | markdownify %}
+{% assign rightmd = right2 | markdownify %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false %}
+
+
 <style>
 #fnref\:2, .reversefootnote { display: none}
 li#fn\:2 { list-style-type: none;}
@@ -71,6 +87,4 @@ li#fn\:2 { list-style-type: none;}
 [^2]: *image credit:* Plato and Aristotle in <i>Causarum Cognitio</i> (Knowledge of the Causes), <br/>by Raphael, c.1510.
 
 
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd %}
+
