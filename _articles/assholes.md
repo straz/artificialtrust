@@ -33,9 +33,8 @@ inside job &mdash; the kind of attack which we are just not good
 at dealing with.
 
 Our immune system works by identifying pathogens as *outsiders*.  But
-cancer cells are not outsiders. Cancer cells thrive by seeming
-trustworthy.  They display all the right proteins to avoid being
-recognized as enemies by our immune system.
+cancer cells are not foreign invaders, they're cells from our own
+body. They all grow from other trusted cells in our bodies.
 
 Similarly, autoimmune diseases are not outsider attacks. The attackers
 are trusted members of our own immune system, mistakenly attacking
@@ -74,15 +73,15 @@ repeated investigation.
 
 No matter how secure they are, credentials are nearly useless against
 insider threats.  An executive who embezzles has all the valid
-credentials for the company that hired them. Cancer cells aren't
-foreign invaders, they're cells from your own body, and they all grow
-from other trusted cells in our bodies.
+credentials for the company that hired them. Cancer cells display all
+the right proteins to avoid being recognized as enemies by our immune
+system.
 
-To stop an insider attack, you have to ignore the very credentials you
-issued, and investigate those who are carrying them. Instead of
-subjecting outsiders to scrutiny, you're stopping and questioning
-members of your own family. No wonder it's painful, risky, and
-inefficient.
+Insiders thrive by seeming trustworthy, and they carry proof. To stop
+an insider attack, you have to ignore the very credentials you issued,
+and investigate those who are carrying them. Instead of subjecting
+outsiders to scrutiny, you're stopping and questioning members of your
+own family. No wonder it's painful, risky, and inefficient.
 
 ### Manipulating the lawmakers
 

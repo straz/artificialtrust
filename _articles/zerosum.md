@@ -13,7 +13,7 @@ This essay is for you.
 
 ### Zero-sum
 
-In a perfectly zero-sum world, winning and losing is symmetrical.  If
+In a perfectly zero-sum world, winning and losing are symmetrical.  If
 someone scores a point, it means someone else will lose a
 point. Passing a car on the highway puts you ahead, and being passed
 puts you behind. Making a profit on a stock trade means that someone
