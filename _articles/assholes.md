@@ -67,23 +67,24 @@ them.
 
 ### These credentials are no good
 
-When deciding whom to trust, we often turn to credentials. By
+Insiders thrive by seeming trustworthy, so they carry irrefutable
+proof.  When deciding whom to trust, we often turn to credentials. By
 displaying the right credentials, a person (or a cell) often can carry
 on without further questioning. The credentials are a form of
-shortcut, a talisman of trust. They save everyone the hassle of
-repeated investigation.
+time-saving shortcut, a talisman of trust. They save everyone the
+hassle of repeated investigation.
 
-No matter how secure they are, credentials are nearly useless against
-insider threats.  An executive who embezzles has all the valid
-credentials for the company that hired them. Cancer cells display all
-the right proteins to avoid being recognized as enemies by our immune
-system.
+Insiders have solid credentials, and outsiders don't. No matter how
+secure they are, credentials are nearly useless against insider
+threats.  An executive who embezzles has all the valid credentials for
+the company that hired them. Cancer cells display all the right
+proteins to avoid being recognized as enemies by our immune system.
 
-Insiders thrive by seeming trustworthy, and they carry proof. To stop
-an insider attack, you have to ignore the very credentials you issued,
-and investigate those who are carrying them. Instead of subjecting
-outsiders to scrutiny, you're stopping and questioning members of your
-own family. No wonder it's painful, risky, and inefficient.
+To stop an insider attack, you have to ignore the very credentials you
+issued, and investigate those who are carrying them. Instead of
+subjecting outsiders to scrutiny, you're stopping and questioning
+members of your own family. No wonder it's painful, risky, and
+inefficient.
 
 ### Manipulating the lawmakers
 
@@ -100,8 +101,8 @@ manipulate the very systems that are in place to catch them. They use
 achieve impunity.
 
 Cancer and autoimmune diseases thrive by manipulating and evading the
-immune system. Criminals thrive when they corrupt the legal system
-that's supposed to catch them. 
+immune system that's supposed to stop them. Criminals thrive when they
+corrupt the legal system that's supposed to catch them.
 
 ### Co-opting the enablers
 
