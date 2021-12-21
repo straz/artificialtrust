@@ -28,7 +28,7 @@ to trust.
 
 ### It's an inside job
 
-The "con" in con man comes from "confidence", someone who creates
+The "con" in con man comes from "confidence," someone who creates
 [artificial trust]({{ '../definitions/trust' | relative-url }} ),
 looking more like a friend than an enemy. These attacks are an inside
 job &mdash; the kind of attack which we are just not good at dealing
