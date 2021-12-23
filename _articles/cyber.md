@@ -15,21 +15,6 @@ But where does the word *cyber* come from?
 Before it meant *tech*, it came from an even bigger idea, one that
 dates back to the ancient Greeks.
 
-<style>
-h3 { margin-top: 2em;
-     margin-bottom: 1em;
-   }
-</style>
-
-
-* [Steering to safety](#steering-to-safety)
-* [Not too fast, not too slow, just right](#not-too-fast-not-too-slow-just-right)
-* [The origial cyber meme](#the-original-cyber-meme)
-* [The art of governing](#the-art-of-governing)
-* [Control and communications: man and machine cannot be separated](#control-and-communications-man-and-machine-cannot-be-separated)
-* [Where do we steer today?](#where-do-we-steer-today)
-* [So what](#so-what)
-
 ### Steering to safety
 
 <!-- start_excerpt -->

@@ -19,7 +19,7 @@ which in turn rely on some mechanisms of recognition and trust.
   {% endif %}
     
 <p class="mt-4"></p>
-##### [{{ article.title }}]({{ article.url | relative_url }})
+#### [{{ article.title }}]({{ article.url | relative_url }})
 {% capture seemore %}...[*read more*]({{ article.url | relative_url }}){% endcapture %}
 {% capture seemore2 %}{{ seemore
    | markdownify | remove: '<p>' | remove: '</p>'
@@ -31,7 +31,7 @@ which in turn rely on some mechanisms of recognition and trust.
 
 <p class="mt-4"></p>
 
-##### [What is Artificial Trust?]({{ '../definitions/trust' | relative_url }})
+#### [What is Artificial Trust?]({{ '../definitions/trust' | relative_url }})
 
 *Artificial Trust:* A false computational
 shortcut. Artificial trust closely resembles natural trust, as it

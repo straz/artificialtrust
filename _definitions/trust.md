@@ -6,13 +6,6 @@ released: true
 status: ready
 arts: [decisions]
 ---
-<style>
-dt { 
-  font-family: Lato;
-  font-size: 120%;
-}
-dd { padding-left: 1em }
-</style>
 
 Trust
 : A computational shortcut, in the form of a saved memory that

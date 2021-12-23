@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Spectral:200,200i,300,300i,400,400i,500,500i,600,700&display=swap');
 
 $text-color: #111;
@@ -60,6 +60,16 @@ div h4 a, a, a.btn-link {
   }
 }
 
+dt {
+  color: #444;
+  font-family: Lato;
+  font-size: 120%;
+  font-weight: 300;
+}
+dd {
+  padding-left: 1em;
+}
+
 
 .nodotli {
   list-style: none;
@@ -75,6 +85,7 @@ blockquote.blockquote {
 h1,h2,h3,h4,h5 {
   color: #444;
   font-family: Lato, sans-serif;
+  font-weight: 300;
 }
 
 h1 {
@@ -89,6 +100,7 @@ nav {
     padding-top: 0.35em;
   }
   font-family: Lato, sans-serif;
+  font-weight: 400;
   .navbar-brand {
     border-bottom: solid 3px #060;
     &:hover {
