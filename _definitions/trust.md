@@ -7,14 +7,6 @@ status: ready
 arts: [decisions]
 ---
 
-First term
-: foo
-
-Second term
-: foo
-
-
-
 #### Trust
 A computational shortcut, in the form of a saved memory that
 represents a decision that has been already been made. Trust reduces
