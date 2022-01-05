@@ -84,7 +84,8 @@ li#fn\:2 { list-style-type: none;}
 
 [^2]
 
-[^2]: *image credit:* Plato and Aristotle in <i>Causarum Cognitio</i> (Knowledge of the Causes), <br/>by Raphael, c.1510.
+[^2]: *image credit:* Plato and Aristotle in [School of Athens](https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/stanze-di-raffaello/stanza-della-segnatura/scuola-di-atene.html), by Raphael, c.1510.
+
 
 
 
