@@ -82,15 +82,19 @@ on).
 
 <p class="mt-3"/>
 
-Is bending the rules is a smart or dumb idea? An accurate prediction
-can only come from expertise. Experienced experts use emotion
-differently than beginners who face a problem for the first time.
+Is bending the rules a smart or dumb idea? Better outcomes can only
+come from expertise. Experienced experts use emotion differently than
+beginners who face a problem for the first time.
 
 #### Inexperience
-Emotion with inexperience is no better than random chance, just more intense.
+Emotion with inexperience is no better than random chance, just more
+intense.  It might steer you to a good outcome, or it might bring
+disaster. Either way, the result you get is due to dumb luck.
 
-For the inexperienced, emotion provides the confidence necessary for
-action even if the confidence is entirely unjustified.
+For the inexperienced, emotion provides confidence, not correctness.
+With confidence, you can take action and feel great about it in the
+moment. If your confidence is entirely unjustified, well, hey, that
+just isn't a problem right now.
 
 #### Expertise
 
