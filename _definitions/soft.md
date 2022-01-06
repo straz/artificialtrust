@@ -14,12 +14,6 @@ When reason and emotion are in conflict, emotion's role is to add bias
 the outcome. Emotion modifies decisions, making them either softer or
 harder than decisions you'd make using reason alone.
 
-Experienced experts use emotion differently than beginners who face a
-problem for the first time. For an expert, emotion captures the
-accumulated wisdom of past experience. For the inexperienced, emotion
-provides the confidence necessary for action even if the confidence is
-entirely unjustified.
-
 Emotion is about immediacy; it removes hesitation. For both experts
 and beginners, the decision is swift regardless of whether the
 decision is wise or unwise.
@@ -44,6 +38,23 @@ and rules, the response would be "by the book," but *softer now* is
 the path of compassion and forgiveness. By adding emotion, one can
 soften the decision.
 
+{% endcapture %}
+
+{% capture right %}
+### Harder now
+
+Something bad happens, and a response is needed. Applying only logic
+and rules, the response would be "by the book," but *harder now* is
+the path of anger or fear. By adding emotion, one can intensify the
+decision.
+
+{% endcapture %}
+
+{% assign leftmd = left | markdownify %}
+{% assign rightmd = right | markdownify %}
+{% include twocol.html left=leftmd right=rightmd %}
+
+{% capture left2 %}
 In the moment, going easy on someone and bending the rules in their favor
 may seem like a wiser choice. 
 
@@ -52,14 +63,8 @@ leads to future benefits) or bad (gentleness now leads to bigger problems later 
 
 {% endcapture %}
 
-{% capture right %}
+{% capture right2 %}
 
-### Harder now
-
-Something bad happens, and a response is needed. Applying only logic
-and rules, the response would be "by the book," but *harder now* is
-the path of anger or fear. By adding emotion, one can intensify the
-decision.
 
 In the moment, responding harshly and "teaching them a lesson" may
 seem like a wiser choice. 
@@ -71,23 +76,32 @@ on).
 
 {% endcapture %}
 
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd %}
+{% assign leftmd = left2 | markdownify %}
+{% assign rightmd = right2 | markdownify %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false %}
 
 <p class="mt-3"/>
 
 Is bending the rules is a smart or dumb idea? An accurate prediction
-can only come from expertise.
+can only come from expertise. Experienced experts use emotion
+differently than beginners who face a problem for the first time.
 
+#### Inexperience
 Emotion with inexperience is no better than random chance, just more intense.
 
-Emotion with expertise gives an answer based on directly relevant past
-experience. It tells you what has always worked for you in the past,
-assuming conditions stay the same.
+For the inexperienced, emotion provides the confidence necessary for
+action even if the confidence is entirely unjustified.
 
-But it tells you nothing about what will work in the future if
-conditions change. For that, you need reason.  Expertise with logic is
-the only way to get an answer for a unique or new situation.
+#### Expertise
+
+For an expert, emotion captures the accumulated wisdom of past
+experience. It tells you what has always worked for you in the past,
+assuming conditions are pretty much the same.
+
+But emotion tells you nothing about what will work in the future if
+conditions change a lot. To see the future under unfamiliar
+circumstances, you need reason.  Expertise with logic is the only way
+to get an answer for a unique or new situation, something outside your
+experience, like [long reach](reach) problems.
 
 When reason wins out over emotion: see  [Delicious poison vs disgusting cleanup](delicious) 
