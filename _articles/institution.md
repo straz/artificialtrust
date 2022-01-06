@@ -65,15 +65,40 @@ receives those decisions and acts on them.
 
 ### Should we trust institutions?
 
-Broadly speaking, institutions fail in one of two distinct ways:
+Broadly speaking, institutions fail us in one of two distinct ways:
 
-* *Hyperinstitutionism* - empowering institutions to the point where
-individuals are harmed. These institutions have too much power (or the
-wrong kinds of power) over individuals.
+{% capture left %}
+##### Too much power
 
-* *Hypoinstitutionism* - weakening institutions to the point where
-individuals are harmed. These institutions fail to provide the
-services they were supposed to.
+Sometimes institutions have too much power (or the wrong kinds of
+power) over individuals, and can harm us.
+{% endcapture %}
+{% capture left2 %}
+We are afraid of these. We do what we can to limit their power, or
+sometimes we must live in fear.
+{% endcapture %}
+
+{% capture right %}
+##### Too weak
+
+Some institutions have too little power (or misdirect the powers they
+have).  These institutions fail to protect us, or provide the services
+they were supposed to.
+{% endcapture %}
+{% capture right2 %}
+We are disappointed in these. We do what we can to support them, or
+sometimes we must live with our disappointment.
+
+{% endcapture %}
+
+{% assign leftmd = left | markdownify %}
+{% assign rightmd = right | markdownify %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false %}
+
+{% assign leftmd = left2 | markdownify %}
+{% assign rightmd = right2 | markdownify %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false %}
+
 
 We talk about institutions in terms of our trust in them. This trust is
 itself an institution, a durable information structure that's shared
