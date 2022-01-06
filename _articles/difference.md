@@ -2,6 +2,7 @@
 layout: article
 title: Why the difference?
 created_date: 2029-11-12
+no_date: true
 released: true
 status: ready
 ---

@@ -13,7 +13,7 @@ layout: default
       {% endif %}
       {{ content }}
 
-      {% if page.created_date %}
+      {% if page.created_date and page.no_date != true %}
       <div class="created_date">{{ page.created_date | date: "%B %Y" }}</div>
       {% endif %}
 
