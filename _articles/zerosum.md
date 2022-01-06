@@ -3,7 +3,7 @@ layout: article
 title: Zero-sum, losing, and winning
 released: true
 status: ready
-created_date: 2021-11-12
+created_date: 2021-11-13
 arts: [assholes]
 ---
 

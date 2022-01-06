@@ -8,7 +8,7 @@ tab: articles
     <h1>Essays</h1>
 
     <div class="articles mt-5">
-      {% assign entries = site.articles | sort: "created_date" | reverse %}
+      {% assign entries = site.articles | sort: "created_date" %}
       {% for entry in entries %}
       {% if entry.status != "ready" and site.show_draft == false %}
       {% continue %}
