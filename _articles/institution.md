@@ -65,6 +65,10 @@ receives those decisions and acts on them.
 
 ### Should we trust institutions?
 
+We talk about institutions in terms of our trust in them. This trust is
+itself an institution, a durable information structure that's shared
+among individuals.
+
 Broadly speaking, institutions fail us in one of two distinct ways:
 
 {% capture left %}
@@ -99,10 +103,6 @@ sometimes we must live with our disappointment.
 {% assign rightmd = right2 | markdownify %}
 {% include twocol.html left=leftmd right=rightmd topmargin=false %}
 
-
-We talk about institutions in terms of our trust in them. This trust is
-itself an institution, a durable information structure that's shared
-among individuals.
 
 ### So what
 
