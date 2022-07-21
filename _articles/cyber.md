@@ -86,7 +86,7 @@ mean the art of governing in general.
 %}
 
 ### Control and communications: man and machine cannot be separated
-During WWII, Norbert Weiner used a $2,325 government grant to build the
+During WWII, Norbert Wiener used a $2,325 government grant to build the
 "AA predictor," a device that guided anti-aircraft guns to shoot down
 zig-zagging enemy planes at all kinds of altitudes, speeds, and in all
 kinds of weather. Knowing that individual pilots behaved differently
@@ -105,7 +105,7 @@ man/machine adversary doing everything possible to defeat it.
 After the war, he developed his ideas into a new interdisciplinary
 field joining math, physics, computation, language, physiology,
 psychology, and political science. In 1947, the same year that William
-Shockley demonstrated the first transistor at Bell Labs, Weiner wrote
+Shockley demonstrated the first transistor at Bell Labs, Wiener wrote
 a book called *Cybernetics*.  He compared computers and nervous
 systems; thought and psychopathology; information, language, and
 society.
@@ -118,7 +118,7 @@ theory, whether in the machine or in the animal, by the name
 We wish to recognize that... *governor* is derived from a Latin corruption of κυβερνήτης.
 {% endcapture %}
 {% assign quotemd = quote | markdownify %}
-{% include blockquote.html quote=quotemd attribution="Norbert Weiner (1948)"  title="Cybernetics"
+{% include blockquote.html quote=quotemd attribution="Norbert Wiener (1948)"  title="Cybernetics"
    link="https://www.amazon.com/Cybernetics-Second-Control-Communication-Machine/dp/1614275025/"
    alt_link="https://en.wikipedia.org/wiki/Cybernetics:_Or_Control_and_Communication_in_the_Animal_and_the_Machine"
    alt_link="https://archive.org/details/CyberneticsOrCommunicationAndControlInTheAnimalAndTheMachineNorbertWiener"
