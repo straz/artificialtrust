@@ -106,12 +106,6 @@ sometimes we must live with our disappointment.
 
 ### So what
 
-How do we make institutions strong enough, but not too strong?  We
-want them to be strong enough to protect us and provide us with
-services. We don't want them to be too strong and push us
-around. [Cybernetics](cyber) is the art of navigating between two
-extremes: not too much, and not too little.
-
 In the era of physical warfare, enemies attack our physical structures
 with guns and bombs. To weaken or destroy a social group, you
 basically needed to attack the physical things produced by that group.
@@ -119,3 +113,9 @@ basically needed to attack the physical things produced by that group.
 In the era of information warfare, enemies attack our information
 structures with [artificial trust](decisions). To weaken or destroy a
 social group, you basically need to attack their institutions.
+
+How do we make institutions strong enough, but not too strong?  We
+want them to be strong enough to protect us and provide us with
+services. We don't want them to be too strong and push us
+around. [Cybernetics](cyber) is the art of navigating between two
+extremes: not too much, and not too little.
