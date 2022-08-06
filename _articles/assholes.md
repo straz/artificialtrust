@@ -121,7 +121,7 @@ society can bring to them.
 ### So what
 
 Cancer and assholes have a lot in common, and not just metaphorically.
-They are resiliant because they rely on artificial trust, the manipulation
+They are resilient because they rely on artificial trust, the manipulation
 of mechanisms that normally are supposed to protect us from them.
 
   * they are hard to fight because they're insiders, not invaders
