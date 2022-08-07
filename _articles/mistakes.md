@@ -24,18 +24,18 @@ Mistakes reflect flaws and underlying causes, which can be studied.
 *These diseases can be classified, diagnosed, and treated.*<br/>
 The way to make AIs safer is to study the etiology of their diseases.
 
-## Major classes of artificial diseases:
+## Major classes of artificial diseases
 
 <dt>1. Data malnutrition</dt>
 <dd>Ingestion of poorly prepared data, such as poor sampling and information pollution</dd>
 
-<dt>2. Parasites</dt>
+<dt>2. Algorithmic parasites</dt>
 <dd>Exploitative and hostile activity by adversaries, such as manipulation of ingested data</dd>
 
-<dt>3. Genetic diseases</dt>
-<dd>Reproductive flaws in propagation of neural net models</dd>
+<dt>3. Fitness drift</dt>
+<dd>Aging and reproductive flaws in propagation of neural net models</dd>
 
 <dt>4. Recognition diseases</dt>
-<dd>Corruption of neural voting mechanisms</dd>
+<dd>Corruption of neural signal processing and voting mechanisms</dd>
 
 
