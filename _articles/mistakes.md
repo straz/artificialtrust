@@ -18,11 +18,11 @@ Mistakes reoccur, often in systematic and resilient ways.
 
 *AI mistakes are caused by diseases.*<br/>
 <!-- start_excerpt -->
-Mistakes reflect flaws and underlying causes, which can be studied.
+Mistakes reflect their underlying causes, which can be studied.
 <!-- end_excerpt -->
 
 *These diseases can be classified, diagnosed, and treated.*<br/>
-The way to make AIs safer is to study the etiology of their diseases.
+Make AIs safer by studying the etiology of their diseases.
 
 
 ## Major classes of artificial diseases
