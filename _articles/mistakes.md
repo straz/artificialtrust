@@ -7,14 +7,15 @@ status: ready
 show_home: true
 ---
 
-*AIs make mistakes*.<br/>They are not perfect; they don't always get things right.
+*AIs make mistakes*.<br/>
+They are not perfect. They don't always get things right.
 
 *AI mistakes can be serious*.<br/>
-If the AI is doing something important, mistakes can have major consequences.
+If an AI's job is important, getting something wrong can have major
+consequences and potential for harm.
 
 *Mistakes aren't just stochastic or "bad luck"*<br/>
 Mistakes reoccur, often in systematic and resilient ways.
-
 
 *AI mistakes are caused by diseases.*<br/>
 <!-- start_excerpt -->
