@@ -5,6 +5,7 @@ created_date: 2022-08-07
 released: true
 status: ready
 show_home: true
+sort_order: 1
 ---
 
 *AIs make mistakes*.<br/>
@@ -28,16 +29,16 @@ Make AIs safer by studying the etiology of their diseases.
 
 ## Major classes of artificial diseases
 
-<dt>1. Data malnutrition</dt>
-<dd>Ingestion of poorly prepared data, such as poor sampling and information pollution</dd>
+1. Data malnutrition
+: Ingestion of poorly prepared data, such as poor sampling and information pollution
 
-<dt>2. Algorithmic parasites</dt>
-<dd>Exploitative and hostile activity by adversaries, such as manipulation of ingested data</dd>
+2. Algorithmic parasites
+: Exploitative and hostile activity by adversaries, such as manipulation of ingested data
 
-<dt>3. Fitness drift</dt>
-<dd>Environmental novelty, aging, and reproductive flaws in neural net models</dd>
+3. Fitness drift
+: Environmental novelty, aging, and reproductive flaws in neural net models
 
-<dt>4. Recognition diseases</dt>
-<dd>Corruption of neural signal processing and voting mechanisms</dd>
+4. Recognition diseases
+: Corruption of neural signal processing and voting mechanisms
 
 

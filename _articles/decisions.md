@@ -4,6 +4,7 @@ title: Where we keep decisions
 created_date: 2021-12-05
 released: true
 show_home: true
+sort_order: 4
 status: ready
 defs: [trust]
 arts: [remove-bias]

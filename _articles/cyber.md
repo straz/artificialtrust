@@ -3,6 +3,7 @@ layout: article
 title: Cyber means government
 created_date: 2021-11-12
 show_home: true
+sort_order: 2
 released: true
 status: ready
 arts: [zerosum]

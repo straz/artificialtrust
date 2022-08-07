@@ -2,6 +2,7 @@
 layout: definition
 title: Artificial Trust definitions
 category: definition
+show_home: true
 released: true
 status: ready
 arts: [decisions]
@@ -12,6 +13,7 @@ Trust
   represents a decision that has been already been made. Trust reduces
   the computation needed to be certain, because it relies on computation
   that has already been done (either by others or by oneself).
+
 
   A saved memory is considered trustworthy (or not) by the *trust
   recognizer*.  In general, we trust our memories. The trust recognizer
@@ -24,14 +26,16 @@ Trust
   re-checked again and again.
 
 Artificial trust
-: A false computational shortcut. Artificial trust closely resembles
+: 
+  <!-- start_excerpt -->Artificial trust closely resembles
   natural trust, as it reduces the computation needed to achieve
   confidence in a result. But in artificial trust, this confidence is
   false, because the results are not reliably valid.
+  <!-- end_excerpt -->
 
-  Artificial trust is caused by defects in the *trust recognizer*,
+: Artificial trust is caused by failures in the *trust recognizer*,
   either in its algorithm or in the data it is trained on.  These
-  defects may arise from poor design, or may be the result of hostile
+  failures may arise from poor design, or may be the result of hostile
   manipulation by an adversary.
 
 Trust recognizer

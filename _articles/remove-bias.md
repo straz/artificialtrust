@@ -4,6 +4,7 @@ title: Remove bias? Not so fast.
 created_date: 2021-11-12
 released: true
 show_home: true
+sort_order: 3
 status: ready
 defs: ['reason-do-die', 'action', 'brakes', 'cog']
 sent: ['lessig','colbert']

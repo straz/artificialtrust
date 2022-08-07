@@ -12,8 +12,11 @@ These in turn rely on mechanisms to govern themselves and to
 evolve. These mechanisms involve feedback and selective pressure,
 which in turn rely on some mechanisms of recognition and trust. 
 
+{% assign trustdef = site.definitions | find:"title","Artificial Trust definitions" %}
 
-{% for article in site.articles %}
+{% assign sortedArticles = site.articles | sort: 'sort_order' | push: trustdef %}
+
+{% for article in sortedArticles %}
   {% if article.show_home != true %}
   {% continue %}
   {% endif %}
@@ -21,6 +24,7 @@ which in turn rely on some mechanisms of recognition and trust.
 <p class="mt-4"></p>
 #### [{{ article.title }}]({{ article.url | relative_url }})
 {% capture seemore %}...[*read more*]({{ article.url | relative_url }}){% endcapture %}
+
 {% capture seemore2 %}{{ seemore
    | markdownify | remove: '<p>' | remove: '</p>'
    | prepend: '<span class="text-nowrap">' | append: '</span>' }}{% endcapture %}
@@ -29,13 +33,5 @@ which in turn rely on some mechanisms of recognition and trust.
 {{ excerpt_snip2[0] | remove: '<p>' | remove: '</p>' | append: seemore2 }}
 {% endfor %}
 
-<p class="mt-4"></p>
 
-#### [What is Artificial Trust?]({{ '../definitions/trust' | relative_url }})
 
-*Artificial Trust:* A false computational
-shortcut. Artificial trust closely resembles natural trust, as it
-reduces the computation needed to achieve confidence in a
-result. But in artificial trust, this confidence is false, because
-the results are not reliably valid.
-...[*read more*]({{'../definitions/trust' | relative_url }})
