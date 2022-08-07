@@ -12,9 +12,9 @@ These in turn rely on mechanisms to govern themselves and to
 evolve. These mechanisms involve feedback and selective pressure,
 which in turn rely on some mechanisms of recognition and trust. 
 
-{% assign trustdef = site.definitions | find:"title","Artificial Trust definitions" %}
+{% assign trustdef = site.definitions | where:"title","Artificial Trust definitions" %}
 
-{% assign sortedArticles = site.articles | sort: 'sort_order' | push: trustdef %}
+{% assign sortedArticles = site.articles | sort: 'sort_order' | push: trustdef[0] %}
 
 {% for article in sortedArticles %}
   {% if article.show_home != true %}
