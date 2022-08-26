@@ -17,7 +17,7 @@ some of this chatter holds lies, some are mundane, and some may even
 convey deep truths.
 
 As I am about to add my own contribution to the marketplace of ideas,
-my computer's autocorrect function suggests an improvement.  I write
+my app's autocorrect function suggests an improvement.  I write
 "That's the way&hellip;" expecting to finish with "*&hellip;some
 people are.*" For a moment, I pause to consider. How about "That's the
 way *the cookie crumbles*"?
