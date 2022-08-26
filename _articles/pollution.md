@@ -47,6 +47,10 @@ virus, it hitches a ride on my information stream, masquerading its
 phrasing as mine. The result is then used to train more AIs, which in
 turn amplifies a weak signal that wasn't even mine to begin with.
 
+In a healthy ecosystem, one should avoid consumption of one's own
+waste product as a food source. But that is precisely what our
+generative AIs are doing.
+
 My role as a living information-generating host is hardly
 necessary. There are plenty of incubators where machine-generated text
 flourishes and provides training data for ravenous AIs. One
