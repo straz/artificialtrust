@@ -70,12 +70,15 @@ action leads to harm, we should pursue all available means to hold
 them accountable.
 
 But when a patient presents with a life-threatening disease, we
-separate treatment from justice. When a child gets sick, we generally
-don't say it was the child's fault, or that it was "poorly designed."
-We strive to treat the disease, regardless of whether we can allocate
-personal blame for it.  We make an effort to prevent the disease from
-happening in the first place, and hopefully eliminate it from our
-population.
+separate treatment from justice. We strive to treat disease,
+regardless of whether we can allocate personal blame for it.
+
+When a child gets sick, we generally don't say it was the child's
+fault, or that it was "poorly designed."  When many people get sick in
+the same manner, we try to find root causes to protect the group's
+condition, as much as the individual's. We make an effort to prevent
+the disease from happening in the first place, and hopefully eliminate
+it from our population.
 
 ### Medicine for AI's sake
 
