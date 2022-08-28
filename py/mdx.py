@@ -14,18 +14,20 @@ END = re.compile("{%\s+end\s+split\s+%}")
 
 def main():
     for path in files_with_suffix(ROOT, ".mdx"):
-        if 'poof' not in str(path):
-            generate_mdx(path)
+        generate_mdx(path)
 
-
-def generate_mdx(path):
-    newpath = path.with_suffix(".md")
-    print(f'Generating {newpath}')
-    with open(newpath, "w") as fp:
-        old = open(path).read()
-        expo = expand_macros(old)
-        fp.write(expo)
-        print(expo)
+def generate_mdx(mdx_path):
+    md_path = mdx_path.with_suffix(".md")
+    with open(md_path) as rfp:
+        md_body = rfp.read()
+    # expand using template
+    mdx_body = open(mdx_path).read()
+    expanded = expand_macros(mdx_body)
+    if md_path.exists() and expanded != md_body:
+        # Something has changed since previous save
+        print(f'Generating {md_path}')
+        with open(md_path, "w") as wfp:
+            wfp.write(expanded)
 
 def expand_macros(source):
     """
