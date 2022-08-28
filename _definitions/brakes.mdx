@@ -11,59 +11,32 @@ Brakes are not the opposite of accelerators.
 
 The paradox of brakes is that they make acceleration sustainable.
 
-{% capture left %}
-
+{% begin split %}
 ### Accelerators
 
 A car with terrible brakes is unsafe to drive.
 
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 ### Brakes
 
 You can drive a car with good brakes much faster than a car with
 terrible brakes.
-
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
+{% end split %}
 
 
-
-{% capture left %}
-
+{% begin split %}
 When cells replicate unchecked, they become cancer.
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 When cell growth is regulated, the host is cancer-free.
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 When the rule of law is weak, those who are beyond law's reach
 are free to enrich themselves.
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 When laws are created and enforced fairly, corruption is minimized,
 innovation thrives, and businesses can prosper.
-
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
+{% end split %}
 
 
 

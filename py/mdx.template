@@ -1,0 +1,9 @@
+{% capture left %}
+<left>
+{% endcapture %}
+{% capture right %}
+<right>
+{% endcapture %}
+{% assign leftmd = left | markdownify %}
+{% assign rightmd = right | markdownify %}
+{% include twocol.html left=leftmd right=rightmd topmargin=false %}
