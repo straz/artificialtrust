@@ -22,8 +22,7 @@ correct answers.
 The [Spurious Correlations](https://www.tylervigen.com/spurious-correlations) site
 is a rich source of accurate training datasets for creating anti-knowledge.
 
-{% capture left %}
-
+{% begin split %}
 
 ### Correlation
 
@@ -33,46 +32,28 @@ It might be a correlation if global soybean sales tend to go up
 whenever the Red Sox are beating the Yankees, but that doesn't mean
 that one causes the other.
 
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 ### Causation
 
 Causation is when you understand *why* something happens. To say that
 *A causes B* is to have a model that explains the reason for *B*. 
 
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 
 Neural net AIs work on the principal of correlation: in reinforcement learning
 the classification (output) is correlated with certain kinds of inputs.
 
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 
 Neural net AIs ignore causation. They don't use causal explanations,
 and they don't produce them.
 
-
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
+{% end split %}
 
 
-
-{% capture left %}
-
+{% begin split %}
 <hr/>
 
 *Example: We know that the presence of beta-amyloid plaques are
@@ -81,10 +62,7 @@ of recently, what we don't know is whether the disease causes the
 plaques to form, or if the formation of these plaques cause the
 disease.*
 
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 
 <hr/>
 *Example:
@@ -94,10 +72,5 @@ across different societies. It wasn't until the 20th century that it
 became widely established that it was caused by a lack of vitamin C in
 the diet.*
 
-
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
+{% end split %}
 
