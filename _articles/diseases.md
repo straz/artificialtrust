@@ -74,11 +74,10 @@ separate treatment from justice. We strive to treat disease,
 regardless of whether we can allocate personal blame for it.
 
 When a child gets sick, we generally don't say it was the child's
-fault, or that it was "poorly designed."  When many people get sick in
-the same manner, we try to find root causes to protect the group's
-condition, as much as the individual's. We make an effort to prevent
-the disease from happening in the first place, and hopefully eliminate
-it from our population.
+fault, or that children are "poorly designed."  When many people get
+sick in the same manner, we try to find the common reason. We make an
+effort to prevent the disease from happening in the first place, and
+hopefully eliminate it from our population.
 
 ### Medicine for AI's sake
 
