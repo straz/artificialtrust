@@ -24,87 +24,40 @@ and you may ignore reason anyway because, hey, it feels good.  Reason's role
 is to overcome one's innate emotional bias and give one last chance to
 avoid making a mistake.
 
-
-{% capture left %}
-
+{% begin split %}
 ### Delicious poison
 A *delicious poison* is something we find really attractive, even when logic tells us it's bad for us.
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 ### Disgusting cleanup
 A *disgusting cleanup* is something we really don't want to do, even when logic tells us it's
 absolutely necessary.
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 Our emotion says "yes," while our reason says "no."
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 Our emotion says "no," while our reason says "yes."
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 We say: "we give in to temptation in moments of weakness."
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 We say: "we do what needs to be done in moments of strength."
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 Sometimes this is moral weakness, and we express disappointment in
 &mdash; or loss of respect for &mdash; people who do this.
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 Sometimes this is moral strength, and we express admiration for &mdash; and increased
 respect for &mdash; people who do this.
-
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
+{% end split %}
 
 
-
-{% capture left %}
-
+{% begin split %}
 While we disapprove, we can all relate to behaving this way ourselves.
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 While we express admiration, we can understand reluctance to behave this way ourselves.
-
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
+{% end split %}
 
 When emotion wins out over reason: see [Softer now vs. harder now](soft)
