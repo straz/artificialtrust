@@ -24,7 +24,6 @@ and you may ignore reason anyway because, hey, it feels good.  Reason's role
 is to overcome one's innate emotional bias and give one last chance to
 avoid making a mistake.
 
-
 {% capture left %}
 
 ### Delicious poison
@@ -104,7 +103,6 @@ While we express admiration, we can understand reluctance to behave this way our
 {% assign leftmd = left | markdownify %}
 {% assign rightmd = right | markdownify %}
 {% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
 
 
 When emotion wins out over reason: see [Softer now vs. harder now](soft)

@@ -32,6 +32,3 @@ which in turn rely on some mechanisms of recognition and trust.
 {% assign excerpt_snip2 = excerpt_snip1[1] | split: "<!-- end_excerpt -->" %}
 {{ excerpt_snip2[0] | remove: '<p>' | remove: '</p>' | append: seemore2 }}
 {% endfor %}
-
-
-

@@ -19,86 +19,41 @@ arises more rarely and the consequences can have an impact even beyond
 one's lifetime.
 
 
-{% capture left %}
-
+{% begin split %}
 ### Short reach problems
 *High volume, rapid decisions*: you might face these problems over and
 over again
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 ### Long reach problems
 *Low volume, slow decisions*: you might face these problems
 as rarely as once in a lifetime
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 *Readily available inputs*: the decision must be made with the
 information available at hand.
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 *Inputs require pursuit*: before deciding, you may have to investigate further.
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 *Readily available outcomes*: once the decision is made, 
 it's clear whether the decision was good or bad.
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 *Unintended consequences*: once the decision is made, the outcome may
 look clear at first, but surprises may arise later.
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 *Recurring situations*: you can adapt to a problem if it arises repeatedly.
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 *Unique situations*: without repetition, you may have only one shot at
 making the right decision
+{% end split %}
 
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
-
-{% capture left %}
-
+{% begin split %}
 *Solution tools*: neural nets tend to work well
-
-{% endcapture %}
-{% capture right %}
-
+{% middle split %}
 *Solution tools*: reasoning tends to work well
-
-{% endcapture %}
-{% assign leftmd = left | markdownify %}
-{% assign rightmd = right | markdownify %}
-{% include twocol.html left=leftmd right=rightmd topmargin=false %}
-
+{% end split %}
 
