@@ -1,21 +1,25 @@
 ---
 layout: article
 title: Don&rsquo;t let superintelligence distract you
+show_home: true
+sort_order: 2
 released: true
 status: ready
 created_date: 2022-09-03
 defs: [delicious, reach]
 ---
-{% include figure.html filename="spray.jpg" imgclass="col-md-2" %}
+{% include figure.html filename="spray.jpg" imgclass="col-md-3" %}
 
 ### The sex appeal of superintelligence
+
 
 The idea that AIs can become superintelligent[^1] and kill us all is
 gaining momentum among AI pundits. It's shiny, it's appealing, it's
 super fun to write about, and so much more fun to watch in movies.
 
+<!-- start_excerpt -->
 Superintelligence is sexy because it’s the romantic fantasy enemy you
-wish you had.
+wish you had.<!-- end_excerpt -->
 
 AI poses a number of threats (and opportunities, to be sure) varying
 in urgency and potency. On that scale, I'm pretty convinced
@@ -82,13 +86,14 @@ behave poorly when
 
  * they amplify and perpetuate harmful bias
  * they create torrents of information pollution, contaminating our world with strong false signals at scale
+ * they ingest polluted information, training on false signals as if they were true
  * they are defenseless against attack by adversaries, and are easily manipulated
- * the problems they tackle are shifted from what they were trained for, and they don't realize it
+ * the problems they tackle drift away from what they were trained for, and nobody notices
  * they incur extreme environmental and financial costs[^4]
  * they are given [long reach]({{ '../definitions/reach' | relative-url }}) 
  problems, for which training is not possible
  * they are put in positions of authority without critical accountability or meaningful checks and balances.
- * their opacity becomes reason for us to follow them blindly and without recourse
+ * their opacity becomes a justification for us to follow them blindly and without recourse
 
 
 Not only are they limited, but we are setting ourselves up to put our
