@@ -105,7 +105,7 @@ especially for the individuals who they affect. AIs behave poorly when
 
  * they amplify and perpetuate harmful bias
  * the success metric is a weak or [unreliable proxy](https://www.psychologytoday.com/us/blog/machiavellians-gulling-the-rubes/202010/the-cobra-effect-no-loophole-goes-unexploited) for true "good" outcomes
- * generative AI can create torrents of information pollution, contaminating our world with 
+ * generative AI can create torrents of [information pollution](pollution), contaminating our world with 
    durable strong false signals at scale
  * they ingest polluted information, training on false signals as if they were true
  * they are defenseless against attack by adversaries, who use mimicry and camouflage
