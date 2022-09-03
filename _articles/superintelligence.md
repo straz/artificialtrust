@@ -59,20 +59,20 @@ Automobiles have brought benefits and threats to our civilization.
 The nature of how we perceive those threats has evolved over time.
 
 For nearly a century after the invention of the automobile, people saw
-the dominant threat play out: mostly in terms of highway safety. We
+the dominant threat play out... mostly in terms of highway safety. We
 sought security through legal battles and engineering breakthroughs
 around crumple zones, traffic signals, seat belts, antilock brakes,
 and exploding gas tanks.
 
-In the latter half of the century, automobiles gradually turned our
-attention to threats to our oil supply, mostly in the middle east. We
-sought security through complex geopolitics and sometimes wars to
-protect our dependence on petroleum.
+In the latter half of the century, our love for automobiles gradually
+turned our attention to threats to our oil supply, mostly in the
+middle east. We sought security through complex geopolitics and
+sometimes wars to protect our dependence on petroleum.
 
 Finally, after so much effort on the first two threats, we are only
-recently coming to terms with climate change. The climate is a
-latecomer to the threat board. It has been largely ignored for a
-century.
+recently coming to terms with climate change. Global environmental
+disaster is a latecomer to the threat board. It has been largely
+ignored for a century.
 
 ### Artificially trustworthy
 
@@ -94,8 +94,8 @@ are anything but.  As Douglas Hofstadter said, they are "not just
 clueless but cluelessly clueless."[^3] They have no idea, he says,
 that they have no idea.
 
-In many useful domains AI has proven great competence. Sometimes it
-can be even more competent than the humans that trained it. But being
+In many useful domains AI has proven great competence. Often an AI can
+be even more competent than the humans that trained it. But being
 extremely competent is not the same as perfection. And being competent
 in some domains does not guarantee competence in others.
 
@@ -139,7 +139,7 @@ insider threats woven into the fabric of our civilization and already
 growing among the systems we rely on. The safeguards we seek should
 not be a Maginot line against a fantasy invader. We need to take stock
 of the corruption we see today, understand the ways in which AI can
-and does betray our trust, and make informed countermeasures.
+and does betray our trust in them, and make informed countermeasures.
 
 [^1]: 
     Bostrom, N.
