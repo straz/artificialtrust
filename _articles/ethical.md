@@ -6,7 +6,7 @@ show_home: true
 sort_order: 1
 released: true
 status: ready
-arts: [pollution, institution]
+arts: [institution]
 ---
 
 ## Asimov's Laws of Robotics
@@ -159,6 +159,4 @@ As we enter a new age of coexistence with AIs, we need to apply these
 lessons. Our attention needs to be focused on creating durable
 institutions that protect us from unethical AI behavor over the long
 haul.
-
-
 
