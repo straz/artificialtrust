@@ -73,9 +73,11 @@ incentive to limit its growth.
 
 A grocery that poisons its shoppers will face strong market pressure,
 because its financial success is decided by the shoppers who are
-harmed.  This isn't true of most AIs. The financial success of an AI
-is decided by the sponsors who profit from its behavior, not the
-subjects who face the harm it can do.
+harmed.  This is not true for unethical AIs. If people are hurt by an
+unethical AI, as the subjects of its unethical decisions, there's
+generally no way for them to apply market pressure. The sponsors who
+own it and profit from its behavior receive all the financial rewards,
+and bear none of the harm.
 
 Since AIs are products, the "product liability" approach is more
 appropriate, and more likely to be effective, than "market incentives."
