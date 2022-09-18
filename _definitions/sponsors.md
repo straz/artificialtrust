@@ -5,7 +5,7 @@ category: definition
 released: true
 status: ready
 excerpt_separator: <ex>
-arts: [errors]
+arts: [errors, ethical]
 ---
 
 An AI algorithm is set up by a *sponsor*, and is applied to
