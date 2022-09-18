@@ -71,6 +71,12 @@ market rewards and ethical behavior are weak, if they exist at
 all. Any company that derives profit from an unethical AI has little
 incentive to limit its growth.
 
+A grocery that poisons its shoppers will face strong market pressure,
+because its financial success is decided by the shoppers who are
+harmed.  This isn't true of most AIs. The financial success of an AI
+is decided by the sponsors who profit from its behavior, not the
+subjects who face the harm it can do.
+
 Since AIs are products, the "product liability" approach is more
 appropriate, and more likely to be effective, than "market incentives."
 
