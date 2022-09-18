@@ -27,7 +27,8 @@ Still, there's something interesting about how well they hold up
 overall.
 
 Can we find a resilient architecture to implement our ethical ideals
-in real life AIs?
+in real life AIs? And even if we make a few ethical AIs today, how
+will we continue to make sure they are ethical in the future?
 
 ## Product safety
 
