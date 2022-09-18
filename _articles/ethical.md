@@ -133,9 +133,9 @@ arise.
 
 Ethical principles are nice to have, but they’re discarded easily in
 the face of other pressures. The challenge we face is not just the
-design of ethical AIs. The real challenge we face is the design of the
-oversight institutions that will provide evolutionary pressure in
-favor of ethical principles, sustained for a long time.
+design of ethical AIs. The real challenge is the design of the
+oversight institutions. These need to apply and sustain evolutionary
+pressure in favor of ethical principles, for a long time.
 
 As a species, we humans have come a long way. "Might makes right" has
 been replaced, in many ways, by the rule of law. When we humans
