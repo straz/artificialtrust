@@ -7,6 +7,7 @@ sort_order: 1
 released: true
 status: ready
 arts: [institution]
+defs: [sponsors]
 ---
 
 ## Asimov's Laws of Robotics
@@ -66,8 +67,8 @@ threat of termination to unethical AIs.
 
 Market forces are not sufficient for this task. We all know that a
 social media bot can be extremely unethical, and yet create enormous
-rewards for its sponsor. Unfortunately, any positive links between
-market rewards and ethical behavior are weak, if they exist at
+rewards for its [sponsor](sponsors). Unfortunately, any positive links
+between market rewards and ethical behavior are weak, if they exist at
 all. Any company that derives profit from an unethical AI has little
 incentive to limit its growth.
 
@@ -75,8 +76,9 @@ A grocery that poisons its shoppers will face strong market pressure,
 because its financial success is decided by the shoppers who are
 harmed.  This is not true for unethical AIs. If people are hurt by an
 unethical AI, as the subjects of its unethical decisions, there's
-generally no way for them to apply market pressure. The sponsors who
-own it and profit from its behavior receive all the financial rewards,
+generally no way for them to apply market pressure. The AI's subjects
+do not and cannot shop around for a better AI. The sponsors who own
+the AI and profit from its behavior receive all the financial rewards,
 and bear none of the harm.
 
 Since AIs are products, the "product liability" approach is more
