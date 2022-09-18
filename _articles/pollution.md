@@ -6,7 +6,6 @@ show_home: true
 sort_order: 1
 released: true
 status: ready
-
 ---
 
 ### Information
