@@ -51,14 +51,14 @@ confronting targets they can either ignore or attack. These targets
 (produced in the thymus) are samples composed from many kinds of
 "self" and "outsider" cells. Not all T-cells do this job well enough
 to be trustworthy; 98% of these immature T-cells fail and are
-immediately killed. Ony the 2% which pass are allowed to graduate from
+immediately killed. Only the 2% which pass are allowed to graduate from
 the thymus, moving onward to serve and protect your body.
 
 ## Cull the failures
 
 <!-- start_excerpt -->
 With biology in mind, the answer is pretty obvious: if you want AIs to
-be ethical, the only way to be sure is to apply strong selective
+be ethical, the only way to be sure is to apply strong evolutionary
 pressure. The best way to do this is to apply a swift and certain
 threat of termination to unethical AIs.
 <!-- end_excerpt -->
@@ -71,8 +71,7 @@ all. Any company that derives profit from an unethical AI has little
 incentive to limit its growth.
 
 Since AIs are products, the "product liability" approach is more
-appropriate than "market incentives."
-
+appropriate, and more likely to be effective, than "market incentives."
 
 ## Safety standards for AIs
 
