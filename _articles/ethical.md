@@ -58,7 +58,7 @@ the thymus, moving onward to serve and protect your body.
 
 <!-- start_excerpt -->
 With biology in mind, the answer is pretty obvious: if you want AIs to
-be ethical, the only way to be sure is to apply strong evolutionary
+be ethical, the only way to be sure is to apply strong selective
 pressure. The best way to do this is to apply a swift and certain
 threat of termination to unethical AIs.
 <!-- end_excerpt -->
@@ -134,7 +134,7 @@ arise.
 Ethical principles are nice to have, but they’re discarded easily in
 the face of other pressures. The challenge we face is not the design
 of ethical AIs. The challenge we face is the design of the oversight
-institutions that will provide selective pressure in favor of
+institutions that will provide evolutionary pressure in favor of
 ethical principles, for a long time.
 
 As a species, we humans have come a long way. "Might makes right" has
