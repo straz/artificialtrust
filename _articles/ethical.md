@@ -6,11 +6,12 @@ show_home: true
 sort_order: 1
 released: true
 status: ready
+treat: Asimov's laws
 arts: [institution]
 defs: [sponsors]
 ---
 
-## Asimov's Laws of Robotics
+### Asimov's Laws of Robotics
 
 Isaac Asimov wrote a number of science fiction stories in which all
 robots are bound by a simple code of ethical behavior.  His three
@@ -31,7 +32,7 @@ Can we find a resilient architecture to implement our ethical ideals
 in real life AIs? And even if we make a few ethical AIs today, how
 will we continue to make sure they are ethical in the future?
 
-## Product safety
+### Product safety
 
 The industrial revolution taught us a few lessons about product
 safety.  First, you can't have automation without safety, at least,
@@ -56,7 +57,7 @@ to be trustworthy; 98% of these immature T-cells fail and are
 immediately killed. Only the 2% which pass are allowed to graduate from
 the thymus, moving onward to serve and protect your body.
 
-## Cull the failures
+### Cull the failures
 
 <!-- start_excerpt -->
 With biology in mind, the answer is pretty obvious: if you want AIs to
@@ -85,7 +86,7 @@ Since AIs are products, a "product safety standards" approach is
 more appropriate, and more likely to be effective, than "market
 incentives."
 
-## Safety standards for AIs
+### Safety standards for AIs
 
 We don't have any safety standard for AIs today, but we should.  If an
 AI model is unethical, it must not be allowed into production. This is
@@ -126,7 +127,7 @@ conflicts of interest, their funding must not be controlled by
 organizations with a vested interest in having their AIs evade
 scrutiny.
 
-## It matters who calls the shots
+### It matters who calls the shots
 
 Who would this testing organization be accountable to? The biggest
 danger it faces is [regulatory
@@ -141,7 +142,7 @@ conducted? If so, then that's a sure sign that regulatory capture will
 arise.
 
 
-## So what
+### So what
 
 Ethical principles are nice to have, but they’re
 [discarded](https://gizmodo.com/google-removes-nearly-all-mentions-of-dont-be-evil-from-1826153393)
