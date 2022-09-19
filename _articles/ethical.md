@@ -75,14 +75,15 @@ incentive to limit its growth.
 A grocery that poisons its shoppers will face strong market pressure,
 because its financial success is decided by the shoppers who are
 harmed.  This is not true for unethical AIs. If people are hurt by an
-unethical AI, as the subjects of its unethical decisions, there's
-generally no way for them to apply market pressure. The AI's subjects
-do not and cannot shop around for a better AI. The sponsors who own
-the AI and profit from its behavior receive all the financial rewards,
-and bear none of the harm.
+AI, as the subjects of its unethical decisions, there's generally no
+way for them to apply market pressure. The AI's subjects do not and
+cannot shop around for a better AI. The sponsors who own the AI and
+profit from its behavior receive all the financial rewards, and bear
+none of the harm.
 
-Since AIs are products, the "product liability" approach is more
-appropriate, and more likely to be effective, than "market incentives."
+Since AIs are products, a "product safety standards" approach is
+more appropriate, and more likely to be effective, than "market
+incentives."
 
 ## Safety standards for AIs
 
@@ -91,7 +92,7 @@ AI model is unethical, it must not be allowed into production. This is
 no different than any other quality test in our modern industrial
 world.  Every factory has tests to make sure they don't produce
 cracked bolts, contaminated food, or flammable pajamas. Failed
-products are not legal for sale, and factories that flaunt these
+products are not legal for sale, and producers who flaunt these
 regulations face criminal liability.
 
 A series of tests would help us rate AIs that are potentially
@@ -142,11 +143,12 @@ arise.
 
 ## So what
 
-Ethical principles are nice to have, but they’re discarded easily in
-the face of other pressures. The challenge we face is not just the
-design of ethical AIs. The real challenge is the design of the
-oversight institutions. These need to apply and sustain evolutionary
-pressure in favor of ethical principles, for a long time.
+Ethical principles are nice to have, but they’re
+[discarded](https://gizmodo.com/google-removes-nearly-all-mentions-of-dont-be-evil-from-1826153393)
+easily in the face of other pressures. The challenge we face is not
+just the design of ethical AIs. The real challenge is the design of
+the oversight institutions. These need to apply and sustain
+evolutionary pressure in favor of ethical principles, for a long time.
 
 As a species, we humans have come a long way. "Might makes right" has
 been replaced, in many ways, by the rule of law. When we humans
