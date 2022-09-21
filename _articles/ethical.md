@@ -11,11 +11,11 @@ arts: [institution]
 defs: [sponsors]
 ---
 
-### Asimov's Laws of Robotics
+### Three laws
 
 Isaac Asimov wrote a number of science fiction stories in which all
-robots are bound by a simple code of ethical behavior.  His three
-rules, often called [The Three
+robots are bound by a deceptively simple code of ethical behavior.
+His three rules, often called [The Three
 Laws](https://en.wikipedia.org/wiki/Three_Laws_of_Robotics), were all
 that stood between potentially evil robots and great harm to humans.
 In Asimov's world, a robot's brain simply cannot be manufactured
@@ -23,10 +23,10 @@ without them.
 
 The most compelling quality of Asimov’s laws was that their
 implementation was robust.  We all understand (a) they were a work of
-fiction and (b) Asimov showed &mdash; repeatedly, in nearly every
-story &mdash; how the laws could be pushed to the point of breaking.
-Still, there's something interesting about how well they hold up
-overall.
+fiction, first appearing in 1942, and (b) Asimov showed &mdash;
+repeatedly, in nearly every story &mdash; how the laws could be pushed
+to the point of breaking.  Still, there's something interesting about
+how well they hold up overall.
 
 Can we find a resilient architecture to implement our ethical ideals
 in real life AIs? And even if we make a few ethical AIs today, how
