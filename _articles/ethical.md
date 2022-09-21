@@ -148,8 +148,9 @@ Ethical principles are nice to have, but they’re
 [discarded](https://gizmodo.com/google-removes-nearly-all-mentions-of-dont-be-evil-from-1826153393)
 easily in the face of other pressures. The challenge we face is not
 just the design of ethical AIs. The real challenge is the design of
-the oversight institutions. These need to apply and sustain
-evolutionary pressure in favor of ethical principles, for a long time.
+the institutions that watch over them &mdash; to provide corrective
+feedback. These need to sustain evolutionary pressure in favor of
+ethical principles, and keep it up for a long time.
 
 As a species, we humans have come a long way. "Might makes right" has
 been replaced, in many ways, by the rule of law. When we humans
