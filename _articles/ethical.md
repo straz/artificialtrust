@@ -123,7 +123,7 @@ The *effectiveness* rule means there must be laws against deploying
 any unsuccessful AI, backed up by meaningful enforcement.
 
 The *integrity* rule means that the organization must not have
-conflicts of interest, their funding must not be controlled by
+conflicts of interest. Their funding must not be controlled by
 organizations with a vested interest in having their AIs evade
 scrutiny.
 
