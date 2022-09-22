@@ -143,11 +143,19 @@ side is a loss for the other.
 nobody is capable or trustworthy enough to understand, let alone
 attempt to guide them, so why not let them run unsupervised? 
 
+* Some people aggressively seek immediate profitability. Getting rich
+means more than just having a ton of money. Making a profit changes
+how you are seen by others. While people can become wealthy from good
+luck, or from cheating, they understandably don't like to be seen that
+way.
+
+  For most, wealth sends a message about superior intelligence or
+entitlement, which confers trustworthiness and impunity. They might
+have started with none of that, only luck or cheating. But now their
+wealth indicates they should be in control.
+
+
 Who should we trust to steer us, and what should we steer toward?
-Some people aggressively seek immediate profitability, and not just
-for the ability to spend wealth. Making a profit conveys a symbolic
-affirmation of success or intelligence, which confers trustworthiness
-and impunity. 
 
 It may not be wise to put our trust in those with the ability to get
 rich quickly or at the expense of others. As the ancient Greeks tried
