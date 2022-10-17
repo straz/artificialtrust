@@ -54,8 +54,8 @@ My role as a living information-generating host is hardly necessary
 for pollution to thrive. There are plenty of incubators where
 machine-generated text flourishes and provides training data for
 ravenous AIs. One need look no further than social media and online
-product reviews to find bots that push discourse as hard as they can
-to serve the purpose of their masters.
+product reviews to find bots that push disinformation as hard as they
+can to serve the purpose of their masters.
 
 This is information pollution, at scale. In a polluted environment, it
 becomes increasingly harder to find an unpolluted signal that we can
