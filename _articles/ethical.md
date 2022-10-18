@@ -26,7 +26,7 @@ implementation was robust.  We all understand (a) they were a work of
 fiction, first appearing in 1942, and (b) Asimov showed &mdash;
 repeatedly, in nearly every story &mdash; how the laws could be pushed
 to the point of breaking.  Still, there's something interesting about
-how well they hold up overall.
+how well they hold up overall, at least in a fictional world.
 
 Can we find a resilient architecture to implement our ethical ideals
 in real life AIs? And even if we make a few ethical AIs today, how
