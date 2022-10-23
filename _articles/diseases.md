@@ -87,9 +87,10 @@ field of medicine has much to offer to improve AI.
 Medicine gives us a powerful methodology to understand and address
 disease. We can employ this methodology to help us make AI safer.  We
 start by building a taxonomy to identify and organize problems into
-distinct categories. Then, according to this classification, we
-develop appropriate tools to guide diagnosis, prevention, and
-treatment.
+distinct categories. We try to understand the etiology of each
+disease, the mechanisms which cause it to happen.  Then, according to
+this classification, we develop appropriate tools to guide diagnosis,
+prevention, and treatment.
 
 Informed by this classification, we can develop a body of practice
 around diagnosis, prevention, and treatment.
