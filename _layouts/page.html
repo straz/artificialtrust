@@ -4,6 +4,12 @@ layout: default
 <div class="row">
   <div class="col-md-8 offset-md-1">
     {{ content }}
+    {% if page.show_rss %}
+ <footer>
+ <a href={{"rss_feed.xml" | relative_url}}><i class="rss fa fa-rss-square"></i></a>
+ </footer>
+    {% endif %}
+
   </div>
 </div>
     

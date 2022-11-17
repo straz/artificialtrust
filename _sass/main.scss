@@ -43,11 +43,6 @@ body {
       content: "\21B5";
     }
   }
-  .created_date {
-    margin-top: 2em;
-    font-family: helvetica;
-    font-size: 80%;
-  }
 }
 
 div h4 a, a, a.btn-link {
@@ -114,6 +109,17 @@ nav {
 
 footer {
   .figure-caption { font-size: 80%; }
+  i.rss {
+    color: #AAA;
+    &:hover { color: #555;}
+  }
+  .created_date {
+    display: inline-block;
+    margin-top: 2em;
+    margin-left: 1em;
+    font-family: helvetica;
+    font-size: 80%;
+  }
 }
 
 .article-see-also {

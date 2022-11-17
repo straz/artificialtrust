@@ -13,9 +13,7 @@ layout: default
       {% endif %}
       {{ content }}
 
-      {% if page.created_date and page.no_date != true %}
-      <div class="created_date">{{ page.created_date | date: "%B %Y" }}</div>
-      {% endif %}
+      {% include footer.html %}
 
     </div>
 
@@ -52,3 +50,4 @@ layout: default
 <footer class="d-none d-print-block mt-5">
   Page saved on {{ "now" | date: "%Y-%m-%d" }}
 </footer>
+

@@ -3,6 +3,7 @@ layout: page
 tab: about
 released: true
 status: ready
+show_rss: true
 ---
 
 ## About this site
