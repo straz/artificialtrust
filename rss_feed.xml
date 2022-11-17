@@ -12,11 +12,11 @@ layout: null
   <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
   <generator>Jekyll v{{ jekyll.version }}</generator>
 
-  {% assign entries = site.articles | sort: "created_date" %}
-  {% for page in entries %}
-  {% if page.status != "ready" and site.show_draft == false %}
-  {% continue %}
-  {% endif %}
+  {%- assign entries = site.articles | sort: "created_date" -%}
+  {%- for page in entries -%}
+  {%- if page.status != "ready" and site.show_draft == false -%}
+  {%- continue -%}
+  {%- endif -%}
 
   <entry>
     <title>{{ page.title | xml_escape }}</title>
@@ -29,7 +29,7 @@ layout: null
     <summary>{{ excerpt_snip2[0] | remove: '<p>' | remove: '</p>' }}</summary>
     {% endif %}
 
-    <content>{{ page.content | xml_escape }}</content>
+    <content type="html">{{ page.content | xml_escape }}</content>
 
     <guid isPermaLink="true">{{ page.url | prepend: site.baseurl | prepend: site.url }}</guid>
     {% for tag in page.tags %}
