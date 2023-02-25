@@ -6,15 +6,19 @@ collections:
     output: true
   definitions:
     output: true
+  diseases:
+    output: true
 
 # Setup
-title:               Artificial Trust
-tagline:             On thinking
-url:                 https://artificialtrust.com
-secure:              true
-password:            norbert
-show_draft:	     false
+title: Artificial Trust
+tagline: On thinking
+url:     https://artificialtrust.com
+secure: true
+password: norbert
+show_draft: false
 include:
   - "_styles.css"
 exclude:
   - "*.mdx"
+plugins:
+  - jekyll-feed
