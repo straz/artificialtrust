@@ -104,6 +104,6 @@ signals end up polluting training sets for legit recognition.
 <!-- end_excerpt -->
 
 We rely on true signals for civic discourse, law enforcement,
-healthcare, and commerce. Mimicry and camouflage corrupts these true
+healthcare, and commerce. Mimicry and camouflage corrupt these true
 signals. A world where these true signals are corrupted cheaply,
 easily, and at scale is very, very unsafe.
