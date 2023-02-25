@@ -3,6 +3,7 @@ title: AIs can get diseases too
 layout: article
 created_date: 2022-08-07
 released: true
+arts: [pollution]
 status: ready
 show_home: true
 sort_order: 1
@@ -103,7 +104,7 @@ taxonomy helps us better understand unsafe AI conditions.  We can
 group artificial diseases into four broad categories:
 
 1. Data malnutrition
-: Ingestion of poorly prepared data, such as poor sampling and information pollution
+: Ingestion of poorly prepared data, such as poor sampling and [information pollution](pollution)
 
 2. Algorithmic parasites
 : Exploitative and hostile activity by adversaries, such as manipulation of ingested data

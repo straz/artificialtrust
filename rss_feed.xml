@@ -8,8 +8,8 @@ layout: null
   <description>{{ site.description | xml_escape }}</description>
   <link href="{{ '/rss_feed.xml' | prepend: site.baseurl | prepend: site.url }}"/>
   <author>Steve Strassmann</author>
-  <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-  <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+  <pubDate>{{ site.time | date: "%FT%R%:z"}}</pubDate>
+  <lastBuildDate>{{ site.time | date: "%FT%R%:z"}}</lastBuildDate>
   <generator>Jekyll v{{ jekyll.version }}</generator>
 
   {%- assign entries = site.articles | sort: "created_date" -%}
@@ -20,7 +20,9 @@ layout: null
 
   <entry>
     <title>{{ page.title | xml_escape }}</title>
-    <updated>{{ page.date | date_to_rfc822 }}</updated>
+    {% if page.created_date %}
+    <updated>{{ page.created_date | date: "%FT%R%:z" }}</updated>
+    {% endif %}
     <link>{{ page.url | prepend: site.baseurl | prepend: site.url }}</link>
 
     {% if page.content contains "<!-- start_excerpt -->" %}

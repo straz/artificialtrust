@@ -68,7 +68,7 @@ threat of termination to unethical AIs.
 
 Market forces are not sufficient for this task. We all know that a
 social media bot can be extremely unethical, and yet create enormous
-rewards for its [sponsor](sponsors). Unfortunately, any positive links
+rewards for its [sponsor](../definitions/sponsors). Unfortunately, any positive links
 between market rewards and ethical behavior are weak, if they exist at
 all. Any company that derives profit from an unethical AI has little
 incentive to limit its growth.
