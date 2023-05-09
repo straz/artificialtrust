@@ -68,10 +68,13 @@ it to recognize the input as a swan.
 
 ### Novelty is not welcome
 
+<!-- start_excerpt -->
 The Achilles' heel of a neural network is novelty. When an unfamiliar
 new input comes along &mdash; something that doesn't appear anywhere
 in its training set &mdash; an AI is trained to reject, not accept
-it. If the AI accepted the input, filing it into an existing category
+it.
+<!-- end_excerpt -->
+If the AI accepted the input, filing it into an existing category
 of known inputs, that would count against it as a false
 positive. Since it doesn't fit any of the training data, a black swan
 event will not fall into one of the model's pre-existing categories.

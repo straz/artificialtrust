@@ -1,66 +1,74 @@
 ---
-layout: default
-title: How labels work
-released: true
+layout: article
+title: "Privacy consent: raw ingredients vs the finished product"
+released: false
+created_date: 2022-11-05
+show_home: nottrue
+sort_order: 2
+released: nottrue
+status: notready
 ---
 
-[see: Privacy means control over labels]
+## Follow the money
+To protect your privacy better, it might be worth taking a moment to 
+follow the money. 
 
-# How labels work
+First, there are criminals who just want your details so they can
+impersonate you and rob you. They want your name, birthday, social
+security number, account ids, and passwords. These data help them gain
+direct access to your money. It's a very short list, and these data
+are high value.  By all means, lock them down as best as you can, and
+good luck with that.
 
-Minds are label machines. The labels are shorthand for what we
-recognize from our senses, and how we act with our bodies. In between
-recognition and action, how we store and arrange those labels defines
-how we think, remember, and plan.
+## The raw ingredients 
+But your digital privacy is about so much more than that, though.
+What about your blood pressure? Your Google search history? Your Netflix queue?
+The items you bought online and the ones you left behind in your cart?
 
-When others have a label for us, we are known to them. The label
-identifies us: we belong to a group. The group becomes our
-identity. We are no longer an individual, complex person with years of
-unique history, extended from a unique combination of 3 billion base
-pairs of DNA.  We are reduced - we become a handful of labels that the
-others can see.
+Once we get past passwords and credit card numbers, people have
+opinions about protecting your other digital records. You will
+struggle with HIPAA forms and click on "accept cookies" banners.
+You'll be asked to give consent... but for what exactly?
 
-Labels are about reduction: from a thousand shades of skin color, we
-may say "black" or "white."  From a complex political belief
-framework, we may say "liberal" or "conservative." And so it goes, the
-complex is reduced to a single word, whether it's religion,
-occupation, health status, gender identity, age, or wealth. One word,
-this label, is all that's needed to conjur a fully-formed image in
-your mind about a person. With four or five labels, we feel like we
-almost know the person well, and can predict what they will say or do.
+Criminals don't have the slightest interest in what your blood
+pressure was 3 months ago, or whether you googled a recipe for mixing
+a cosmopolitan.
 
-But we don't stop there, even this reduction is not enough. These
-group labels are further reduced to something we actually rely on,
-something much more utilitarian. These utilitarian labels are
-friend or enemy, good or bad, trustworthy or unreliable.
+These digital records are raw ingredients for a product. A very
+valuable product that 
 
-There aren't many utilitarian labels, but they have great power over
-all our social interactions.  They becomes the shorthand for how we
-treat others, and how others will treat us. We welcome friends and
-avoid enemies. We seek conversations with the trustworthy, and ignore
-what's said by the unreliable. 
 
-So labeling occurs in two steps: recognition and meaning. The first
-step, recognition, is when we infer race, occupation, age, or other
-group identity.  We see someone, recognize them in terms of a few
-succinct labels, and then we apply them. Recognizing a person turns
-them into "a pro football player," "an old white man," or "a poor
-young Christian female."
+Your clicks, your profile demographics are raw ingredients.  Before your
+private data is of any use to an advertiser, these raw ingredients are
+turned from
 
-Once we recognize, we apply meaning - by applying utilitarian
-labels. The utilitarian labels govern our decisionmaking. They tell us
-what we do next, how to act or react.
 
-We quickly make utilitarian assumptions about threat level, intent,
-and reliability. We each make these judgments based on our experience,
-i.e. our own prejudices and biases. Typically, "us" is safer than
-"them" - the more labels someone shares with us, the more we feel we
-can safely be closer to them, trust them, and work with them.
+## The finished product
 
-The emerging AI industry is about the automation of decisionmaking.
-We as a society are building AIs that infer utilitarian labels at
-industrial scale and act on them.
+What I'm talking about here is commercial exploitation of your digital history.
+The world of ad targeting is big. Global digital ad spending in 2021 was estimated
+at around $521 billion. But first, before you can be targeted, you have to be labeled.
 
-We are building machines that decide which people are trustworthy or
-unreliable, which people are good or bad, and which people are friends
-or enemies.
+Take a moment and look at it from the perspective of the advertisers
+who are handing over that $521 billion. They're not doing it out of
+charity. They're doing it because they think they're getting value for
+the money they spend.
+
+
+
+Targeting affinity
+
+
+There is a disconnect between consent and use.
+
+The battles over privacy 
+
+
+
+Data are the raw ingredients for 
+
+The right labels
+follow the money
+consent
+ad-targeting firms
+labels, profiles

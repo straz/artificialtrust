@@ -109,7 +109,7 @@ group artificial diseases into four broad categories:
 2. Algorithmic parasites
 : Exploitative and hostile activity by adversaries, such as manipulation of ingested data
 
-3. Fitness drift
+3. [Fitness drift](fitness-drift)
 : Environmental novelty, aging, and reproductive flaws in neural net models
 
 4. Recognition diseases
