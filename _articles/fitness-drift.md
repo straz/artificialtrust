@@ -14,7 +14,7 @@ with. It's scoring fabulously well on every test we give it."
 
 Being fit doesn't last forever. Even a well-trained AI can only be
 well-trained on the training data fed to it. As the world continues to
-evolve, unless the AI continues to evolve along with it, it will get
+evolve, unless an AI continues to evolve along with it, the AI will get
 left behind.
 
 Fitness drift describes what happens when an AI starts to get out of
@@ -23,8 +23,20 @@ moves along beyond what the AI was trained on, or the AI is modified
 (due to accident or manipulation) in ways that move it away from
 fitting in with the world, or both.
 
+### The world is full of surprises
 
+Data models and AIs have been used for many years to predict consumer
+demand and plan industrial capacity.  Whether you're in the travel
+business, the commercial real estate business, or even in the candy
+business, predicting the future helps you use capital efficiently, and
+make wise investment decisions.
 
+Before COVID, all the top companies in these and many other industries
+used AI models to plan their budgets. Within a few months, it became
+apparent that none of those models were even remotely applicable to
+the COVID world we all found ourselves in. When the circumstances are
+new and different, a high-scoring well-trained AI is pretty much
+useless.
 
 ### Practice makes permanent
 
@@ -47,14 +59,13 @@ recognize it as a swan.
 
 ### Novelty is not welcome
 
-The Achilles' heel of neural networks is novelty. When an unfamiliar
+The Achilles' heel of a neural network is novelty. When an unfamiliar
 new input comes along &mdash; something that doesn't appear anywhere
 in its training set &mdash; an AI is trained to reject, not accept
 it. If the AI accepted the input, filing it into an existing category
 of known inputs, that would count against it as a false
 positive. Since it doesn't fit any of the training data, a black swan
-event will not fall into one of the model's pre-existing
-categories.
+event will not fall into one of the model's pre-existing categories.
 
 
 So, the first requirement of a well-trained AI is to ensure it rejects
@@ -99,6 +110,9 @@ made quickly and confidently, but never justified.  The closest you
 might get to an explanation is a vague indication that some input
 resembles past inputs. This is of course how prejudice and intolerance
 work: the only explanation is "everyone just knows this is true."
+
+
+
 
 
 ### So what
