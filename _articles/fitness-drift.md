@@ -7,6 +7,15 @@ released: true
 status: ready
 ---
 
+{% include figure.html
+   filename="uglyduckling.png"
+   caption="Training an AI teaches it to reject black swan events."
+   attribution="The Ugly Duckling, illust. by Theo Van Hoytema (1893)"
+   imgclass="col-md-6"
+   captionclass="ml-4"
+   link="https://literature.fandom.com/wiki/The_Ugly_Duckling" %}
+
+
 There may be a moment when your new AI seems to be perfectly
 trained. You might feel inclined to say "This AI is fit and ready for
 production!  It's perfectly adapted to the world it needs to deal
@@ -31,12 +40,12 @@ business, the commercial real estate business, or even in the candy
 business, predicting the future helps you use capital efficiently, and
 make wise investment decisions.
 
-Before COVID, all the top companies in these and many other industries
-used AI models to plan their budgets. Within a few months, it became
-apparent that none of those models were even remotely applicable to
-the COVID world we all found ourselves in. When the circumstances are
-new and different, a high-scoring well-trained AI is pretty much
-useless.
+Before 2020, all the top companies in these and many other industries
+used high-scoring well-trained AI models to plan their budgets. Within
+a few months, it became apparent that none of those models were even
+remotely applicable to the COVID world we all found ourselves in. When
+the circumstances are new and different, a high-scoring well-trained
+AI is pretty much useless.
 
 ### Practice makes permanent
 
@@ -52,8 +61,8 @@ situation it might encounter is one of those that it has been trained
 on.
 
 If a rare and unforeseen event occurs, the AI has no powers of reason
-to fall back on. If it sees a black swan[^1], it won't be able to
-recognize it as a swan.
+to fall back on. If it sees a black swan[^1], its training won't allow
+it to recognize the input as a swan.
 
 [^1]: Nassim Nicholas Taleb. [*The Black Swan*](https://www.penguinrandomhouse.com/books/176226/the-black-swan-second-edition-by-nassim-nicholas-taleb/). Random House Trade Paperbacks, 2010.
 
@@ -71,15 +80,6 @@ event will not fall into one of the model's pre-existing categories.
 So, the first requirement of a well-trained AI is to ensure it rejects
 patterns that don't fit the training set. The stronger the rejection,
 the better the AI's score.
-
-{% include figure.html
-   filename="uglyduckling.png"
-   caption="Training an AI teaches it to reject black swan events."
-   attribution="The Ugly Duckling, illust. by Theo Van Hoytema (1893)"
-   imgclass="col-md-6"
-   captionclass="ml-4"
-   link="https://literature.fandom.com/wiki/The_Ugly_Duckling" %}
-
 
 Generative AI is designed to plagiarize and rehash material that it
 has been given, but what it creates is not original. Originality is a
