@@ -95,7 +95,9 @@ combinations is quite different from comprehending meaning and
 recognizing usefulness.
 
 If a signal doesn't appear in the training set, it will not appear in
-the output with any significant strength or confidence.
+the output with any significant strength or confidence. This is known
+as *inductive bias*: the bias to only accept the patterns from
+training, as if nothing else matters.
 
 This means that novelty is a frontier for AIs. It sets a distinct
 limitation on what they are capable of, and that is where we should
