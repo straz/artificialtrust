@@ -102,9 +102,9 @@ unsafe. These tests should be designed with three principles in mind:
  1. **Coverage** &mdash; The tests should cover a gamut of conditions
  where an AI could act in a potentially unethical or harmful way.
 
- 2. **Effectiveness** &mdash; For all AIs which fail to pass the test,
- prevent their deployment where their decisions can affect real
- people.
+ 2. **Effectiveness** &mdash; Consequences need to be firm when an
+ AI's actions affect people's lives.  Selective pressure on AIs means
+ deployment must be prevented if they fail the tests.
 
  3. **Integrity** &mdash; The sponsors of the AIs (owners, operators,
    and engineers) should not have any kind of influence over the
