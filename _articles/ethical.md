@@ -103,7 +103,7 @@ unsafe. These tests should be designed with three principles in mind:
  where an AI could act in a potentially unethical or harmful way.
 
  2. **Effectiveness** &mdash; Consequences need to be firm when an
- AI's actions affect people's lives.  Selective pressure on AIs means
+ AI potentially affects people's lives.  Selective pressure on AIs means
  deployment must be prevented if they fail the tests.
 
  3. **Integrity** &mdash; The sponsors of the AIs (owners, operators,
