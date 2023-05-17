@@ -16,9 +16,9 @@ Trust
 
 
   A saved memory is considered trustworthy (or not) by the *trust
-  recognizer*.  In general, we trust our memories. The trust recognizer
-  usually says "trustworthy," which is why all intelligences have
-  confirmation bias.
+  recognizer*.  In general, we trust our memories, i.e. the trust
+  recognizer usually says "this memory is trustworthy." This is why
+  all intelligences have confirmation bias.
 
   Without trust, an intelligence would become paralyzed by indecision.
   Any one decision could potentially take infinite effort, since every
