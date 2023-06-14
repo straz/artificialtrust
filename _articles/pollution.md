@@ -48,7 +48,9 @@ turn amplifies a weak signal that wasn't even mine to begin with.
 
 In a healthy ecosystem, one should avoid consumption of one's own
 waste product as a food source. But that is precisely what our
-generative AIs are doing.
+generative AIs are doing.[^1]
+
+[^1]: "We find that use of model-generated content in training causes irreversible defects in the resulting models", in [*The Curse of Recursion: Training on Generated Data Makes Models Forget*](https://arxiv.org/abs/2305.17493)
 
 My role as a living information-generating host is hardly necessary
 for pollution to thrive. There are plenty of incubators where
