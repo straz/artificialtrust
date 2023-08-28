@@ -42,16 +42,14 @@ cloud computing. He was CTO of Flipkey, a subsidiary of TripAdvisor.
 He served as CTO of the Commonwealth of Massachusetts, leading
 bipartisan efforts to digitally transform state government.
 
-Steve was Entrepreneur in Residence at the Dept. of Biomedical
-Informatics at Harvard Medical School, and a visiting scientist in the
-Dept. of Genetics and the Wyss Institute.  His research interests
-include applications of synthetic biology to solving problems of
-security, identity, and data integrity at the molecular level.
+Steve mentors entrepreneurs at the Harvard iLab. He was Entrepreneur
+in Residence at the Dept. of Biomedical Informatics at Harvard Medical
+School, and a visiting scientist in the Dept. of Genetics and the Wyss
+Institute.  His research interests include applications of synthetic
+biology to solving problems of security, identity, and data integrity,
+as well as the classification of diseases which afflict genetic
+algorithms.
 
-Steve's advisory roles include Healthcare Financial, Inc., the Harvard
-iLab, and the Technology and Public Purpose Project at the Harvard
-Kennedy School.
-
-Steve has received three degrees from MIT including a PhD from the MIT
-Media Lab for work in artificial intelligence, as an advisee of Marvin
-Minsky. He holds 5 patents.
+Steve is an inventor on 7 patents, and has received three degrees from
+MIT including a PhD from the MIT Media Lab for work in artificial
+intelligence, as an advisee of Marvin Minsky.
