@@ -90,9 +90,11 @@ sliding scale, and generative AI tends to work best at the
 "non-original" end of that scale. It does a great job of drawing faces
 with different noses (&hellip;and only if those noses are supplied as
 a large facial database). It can't come up with something wholly
-original like E=MC<sup>2</sup>. Swapping terms around in plausible
-combinations is quite different from comprehending meaning and
-recognizing usefulness.
+original like E=MC<sup>2</sup>, at least not with any clue as to
+whether it was true or not. The AI can swap terms around to derive
+billions of plausible and similar-looking combinations. But it can't
+reason, comprehend meaning, or recognize the significance of that
+equation.
 
 If a signal doesn't appear in the training set, it will not appear in
 the output with any significant strength or confidence. This is known
