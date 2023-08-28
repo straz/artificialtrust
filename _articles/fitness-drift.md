@@ -84,6 +84,17 @@ So, the first requirement of a well-trained AI is to ensure it rejects
 patterns that don't fit the training set. The stronger the rejection,
 the better the AI's score.
 
+Some AIs have been trained to produce extremely clever and original
+solutions to very tough problems. They have surpassed human
+performance in diverse fields, from playing chess and go to protein
+folding.  Each of these solutions are findable because the problems
+can be stated in terms of an objective function. This is a stable
+score that is readily computable and which distinguishes "good"
+solutions from "bad" ones. But cognition in the real world often does
+not have a readily computable objective function. AIs do not find
+solutions when the goals are subjective, and success is not readily
+computable.
+
 Generative AI is designed to plagiarize and rehash material that it
 has been given, but what it creates is not original. Originality is a
 sliding scale, and generative AI tends to work best at the
