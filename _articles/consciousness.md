@@ -101,6 +101,12 @@ analyze what others are up to. It started off as a trick to make
 hunters better at hunting, but eventually it gave us the ability to
 reflect on what we're doing and why we're doing it.
 
+The thing about consciousness is that it feels vivid. This vividness
+of the experience is not sophisticated or transcendent. It didn't
+arrive late in the evolution of our brain, after we developed reason
+and reflection. It arose much earlier, accompanying the invention of
+appetite and instinctive drive.
+
 When will our AIs gain consciousness? The answer is clear: our AIs
 will be conscious when we start tasking them to reflect on their
 models of self, and start to use reason (and not just pattern
