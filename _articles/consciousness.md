@@ -3,7 +3,6 @@ layout: article
 title: Where consciousness comes from
 released: true
 status: ready
-show_home: true
 created_date: 2023-11-06
 excerpt_separator: <ex>
 ---
