@@ -53,7 +53,7 @@ detect outsiders. Historically, we bond with members of our family and
 our tribe, those who resemble ourselves. We stick together for safety
 and survival.
 
-In modern times, security systems use ID badges and passwords
+In modern times, security systems use ID badges and passwords to
 distinguish between "us" and "them." In polarized social media, we
 proclaim our loyalties as virtues.  We instantly recognize and assign
 "us" and "them" labels to everyone we encounter. At the Thanksgiving
