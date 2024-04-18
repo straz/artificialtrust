@@ -31,13 +31,14 @@ from them.
 
 ## About the author
 
-Steve Strassmann is currently a software engineer at Benchling, a data
-platform for biotech research.
+Steve Strassmann is currently a software engineer at Overjet.ai, a company
+applying AI to healthcare.
 
 Steve was a founder of two venture-backed startups, and has held
-senior engineering roles at Kyruus, Apple, Orange/France Telecom, and
-VMware, leading commercial projects at the forefront of mobile and
-cloud computing. He was CTO of Flipkey, a subsidiary of TripAdvisor.
+senior engineering roles at Benchling, Kyruus, Apple, Orange/France
+Telecom, and VMware, leading commercial projects at the forefront of
+mobile, cloud computing, and healthtech. He was CTO of Flipkey, a
+subsidiary of TripAdvisor.
 
 He served as CTO of the Commonwealth of Massachusetts, leading
 bipartisan efforts to digitally transform state government.
