@@ -48,7 +48,7 @@ in Residence at the Dept. of Biomedical Informatics at Harvard Medical
 School, and a visiting scientist in the Dept. of Genetics and the Wyss
 Institute.  His research interests include applications of synthetic
 biology to solving problems of security, identity, and data integrity,
-as well as the classification of diseases which afflict genetic
+as well as the classification of pathologies which afflict learning
 algorithms.
 
 Steve is an inventor on 7 patents, and has received three degrees from
