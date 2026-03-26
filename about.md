@@ -20,7 +20,7 @@ of the problems we wish to understand better are:
 
 * *health*: why is it so hard to defeat cancer and autoimmune diseases?
 * *society*: why is it so hard to defeat corruption and civic division?
-* *AI*: why is it so hard to defeat bias and lack of transparency?
+* *AI*: why is it so hard to make them trustworthy and accountable?
 
 When the systems we depend on fail, the ways in which
 they fail often have similarities. An interdiciplinary understanding
