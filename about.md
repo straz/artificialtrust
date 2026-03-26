@@ -31,8 +31,11 @@ from them.
 
 ## About the author
 
-Steve was a founder of two venture-backed startups, and has held
-senior engineering roles at Apple, Benchling, Kyruus, Overjet.ai,
+Steve is the founder and CEO of [Longreach](https://longreach.ai), a
+platform for supervising AIs.
+
+Steve founded two other venture-backed startups, and has held senior
+engineering roles at Apple, Benchling, Kyruus, Overjet.ai,
 Orange/France Telecom, TripAdvisor, and VMware, leading commercial
 projects at the forefront of mobile, cloud computing, and healthtech.
 
