@@ -32,7 +32,7 @@ from them.
 ## About the author
 
 Steve is the founder and CEO of [Longreach](https://longreach.ai), a
-platform for supervising AIs.
+platform for supervising AIs to assure their functional integrity.
 
 Steve founded two other venture-backed startups, and has held senior
 engineering roles at Apple, Benchling, Kyruus, Overjet.ai,
@@ -47,8 +47,7 @@ in Residence at the Dept. of Biomedical Informatics at Harvard Medical
 School, and a visiting scientist in the Dept. of Genetics and the Wyss
 Institute.  His research interests include applications of synthetic
 biology to solving problems of security, identity, and data integrity,
-as well as the classification of pathologies which afflict learning
-algorithms.
+as well as the classification of AI malfunctions and pathologies.
 
 Steve is an inventor on 7 patents, and has received three degrees from
 MIT including a PhD from the MIT Media Lab for work in artificial
