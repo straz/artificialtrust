@@ -11,7 +11,7 @@ defs: [delicious]
 ### When emotion > reason
 
 When reason and emotion are in conflict, emotion's role is to add bias
-the outcome. Emotion modifies decisions, making them either softer or
+to the outcome. Emotion modifies decisions, making them either softer or
 harder than decisions you'd make using reason alone.
 
 Emotion is about immediacy; it removes hesitation. For both experts
