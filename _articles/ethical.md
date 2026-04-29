@@ -145,7 +145,7 @@ arise.
 ### So what
 
 Ethical principles are nice to have, but they’re
-[discarded](https://gizmodo.com/google-removes-nearly-all-mentions-of-dont-be-evil-from-1826153393)
+[discarded](https://time.com/4060575/alphabet-google-dont-be-evil)
 easily in the face of other pressures. The challenge we face is not
 just the design of ethical AIs. The real challenge is the design of
 the institutions that watch over them &mdash; to provide corrective
