@@ -9,6 +9,10 @@ collections:
   diseases:
     output: true
 
+sass:
+  sass_dir: _sass
+  style: compressed # Optional: keeps your production file small
+
 # Setup
 title: Artificial Trust
 tagline: On thinking
