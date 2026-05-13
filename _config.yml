@@ -16,8 +16,6 @@ url:     https://artificialtrust.com
 secure: true
 password: norbert
 show_draft: false
-include:
-  - "_styles.css"
 exclude:
   - "*.mdx"
 plugins:
