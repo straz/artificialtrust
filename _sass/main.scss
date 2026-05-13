@@ -49,10 +49,12 @@ body {
 }
 
 div h4 a, a, a.btn-link {
-  color: color.adjust(rebeccapurple, $lightness: -5%);
+  /* color: color.adjust(rebeccapurple, $lightness: -5%);*/
+  color: darken(rebeccapurple, 5%);
   text-decoration: none;
   &:hover {
-    color: color.adjust(rebeccapurple, $lightness: -15%);
+    /* color: color.adjust(rebeccapurple, $lightness: -15%); */
+    color: darken(rebeccapurple, 15%);    
     text-decoration: underline;
   }
 }
@@ -159,7 +161,8 @@ footer {
     border-radius: 3px;
   }
   .bg-indigo {
-    background-color: color.adjust(rebeccapurple, $lightness: 20%);
+    /* background-color: color.adjust(rebeccapurple, $lightness: 20%);*/
+    background-color: lighten(rebeccapurple, 20%);
     color: white;
   }
 }
