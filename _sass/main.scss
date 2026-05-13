@@ -1,5 +1,7 @@
+@use "sass:color";
 @import url('https://fonts.googleapis.com/css?family=Lato:300,400&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Spectral:200,200i,300,300i,400,400i,500,500i,600,700&display=swap');
+
 
 $text-color: #111;
 $bg-color: #fffff8;
@@ -47,10 +49,10 @@ body {
 }
 
 div h4 a, a, a.btn-link {
-  color: darken(rebeccapurple, 5%);
+  color: color.adjust(rebeccapurple, $lightness: -5%);
   text-decoration: none;
   &:hover {
-    color: darken(rebeccapurple, 15%);
+    color: color.adjust(rebeccapurple, $lightness: -15%);
     text-decoration: underline;
   }
 }
@@ -157,7 +159,7 @@ footer {
     border-radius: 3px;
   }
   .bg-indigo {
-    background-color: lighten(rebeccapurple, 20%);
+    background-color: color.adjust(rebeccapurple, $lightness: 20%);
     color: white;
   }
 }
