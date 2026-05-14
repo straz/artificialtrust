@@ -1,5 +1,27 @@
-# Permalinks
-permalink:           p/:title
+title: Artificial Trust
+tagline: On thinking
+url: "https://artificialtrust.com"
+
+# Build settings
+markdown: kramdown
+theme: null
+highlighter: rouge
+secure: true
+password: norbert
+show_draft: false
+
+# Markdown options
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge
+
+# Directories
+source: .
+destination: ./_site
+includes_dir: _includes
+layouts_dir: _layouts
+
 
 collections:
   articles:
@@ -9,18 +31,30 @@ collections:
   diseases:
     output: true
 
+# Sass handled externally (Dart Sass), so disable Jekyll’s Sass processing
 sass:
-  sass_dir: _sass
-  style: compressed # Optional: keeps your production file small
+  style: compressed
+  load_paths:
+    - assets/scss
 
-# Setup
-title: Artificial Trust
-tagline: On thinking
-url:     https://artificialtrust.com
-secure: true
-password: norbert
-show_draft: false
-exclude:
-  - "*.mdx"
+# Plugins (all safe for GitHub Actions)
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude files from the build
+exclude:
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .github
+  - assets/scss # SCSS compiled separately by Dart Sass
+  - _definitions/MDX
+
+# Permalinks
+permalink: p/:title
+
