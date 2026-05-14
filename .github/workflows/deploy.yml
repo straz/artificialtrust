@@ -38,7 +38,7 @@ jobs:
         run: bundle exec jekyll build
 
       - name: Compile SCSS with Dart Sass
-        run: npx sass assets/scss:assets/css --no-source-map --load-path=_sass
+        run: npx sass assets/scss:assets/css --no-source-map --load-path="${{ github.workspace }}/_sass"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
