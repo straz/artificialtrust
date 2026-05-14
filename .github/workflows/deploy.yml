@@ -37,6 +37,9 @@ jobs:
       - name: Build Jekyll site
         run: bundle exec jekyll build
 
+      - name: Debug directory
+        run: ls -R .
+
       - name: Compile SCSS with Dart Sass
         run: npx sass assets/scss:assets/css --no-source-map --load-path="${{ github.workspace }}/_sass"
 
