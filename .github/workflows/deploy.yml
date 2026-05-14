@@ -34,14 +34,14 @@ jobs:
       - name: Install Dart Sass
         run: npm install -D sass
 
-      - name: Build Jekyll site
-        run: bundle exec jekyll build
-
-      - name: Debug directory
-        run: ls -R .
-
       - name: Compile SCSS with Dart Sass
         run: npx sass assets/scss:assets/css --no-source-map --load-path="${{ github.workspace }}/_sass"
+
+      - name: Debug CSS output
+        run: ls -R assets/css
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
