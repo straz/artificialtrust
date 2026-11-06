@@ -1,4 +1,4 @@
-name: Build and Deploy Jekyll with Modern Sass
+name: Build and Deploy Jekyll
 
 on:
   push:
@@ -25,20 +25,6 @@ jobs:
         with:
           ruby-version: "3.4"
           bundler-cache: true
-
-      - name: Install Node (for Dart Sass)
-        uses: actions/setup-node@v4
-        with:
-          node-version: "26"
-
-      - name: Install Dart Sass
-        run: npm install -D sass
-
-      - name: Compile SCSS with Dart Sass
-        run: npx sass assets/scss:assets/css --no-source-map --load-path="${{ github.workspace }}/_sass"
-
-      - name: Debug CSS output
-        run: ls -R assets/css
 
       - name: Build Jekyll site
         run: bundle exec jekyll build

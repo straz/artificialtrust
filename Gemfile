@@ -1,24 +1,12 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll"
 
-# Core Jekyll
-#gem "jekyll", "~> 4.3"
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
+end
 
-# Disable old Sass engine and allow external Dart Sass
-#gem "jekyll-sass-converter", "~> 3.0"
-
-# Common plugins (safe for GitHub Actions)
-#gem "jekyll-feed", "~> 0.17"
-#gem "jekyll-seo-tag", "~> 2.8"
-#gem "jekyll-sitemap", "~> 1.4"
-
-# Optional: Markdown engine
-#gem "kramdown", "~> 2.4"
-#gem "kramdown-parser-gfm", "~> 1.1"
-
-# Optional: Live reload for local development
-#group :development do
-#  gem "webrick", "~> 1.8"
-#  gem "jekyll-watch", "~> 2.2"
-#end
+# Needed by `jekyll serve` on Ruby 3+
+gem "webrick"

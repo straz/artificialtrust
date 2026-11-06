@@ -31,11 +31,9 @@ collections:
   diseases:
     output: true
 
-# Sass handled externally (Dart Sass), so disable Jekyll’s Sass processing
+# Sass compiled by Jekyll (Dart Sass via jekyll-sass-converter 3)
 sass:
   style: compressed
-  load_paths:
-    - assets/scss
 
 # Plugins (all safe for GitHub Actions)
 plugins:
@@ -46,13 +44,13 @@ plugins:
 # Exclude files from the build
 exclude:
   - node_modules
+  - vendor
   - package.json
   - package-lock.json
   - Gemfile
   - Gemfile.lock
   - README.md
   - .github
-  - assets/scss # SCSS compiled separately by Dart Sass
   - _definitions/MDX
 
 # Permalinks
